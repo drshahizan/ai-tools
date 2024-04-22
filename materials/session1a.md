@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-FC" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-FC" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-FC" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
 <img src="/images/slr_stage1basstaff.jpeg"  height="400" /> <img src="/images/slr_stage1basstu.jpeg"  height="400" /> 
@@ -19,7 +19,7 @@ Welcome to SLR Workshop! We are thrilled to embark on this exciting learning jou
    All teaching materials will be available on my GitHub account. Please **follow** [this link](https://github.com/drshahizan) to access the materials.
 
 ### 3. Fork and Star Repository
-   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/SLR-FC). We will be using this repository extensively.
+   To kick off our first meeting, please **fork** and **star** the repository available [here](https://github.com/drshahizan/ai-tools). We will be using this repository extensively.
 
 ### 4. Complete Information Form
    Please fill in 🧑‍💻 your details in the provided Google Sheets document: [Student](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=1885871540) and [Lecturer](https://docs.google.com/spreadsheets/d/1O8WQF5og-kMD-ITbdSuULYJsoF2bqt8xpizaTeMuYpc/edit#gid=905650697).
@@ -74,7 +74,7 @@ Managing a systematic review is a complex process that requires careful planning
 Text summarizers like Elicit, SciSpace, QuillBot, Wordtune, Scholarcy, Resoomer, and TLDR This help make long content shorter. They use smart technology to pick out important information and create brief summaries. Elicit is good for summarizing web pages, SciSpace focuses on science stuff, QuillBot can rewrite and summarize, Wordtune helps with writing, Scholarcy is for academic papers, Resoomer works for various content, and TLDR This quickly summarizes articles and documents. These tools save time and make information easier to understand by getting to the main points.
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

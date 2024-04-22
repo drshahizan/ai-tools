@@ -1,12 +1,12 @@
-<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-FC" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-FC" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-FC" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 <p align="center">
-<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage2a.jpeg"  height="400" />  <img src="https://github.com/drshahizan/SLR-FC/blob/main/images/slr_stage2b.jpeg"  height="400" />
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/slr_stage2a.jpeg"  height="400" />  <img src="https://github.com/drshahizan/ai-tools/blob/main/images/slr_stage2b.jpeg"  height="400" />
 </p>
 
 # Session 2
@@ -65,7 +65,7 @@ This includes defining the main research questions of the literature review, def
 [A Systematic Literature Review on Feature Selection for Machine Learning based Attack Classification for IoT Security](https://github.com/drshahizan/research-material/blob/main/SLR/lijing/A%20Systematic%20Literature%20Review%20on%20Feature%20Selection%20for%20Machine%20Learning%20based%20Attack%20Classification%20for%20IoT%20Security_2023-02-19.pdf)
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

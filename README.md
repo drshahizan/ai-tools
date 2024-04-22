@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-FC" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-FC" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-FC" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Unlocking Scholarly Insights: How AI Enhances Literature Reviews
 
@@ -19,15 +19,15 @@ This is an excellent opportunity to be part of the future of academic research, 
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
-| 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 3.   | Research Gaps | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 4.   | Paper Discovery | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 5.   | Paper Visualization | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 6.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 7.   | Text Summarizers | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 8.   | Journal Matching | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 9.   | Citation Management | <a href="https://github.com/drshahizan/SLR-FC/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 3.   | Research Gaps | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 4.   | Paper Discovery | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 5.   | Paper Visualization | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 6.   | Chatbot and Assistance | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 7.   | Text Summarizers | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 8.   | Journal Matching | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 9.   | Citation Management | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Download
 1. [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](./images/paper1.pdf)
@@ -62,7 +62,7 @@ This is an excellent opportunity to be part of the future of academic research, 
 |||[Sora](https://openai.com/sora)|
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 

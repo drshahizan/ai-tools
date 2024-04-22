@@ -1,9 +1,9 @@
-<a href="https://github.com/drshahizan/SLR-FC/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/SLR-FC" alt="Stars Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/network/members"><img src="https://img.shields.io/github/forks/drshahizan/SLR-FC" alt="Forks Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC"><img src="https://img.shields.io/github/issues-pr/drshahizan/SLR-FC" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/issues"><img src="https://img.shields.io/github/issues/drshahizan/SLR-FC" alt="Issues Badge"/></a>
-<a href="https://github.com/drshahizan/SLR-FC/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/SLR-FC?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2FSLR-FC&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Systematic literature review (SLR) is a method of reviewing and synthesizing existing literature on a specific topic or research question in a rigorous and transparent way¹. Obsidian is a private and flexible writing app that allows you to store and organize your notes on your device, with hundreds of plugins and themes to customize your workflow².
 
@@ -22,7 +22,7 @@ You can use Obsidian to conduct a SLR by following these steps:
 These are some of the plugins that can help you with your SLR project, but you can also explore other plugins and themes that suit your needs and preferences. You can find more information and tutorials on how to use Obsidian and its plugins on their [website](https://obsidian.md/) and [forum]. 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/SLR-FC/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
