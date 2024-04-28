@@ -5,13 +5,10 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Unlocking Scholarly Insights: How AI Enhances Literature Reviews
+# AI tools for Literature Review
 
 <p align="center">
 <img src="/images//poster_ai-tools.jpeg"  height="250" />
-</p>
-
-<p align="center">
 <img src="/images/dorsu.jpeg"  height="250" />
 </p>
 
