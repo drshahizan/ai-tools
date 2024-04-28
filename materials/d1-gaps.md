@@ -9,6 +9,7 @@
 
 | **AI Tool** | **Description** |
 | --- | --- |
+| **[Think Machine](https://thinkmachine.com/)** | Think Machine is a powerful 3d mind mapper with AI built in. It's the best way to visualize your thoughts and research new ideas. |
 | **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
 | **[Research Buddy](https://researchbuddy.app/search)** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. |
 | **[Research Rabbit](https://www.researchrabbit.ai/)** | Research Rabbit is a research discovery tool that helps you find new, connected papers using a visual graph. You can essentially create maps around metadata, which helps you not only explore similar papers but also connections between them.  |
