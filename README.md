@@ -19,10 +19,10 @@ But AI's impact extends beyond mere information retrieval. It also streamlines t
 
 ## AI Tools
 
-| No. | Content                                             | File | 
-|----: |----------------------------------------------------|------|
-| 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Generative AI prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| No. | Topic                                             | Content | File | 
+|----: |----------------------------------------------------|------|------|
+| 1.   | Top Computer Science Literature Databases | This tool provides access to prominent databases containing computer science literature. Researchers and academics can explore relevant papers, articles, and research findings in the field of computer science. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Generative AI prompt: ChatGPT, CoPilot, Gemini | These generative AI models assist in creating human-like text based on given prompts. Whether you need chat responses, code snippets, or creative content, these tools can generate it for you. |<a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 3.   | Research Gaps | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 4.   | Paper Discovery | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Paper Visualization | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
