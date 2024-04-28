@@ -12,16 +12,17 @@
 <img src="/images/dorsu.jpeg"  height="250" />
 </p>
 
-JOIN US on April 22nd for the 2024 Research Colloquium, with the theme 'Unlocking Scholarly Insights: How AI Enhances Literature Reviews.' This event aims to enhance research proposals, foster a culture of innovation, and facilitate skills development among participants. It will feature resource speaker Assoc. Prof. Dr. Mohd Shahizan Othman from Universiti Teknologi Malaysia.
-Dr. Shahizan, an Associate Professor at Universiti Teknologi Malaysia (UTM), is passionate about education and research. With a focus on information retrieval, data mining, machine learning, and more, he's published numerous highly cited research papers. Dr. Shahizan actively contributes to the open-source community by creating courses and resources like "Research Design and Analysis in Data Science" and "Big Data Management." Renowned as an AI research expert, he conducts lectures at UTM and international universities.
-This is an excellent opportunity to be part of the future of academic research, so don't miss out!
+Within the field of computer science research, AI is revolutionizing the process of literature research. Gone are the days of tedious manual searches – **AI-powered literature search tools** use advanced algorithms to find the most relevant studies that match your initial query, ensuring a thorough understanding of the existing knowledge base. This is further enhanced by **AI-powered research gap analysis**, which meticulously analyzes the current literature to uncover under-researched areas or emerging questions within your specific topic. This allows you to create a literature review that provides a truly holistic picture of the subject area.
+
+However, the impact of AI goes beyond gathering information gathering. Simplifying the writing process is another important area. **AI-powered chatbot assistants** provide invaluable help in structuring your review and give constructive feedback on your drafts. This gives you access to a virtual writing coach who will provide you with advice and support. In addition, **KI-powered text summarization tools** condense long essays into concise summaries from which you can easily extract the most important information for your review. Finally, **AI-powered journal matching tools** take the guesswork out of publishing by analyzing your research focus and target audience and recommending appropriate academic journals to maximize your chances of successful publication.
+
 
 ## AI Tools
 
 | No. | Content                                             | File | 
 |----: |----------------------------------------------------|------|
 | 1.   | Top Computer Science Literature Databases | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
+| 2.   | Generative AI prompt: ChatGPT, CoPilot, Gemini | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 3.   | Research Gaps | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 4.   | Paper Discovery | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 | 5.   | Paper Visualization | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
