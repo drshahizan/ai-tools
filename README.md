@@ -8,7 +8,11 @@
 # Unlocking Scholarly Insights: How AI Enhances Literature Reviews
 
 <p align="center">
-<img src="/images/dorsu.jpeg"  height="500" />
+<img src="/images//poster_ai-tools.jpeg"  height="300" />
+</p>
+
+<p align="center">
+<img src="/images/dorsu.jpeg"  height="300" />
 </p>
 
 JOIN US on April 22nd for the 2024 Research Colloquium, with the theme 'Unlocking Scholarly Insights: How AI Enhances Literature Reviews.' This event aims to enhance research proposals, foster a culture of innovation, and facilitate skills development among participants. It will feature resource speaker Assoc. Prof. Dr. Mohd Shahizan Othman from Universiti Teknologi Malaysia.
