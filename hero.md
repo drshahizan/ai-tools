@@ -30,7 +30,6 @@ This workshop serves as an introduction to artificial intelligence (AI) technolo
 |             | 1-2 pm      | Lunch                                |                                                                                             |
 |             | 2-4:30 pm   | 3. Finalizing and Publishing        | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
 
-Please let me know if you need any further modifications or details.
 
 
 ## AI Tools
