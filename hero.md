@@ -7,9 +7,7 @@
 
 # HIGHER EDUCATION RESEARCH OPTIMIZATION  FOR INDEX PUBLICATION 2024 (HERO 2024)
 
-In the realm of computer science research, **AI is reshaping the landscape of literature exploration**. The days of laborious manual searches are fading into the past. Instead, **AI-powered literature search tools** wield sophisticated algorithms to swiftly unearth studies that align with your initial query, ensuring a comprehensive grasp of existing knowledge. This transformative process is further augmented by **AI-driven research gap analysis**, meticulously scrutinizing current literature to reveal underexplored domains and emerging inquiries within your specific field. The result? A literature review that paints a truly panoramic view of the subject matter.
-
-But AI's impact extends beyond mere information retrieval. It also streamlines the writing journey. Enter **AI-powered chatbot assistants**, your virtual writing companions. They deftly structure your review and offer constructive feedback on drafts, akin to having a personal writing coach by your side. Moreover, **AI-powered text summarization tools** distill lengthy essays into succinct summaries, allowing you to extract vital nuggets for your review effortlessly. And when it comes to publishing, **AI-powered journal matching tools** eliminate guesswork. They analyze your research focus and target audience, recommending suitable academic journals to enhance your chances of successful publication. 📚✨
+This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
 
 ## Workshop Schedule
 | Day         | Time        | Focus Area                           | Details                                                                                     |
