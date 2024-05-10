@@ -11,6 +11,29 @@ In the realm of computer science research, **AI is reshaping the landscape of li
 
 But AI's impact extends beyond mere information retrieval. It also streamlines the writing journey. Enter **AI-powered chatbot assistants**, your virtual writing companions. They deftly structure your review and offer constructive feedback on drafts, akin to having a personal writing coach by your side. Moreover, **AI-powered text summarization tools** distill lengthy essays into succinct summaries, allowing you to extract vital nuggets for your review effortlessly. And when it comes to publishing, **AI-powered journal matching tools** eliminate guesswork. They analyze your research focus and target audience, recommending suitable academic journals to enhance your chances of successful publication. 📚✨
 
+## Workshop Schedule
+| Day         | Time        | Focus Area                           | Details                                                                                     |
+|-------------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------|
+| **Day 1 (12 Mei 2024)** | 8-9 am      | Registration                         |                                                                                             |
+|             | 9-11 am     | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
+|             | 11-11:30 am | Morning break                        |                                                                                             |
+|             | 11:30-1 pm  | 2. Hands-on with AI Prompts          | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
+|             | 1-2 pm      | Lunch                                |                                                                                             |
+|             | 2-4:30 pm   | 3. AI Copywriting for Academia       | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
+|             |             | 4. AI as an Image Creator            | Exploring AI's ability to create academic visuals. Workshop: Designing figures and diagrams with AI assistance. |
+| **Day 2 (13 Mei 2024)** | 9-11 am     | 1. Streamlining Literature Search with AI | Utilizing AI for efficient literature search strategies. Practical exercises: AI-powered databases and search tools. |
+|             | 11-11:30 am | Morning break                        |                                                                                             |
+|             |             | 2. Discovering and Visualizing Papers with AI | AI for paper discovery: Finding relevant research quickly. Visualizing research trends and data with AI tools. |
+|             | 1-2 pm      | Lunch                                |                                                                                             |
+|             | 2-4:30 pm   | 3. Structuring Your Article with AI  | Understanding the components of a research article. Using AI to outline and structure your draft. |
+| **Day 3 (14 Mei 2024)** | 9-11 am     | 1. AI-Assisted Writing               | Techniques for writing abstracts, introductions, and conclusions with AI. Hands-on practice: Starting your article with AI-generated content. |
+|             | 11-11:30 am | Morning break                        |                                                                                             |
+|             | 11:30-1 pm  | 2. Refining Your Draft               | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
+|             | 1-2 pm      | Lunch                                |                                                                                             |
+|             | 2-4:30 pm   | 3. Finalizing and Publishing        | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
+
+Please let me know if you need any further modifications or details.
+
 
 ## AI Tools
 
