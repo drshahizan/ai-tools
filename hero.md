@@ -15,12 +15,12 @@ This workshop serves as an introduction to artificial intelligence (AI) technolo
 
 | Time        | Focus Area                           | Details |
 |-------------|--------------------------------------|---------------------------------------------------|
-| 8-9 am      | Registration                         | |
-| 9-11 am     | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
-| 11-11:30 am | Morning break                        | |
-| 11:30-1 pm  | 2. Hands-on with AI Prompts          | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
-| 1-2 pm      | Lunch                                | |
-| 2-4:30 pm   | 3. AI Copywriting for Academia       | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
+| 8:00 - 9.00 am      | Registration                         | |
+| 9:00 - 11.00 am     | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
+| 11:00 - 11:30 am | Morning break                        | |
+| 11:30 - 1.. pm  | 2. Hands-on with AI Prompts          | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
+| 1.00 - 2.00 pm      | Lunch                                | |
+| 2.00 - 4:30 pm   | 3. AI Copywriting for Academia       | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
 |             | 4. AI as an Image Creator            | Exploring AI's ability to create academic visuals. Workshop: Designing figures and diagrams with AI assistance. |
 
 
