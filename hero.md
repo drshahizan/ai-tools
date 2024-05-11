@@ -35,15 +35,13 @@ This workshop serves as an introduction to artificial intelligence (AI) technolo
 
 ### Day 3 (14 May 2024)
 
-| Time        | Focus Area                           | Details |
-|-------------|--------------------------------------|---------------------------------------------------|
+| Time        | Focus Area                           | 
+|-------------|--------------------------------------|
 | 9:00 - 11:00 am     | 1. AI-Assisted Writing               | Techniques for writing abstracts, introductions, and conclusions with AI. Hands-on practice: Starting your article with AI-generated content. |
-| 11:00 - 11:30 am | Morning break                        |                                                                                             |
+| 11:00 - 11:30 am | Morning break                        | |
 | 11:30:00 - 1:00 pm  | 2. Refining Your Draft               | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
-| 1:00 - 2:00 pm      | Lunch                                |                                                                                             |
+| 1:00 - 2:00 pm      | Lunch                                | |
 | 2:00 - 4:30 pm   | 3. Finalizing and Publishing        | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
-
-
 
 
 ## AI Tools
