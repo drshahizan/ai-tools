@@ -7,7 +7,7 @@
 
 # HIGHER EDUCATION RESEARCH OPTIMIZATION  FOR INDEX PUBLICATION 2024 (HERO 2024)
 
-## Module 1: Understanding AI in Academic Contexts
+## Module 3: AI tools in Academic Writing
 
 | No | Lesson | Topic |
 |--------|---------|---------|
