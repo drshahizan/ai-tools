@@ -16,9 +16,9 @@ This workshop serves as an introduction to artificial intelligence (AI) technolo
 | Time        | Focus Area                           | 
 |-------------|--------------------------------------|
 | 8:00 - 9.00 am      | Registration                         | |
-| 9:00 - 11.00 am     | 1. [Understanding AI in Academic Contexts](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod1.md) | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
+| 9:00 - 11.00 am     | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
 | 11:00 - 11:30 am | Morning break                        | |
-| 11:30 - 1.00 pm  | 2. [Hands-on with AI Prompts](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod2.md)          | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
+| 11:30 - 1.00 pm  | 2. Hands-on with AI Prompts       | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
 | 1.00 - 2.00 pm      | Lunch                                | |
 | 2.00 - 4:30 pm   | 3. AI Copywriting for Academia       | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
 |             | 4. AI as an Image Creator            | Exploring AI's ability to create academic visuals. Workshop: Designing figures and diagrams with AI assistance. |
@@ -48,7 +48,7 @@ This workshop serves as an introduction to artificial intelligence (AI) technolo
 |--------:|---------|
 | 1. | [Understanding AI in Academic Contexts](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod1.md) |
 | 2. | [Generative AI](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod2.md) |
-| 3. | [Generative AI](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod2.md) |
+| 3. | [AI tools](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod3.md) |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
