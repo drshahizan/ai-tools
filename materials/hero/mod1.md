@@ -10,30 +10,21 @@
 ## Module 1: Understanding AI in Academic Contexts
 
 | No | Lesson | Topic |
-|--------|---------|---------|
+|--------:|---------|---------|
 | 1.| Generative AI|[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 ||| [ChatGPT in Academic Writing and Publishing: A Comprehensive Guide](https://www.researchgate.net/publication/369817340_Chapter_2_ChatGPT_in_Academic_Writing_and_Publishing_A_Comprehensive_Guide)
 | 2. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
-| 7. | AI Show Case | [Future of Work](https://github.com/drshahizan/Generative-AI-Playground/blob/main/images/Future%20of%20Work%20.pdf) |
+| 3. | AI Show Case | [Future of Work](./images/Future%20of%20Work%20.pdf) |
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
-| 8. | AI Apps| [Roam Around](https://www.roamaround.io/) |
+||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
+| 4. | AI Apps| [Roam Around](https://www.roamaround.io/) |
+|  | | [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
+||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
+||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
+||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
+||| [Penyampai Radio AI Yang Pertama Di Malaysia](https://says.com/my/seismik/kenali-aina-sabrina-dj-fly-fm-juga-ai-yang-pertama-di-malaysia-sebagai-penyampai-radio)|
 |||[Sora](https://openai.com/sora)|
-
-
-## AI Tools
-
-| No. | Topic                                             | Content | File | 
-|----: |----------------------------------------------------|------|------|
-| 1.   | Top Computer Science Literature Databases | This tool provides access to prominent databases containing computer science literature. Researchers and academics can explore relevant papers, articles, and research findings in the field of computer science. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-LR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 2.   | Generative AI prompt: ChatGPT, CoPilot, Gemini | These generative AI models assist in creating human-like text based on given prompts. Whether you need chat responses, code snippets, or creative content, these tools can generate it for you. |<a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 3.   | Research Gaps | This tool helps identify gaps in existing research. Researchers can use it to pinpoint areas where further investigation is needed. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d1-gaps.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 4.   | Paper Discovery | Discover relevant research papers using this tool. It assists in finding scholarly articles related to specific topics.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d2-ELR.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 5.   | Paper Visualization | Visualize research papers and their connections. This tool aids in understanding complex relationships between academic works.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-visualization.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 6.   | Chatbot and Assistance | Create chatbots and virtual assistants using this tool. It enables automated interactions with users, answering queries, and providing assistance.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-chatbot.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 7.   | Text Summarizers |Summarize lengthy texts automatically. Whether it’s articles, reports, or research papers, this tool condenses content while retaining essential information.| <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-summarizers.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 8.   | Journal Matching | Match your research with relevant journals. This tool assists in finding suitable publication venues for your work. | <a href="https://github.com/drshahizan/ai-tools/blob/main/materials/d3.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
-| 9.   | Citation Management | Manage citations efficiently. Keep track of references, generate bibliographies, and ensure accurate citations using this tool. |<a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-citation.md" ><img src="./images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Download
 1. [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](./images/paper1.pdf)
