@@ -7,7 +7,7 @@
 
 # HIGHER EDUCATION RESEARCH OPTIMIZATION  FOR INDEX PUBLICATION 2024 (HERO 2024)
 
-## Module 3: AI tools for Academic Writing
+## Module 3: AI Tools for Academic Writing
 
 ## Additional Notes
 
