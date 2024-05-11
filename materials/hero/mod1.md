@@ -12,6 +12,7 @@
 | No | Lesson | Topic |
 |--------|---------|---------|
 | 1.| Generative AI|[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
+||| [ChatGPT in Academic Writing and Publishing: A Comprehensive Guide](https://www.researchgate.net/publication/371349143_Chapter_3_ChatGPT_and_AI_Conversational_Models_in_Higher_Education_Research_and_Development)
 | 2. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
 | 3. | Prompts | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
