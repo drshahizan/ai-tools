@@ -9,6 +9,26 @@
 
 ## Module 2: Generative AI
 
+### Exploring Generative AI Ecosystems
+<img src="https://github.com/drshahizan/SLR-FC/blob/main/images/genai.gif" style="width:240px;"  align="left">
+
+
+Generative AI may seem simple to use, but behind the scenes, it's quite complex. Let's explore what makes these systems work:
+
+🔵 **User Interface**: This is where you interact with AI, like through chatbots or mobile apps.
+
+🟢 **Coordination Layer**: This helps different services work together quickly and accurately to answer your questions.
+
+🔴 **Data Management**: To respond quickly, AI needs a complex system to store and retrieve data efficiently.
+
+🔷 **Connectivity & Expansion**: APIs connect different AI models, making it easy to add new features to apps.
+
+🛠️ **Development Tools**: Developers use these tools to create, test, and improve AI models.
+
+🌐 **Technical Backbone**: AI needs powerful hardware and cloud services to run smoothly.
+
+## Lesson
+
 | No | Lesson | Topic |
 |--------|---------|---------|
 | 1.| Generative AI|[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
