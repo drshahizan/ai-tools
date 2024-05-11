@@ -16,7 +16,7 @@ This workshop serves as an introduction to artificial intelligence (AI) technolo
 | Time        | Focus Area                           | 
 |-------------|--------------------------------------|
 | 8:00 - 9.00 am      | Registration                         | |
-| 9:00 - 11.00 am     | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
+| 9:00 - 11.00 am     | 1. [Understanding AI in Academic Contexts](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod1.md) | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
 | 11:00 - 11:30 am | Morning break                        | |
 | 11:30 - 1.00 pm  | 2. Hands-on with AI Prompts          | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
 | 1.00 - 2.00 pm      | Lunch                                | |
