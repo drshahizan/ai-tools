@@ -60,7 +60,7 @@ visualised in the mind map.
 **Example**: Rice Disease
 
 <p align="center">
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/markmap.svg"  />
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/markmap.png"  />
 </p>
 
 4. **Interact with Your Mind Map**: You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
