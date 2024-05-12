@@ -57,6 +57,12 @@ visualised in the mind map.
 
 3. **Paste the Markdown code into [MarkMap](https://markmap.js.org/repl)**: Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
+**Example**: Rice Disease
+
+<p align="center">
+<img src="../../images/markmap.svg"  height="250" />
+</p>
+
 4. **Interact with Your Mind Map**: You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
 
 Remember, Markmap supports various markdown features such as:
