@@ -8,7 +8,7 @@
 # AI tools for Literature Review
 
 <p align="center">
-<img src="/images//poster_ai-tools.jpeg"  height="250" />
+<img src="/images/poster_ai-tools.jpeg"  height="250" />
 <img src="/images/dorsu.jpeg"  height="250" />
 </p>
 
