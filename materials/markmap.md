@@ -8,7 +8,8 @@
 # Markmap
 Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. Here's how you can use Markmap:
 
-1. **Prompt to create a mind map**: Please type this prompt in tools like Copilot, Gemini, and ChatGPT.
+## 1. Prompt to create a mind map
+Please type this prompt in tools like Copilot, Gemini, and ChatGPT.
 
   ```
 a mind map with a structured list that is centred on [Your Topic]. Create a Markdown version of the mind map.
@@ -54,8 +55,8 @@ visualised in the mind map.
 - **Symptoms**: Galls or knots on roots, stunted growth
 - **Management**: Nematicides, crop rotation
 ```
-
-3. **Paste the Markdown code into [MarkMap](https://markmap.js.org/repl)**: Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
+## 2. [MarkMap](https://markmap.js.org/repl)
+Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
 **Example**: Rice Disease
 
@@ -63,7 +64,8 @@ visualised in the mind map.
 <img src="https://github.com/drshahizan/ai-tools/blob/main/images/markmap.png" height="250" />
 </p>
 
-4. **Interact with Your Mind Map**: You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
+## 3. Interact with Your Mind Map
+You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
 
 Remember, Markmap supports various markdown features such as:
 - **Styling**: Apply bold, italic, strikethrough, and highlights to text.
