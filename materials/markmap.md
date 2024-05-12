@@ -18,6 +18,43 @@ patterns, or insights for every major branch. Make sure the linkages and hierarc
 visualised in the mind map.
   ```
 
+**Example**: Rice Disease
+  ```
+# Rice Disease Mind Map
+## Bacterial Diseases
+### Bacterial Blight
+- **Pathogen**: Xanthomonas oryzae pv. oryzae
+- **Symptoms**: Kresek, wilting, leaf blight
+- **Management**: Use of resistant varieties, proper field sanitation
+### Bacterial Leaf Streak
+- **Pathogen**: Xanthomonas oryzae pv. oryzicola
+- **Symptoms**: Narrow, wavy, water-soaked streaks on leaves
+- **Management**: Balanced fertilizer application, resistant varieties
+## Fungal Diseases
+### Rice Blast
+- **Pathogen**: Pyricularia oryzae
+- **Symptoms**: Diamond-shaped lesions on leaves, neck rot
+- **Management**: Fungicide treatment, resistant varieties
+### Sheath Blight
+- **Pathogen**: Rhizoctonia solani
+- **Symptoms**: Water-soaked lesions on sheaths, eventual lodging
+- **Management**: Crop rotation, fungicide application
+## Viral Diseases
+### Rice Tungro Disease
+- **Pathogens**: Rice tungro bacilliform virus (RTBV), Rice tungro spherical virus (RTSV)
+- **Symptoms**: Stunted growth, yellow-orange discoloration of leaves
+- **Management**: Vector control, use of tolerant varieties
+### Rice Yellow Mottle Virus (RYMV)
+- **Pathogen**: Rice yellow mottle virus
+- **Symptoms**: Mottling and distortion of leaves, stunted growth
+- **Management**: Weed management, use of resistant varieties
+## Nematode Diseases
+### Root Knot Nematode
+- **Pathogen**: Meloidogyne spp.
+- **Symptoms**: Galls or knots on roots, stunted growth
+- **Management**: Nematicides, crop rotation
+```
+
 3. **Paste the Markdown code into [MarkMap](https://markmap.js.org/repl)**: Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
 4. **Interact with Your Mind Map**: You can expand or collapse branches, zoom in and out, and pan around to explore different parts of the mind map.
