@@ -9,9 +9,19 @@
 
 ## Text
 
-### Prompt 1: Research Conception and Execution Stage
+#### 1. Prompt to create a mind map
+  ```
+create a mind map focused on [Your Topic]. Begin with the central idea representing the main theme of the data. From
+there, develop main branches that correspond to key topics or categories identified. For each main branch, add
+detailed sub-branches that explore specific data points, trends, or insights. Ensure the mind map provides a
+comprehensive visualization of the relationships and hierarchies within the data.
+  ```
 
-#### 1. Literature Review
+#### 2. Prompt to create a mind map
   ```
-create a mind map focused on [Your Topic]. Begin with the central idea representing the main theme of the data. From there, develop main branches that correspond to key topics or categories identified. For each main branch, add detailed sub-branches that explore specific data points, trends, or insights. Ensure the mind map provides a comprehensive visualization of the relationships and hierarchies within the data.
+Generate the mind map in Markdown format
   ```
+do a structured list representing a mind map focused on rice disease. Generate the mind map in Markdown format. Begin with the central idea representing the main theme of the data. From
+there, develop main branches that correspond to key topics or categories identified. For each main branch, add
+detailed sub-branches that explore specific data points, trends, or insights. Ensure the mind map provides a
+comprehensive visualization of the relationships and hierarchies within the data
