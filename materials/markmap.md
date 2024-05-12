@@ -11,7 +11,7 @@ Markmap is a tool that visualizes markdown documents as interactive mind maps. I
 1. **Prompt to create a mind map**: Please type this prompt in tools like Copilot, Gemini, and ChatGPT.
 
   ```
-a mind map with a structured list that is centred on rice disease. Create a Markdown version of the mind map.
+a mind map with a structured list that is centred on [Your Topic]. Create a Markdown version of the mind map.
 Start with the primary concept that embodies the primary theme found in the data. Create primary branches based on
 the identified categories or important subjects. Create thorough sub-branches that focus on certain data points,
 patterns, or insights for every major branch. Make sure the linkages and hierarchies within the data are adequately
