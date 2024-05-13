@@ -30,6 +30,12 @@ Here are some of the features of VOSviewer:
 
 <figure><img src="https://www.vosviewer.com/media/images/content/08a8dd14196910a1715cedf5df544371_large.png" alt="" width="563"></figure>
 
-{% embed url="https://www.youtube.com/watch?v=VW9Z6pqfqjY" %}
+## Youtube
+
+1. [MENEMUKAN NOVELTY PENELITIAN DENGAN VOS VIEWER | ANALISA BIBILIOMETRIK](https://www.youtube.com/watch?v=VW9Z6pqfqjY)
+2. [Bibliometric Analysis of DIMENSIONS Data Using VosViewer](https://youtu.be/or6LA0anOBQ?si=9JLBjVstDcof2VP)
+3. [How to run a bibliometric analysis in VOSviewer with searches from multiple databases](https://youtu.be/beNo3yeJ6YM?si=AcmIhvM5dHXQFSJW)
+
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
