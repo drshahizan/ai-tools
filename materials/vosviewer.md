@@ -31,6 +31,89 @@ Here are some of the features of VOSviewer:
 
 <figure><img src="https://www.vosviewer.com/media/images/content/08a8dd14196910a1715cedf5df544371_large.png" alt="" width="563"></figure>
 
+## Obtaining Content from Databases
+
+**Scopus – CSV** – most options for analysis (co-authorship, co-occurrence, citation, co-citation, bibliographic coupling)
+
+- search by topic or desired publications
+- select citations and click export – select CSV
+- limited to 2000 articles
+- include 
+  - Citation information 
+  - Affiliations
+  - Abstract and keywords
+  - Include references
+
+**Scopus – RIS** – limited to author and co-occurrence (keyword)
+
+- search by topic or desired publications
+- select citations and click export – select RIS
+- limited to 2000 articles
+- include
+  - citation
+  - abstract
+
+**Web of Science – plain text (txt)** – most options for analysis (co-authorship, co-occurrence, citation, co-citation, bibliographic coupling)
+
+- search by topic or desired publications
+- select citations and click export – select plain text
+- limited to 500 articles
+- include records from 1 to ???
+- Record content – Full Record and Cited References
+
+**Web of Science – RIS** – limited to author and co-occurrence (keyword)
+
+- search by topic or desired publications
+- select citations and click export – select RIS
+- limited to 1000 articles
+- include records from 1 to ???
+- Record content – Author, Title, Source, Abstract
+
+## Bibliometric Analysis using VOSViewer
+
+### Create a map based on bibliographic data
+
+**Export in CSV format (Scopus) or TXT (Web of Science)**
+
+- Choose this option to create a co-authorship, keyword co-occurrence, citation, bibliographic coupling, or co-citation map based on bibliographic data -- click next
+- Choose data source - select Read data from bibliographic database files -- click next
+- Select files - click on the tab of the database source and select file from computer (.csv) - click next
+- Click Co-authorship and Full counting & Unit of analysis (Authors, Organization, Countries) - click next
+- Choose threshold - make choice -- click next
+- Choose number of authors - make choice - click next
+- Verify selected authors
+  - Before clicking finish, right-click on the table (if you are using a PC), and click export selected authors.
+    - You can use this table to create a thesaurus to clean up names (i.e. same author but name variations) or exclude names
+  - Click Finish
+ 
+**Export in RIS format**
+
+- Choose this option to create a co-authorship or keyword co-occurrence -- click next
+- Choose data source - select Read data from reference manager files -- click next
+- Under RIS tab, select file from computer - click next
+- Click Co-authorship (or co-occurrence) and Full counting - change other settings you would like - click next
+- Choose threshold - make choice -- click next
+- Choose number of authors - make choice - click next
+- Verify selected authors (or keywords)
+  - Before clicking finish, right-click on the table (if you are using a PC), and click export selected authors.
+    - You can use this table to create a thesaurus to clean up names (i.e. same author but name variations) or exclude names
+  - Click Finish
+ 
+### Create a map based on text data
+
+**Export in RIS format**
+
+- Choose this option to create a term co-occurrence map based on text data - click next
+- Choose data source - select Read data from a bibliographic database (Scopus – CSV; WOS - txt) or read data from reference manager files (RIS) -- click next
+- Choose fields – Title and abstract fields, Title field, or abstract field - click next (if download included abstracts - abstract & title will be an option)
+- Choose counting method - choose binary or full - click next
+- Choose threshold - make choice -- click next
+- Choose number of terms - make choice - click next
+- Verify selected terms
+  - Before clicking finish, right-click on the table (if you are using a PC), and click export selected terms.
+    - You can use this table to create a thesaurus to clean up terms (i.e. same author but name variations) or exclude names
+  - Click Finish
+
 ## Learning Materials
 
 | No  | Title                                                    | File                                | 
