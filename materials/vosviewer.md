@@ -1,10 +1,11 @@
----
-description: Visualizing scientific landscapes
----
+<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# VOSviewer
-
-{% embed url="https://www.vosviewer.com/" %}
+# [VOSviewer](https://www.vosviewer.com/)
 
 This is a software tool for constructing and visualizing bibliometric networks such as journals, researchers, or individual publications, and they can be constructed based on citation, bibliographic coupling, co-citation, or co-authorship relations. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature. VOSviewer also offers text mining functionality that can be used to construct and visualize co-occurrence networks of important terms extracted from a body of scientific literature.
 
