@@ -9,6 +9,7 @@
 
 | **AI Tool** | **Description** |
 | --- | --- |
+| **[MarkMap](https://github.com/drshahizan/ai-tools/blob/main/materials/markmap.md)** | Markmap is a tool that visualizes markdown documents as interactive mind maps. It's useful for organizing and navigating complex information, making it easier to understand and explore the content. |
 | **[Think Machine](https://thinkmachine.com/)** | Think Machine is a powerful 3d mind mapper with AI built in. It's the best way to visualize your thoughts and research new ideas. |
 | **[SciSpace](https://typeset.io/)** | Offers AI tools for literature review, including finding new, connected papers using a visual graph. |
 | **[Research Buddy](https://researchbuddy.app/search)** | An AI-powered tool that automates the literature review process by quickly searching and categorizing scholarly content. |
