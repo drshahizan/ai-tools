@@ -30,9 +30,9 @@
 | 9.   | Citation Management | Manage citations efficiently. Keep track of references, generate bibliographies, and ensure accurate citations using this tool. |<a href="https://github.com/drshahizan/ai-tools/blob/main/materials/s1-citation.md" ><img src="../../images/brave-ai.png" width="24px" height="24px" ></a> |
 
 ## Download
-1. [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](./images/paper1.pdf)
-2. [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. 2024. *A critical review of feature selection methods for machine learning in IoT security*. *International Journal of Communication Networks and Distributed Systems*, **30**(3), 264-312](./images/paper2-slr.pdf)
-3. [Saleh, D. S., & **Othman, M. S**. (2024). Exploring the challenges of diagnosing thyroid disease with imbalanced data and machine learning: A systematic literature review. *Baghdad Science Journal, 21*(3), 1119-1136. https://dx.doi.org/10.21123/bsj.2023.8544](./images/paper3-slr.pdf)
+1. [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](../../images/paper1.pdf)
+2. [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. 2024. *A critical review of feature selection methods for machine learning in IoT security*. *International Journal of Communication Networks and Distributed Systems*, **30**(3), 264-312](../../images/paper2-slr.pdf)
+3. [Saleh, D. S., & **Othman, M. S**. (2024). Exploring the challenges of diagnosing thyroid disease with imbalanced data and machine learning: A systematic literature review. *Baghdad Science Journal, 21*(3), 1119-1136. https://dx.doi.org/10.21123/bsj.2023.8544](../../images/paper3-slr.pdf)
 4. [Image](../../images/slr1img.png)
    
 
