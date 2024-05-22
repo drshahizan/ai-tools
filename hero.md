@@ -7,6 +7,11 @@
 
 # HIGHER EDUCATION RESEARCH OPTIMIZATION  FOR INDEX PUBLICATION 2024 (HERO 2024)
 
+<p align="center">
+<img src="/images/poster_ai-tools.jpeg"  height="250" />
+<img src="/images/dorsu.jpeg"  height="250" />
+</p>
+
 This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
 
 ## Workshop Schedule
