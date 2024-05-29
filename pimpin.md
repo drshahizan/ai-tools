@@ -7,11 +7,20 @@
 
 # AI dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
 
-<p align="center">
-<img src="/images/Hero.jpeg"  height="400" />
-</p>
+Kecerdasan Buatan (AI) dan Kepimpinan Strategik saling berkaitan dalam banyak aspek. AI merujuk kepada sistem komputer yang dapat melaksanakan tugas yang biasanya memerlukan kecerdasan manusia, seperti membuat persepsi visual, menyelesaikan masalah, dan membuat keputusan. Dalam konteks kepimpinan, AI dapat membantu pemimpin dalam membuat perancangan strategik dengan menyediakan analisis data yang mendalam, meramalkan hala tuju, perubahan pasaran, dan potensi risiko.
 
-This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
+Bagaimana AI mempengaruhi Kepimpinan Strategik:
+
+1. **Perancangan Strategik**: AI membantu pemimpin dalam menyelaraskan objektif organisasi dengan matlamat jangka panjang. Ini termasuk penilaian persekitaran dalaman dan luaran, mengenal pasti peluang dan cabaran, serta membangunkan rancangan untuk mencapai kejayaan.
+
+2. **Automasi Tugasan**: AI boleh digunakan untuk mengautomasikan tugasan rutin dan berulang, membolehkan pemimpin dan pasukan mereka memberi tumpuan kepada tugas yang lebih penting dan strategik.
+
+3. **Pengurusan Risiko**: Pemimpin dapat memanfaatkan AI dalam menganalisis sejumlah besar data untuk mengenal pasti ancaman dan kelemahan, serta membuat penilaian dan pengurusan risiko yang lebih tepat.
+
+4. **Pembuatan Keputusan**: AI menyediakan analisis data yang canggih, memudahkan pemimpin untuk membuat keputusan yang berinformasi dan strategik. Ini termasuk mengenal pasti patern, arah aliran, dan cerapan yang mungkin tidak dapat dilihat dengan mata kasar manusia.
+
+5. **Adaptasi dengan Perubahan**: Dalam persekitaran perniagaan yang berubah dengan pantas, AI membantu organisasi dalam membuat ramalan, menyesuaikan diri dengan perubahan, dan memudahkan dalam pembuatan keputusan.
+
 
 ## Workshop Schedule
 
