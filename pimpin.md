@@ -21,41 +21,6 @@ Bagaimana AI mempengaruhi Kepimpinan Strategik:
 
 5. **Adaptasi dengan Perubahan**: Dalam persekitaran perniagaan yang berubah dengan pantas, AI membantu organisasi dalam membuat ramalan, menyesuaikan diri dengan perubahan, dan memudahkan dalam pembuatan keputusan.
 
-
-## Workshop Schedule
-
-### Day 1 (12 May 2024)
-
-| Time        | Focus Area                           | 
-|-------------|--------------------------------------|
-| 8:00 - 9.00 am      | Registration                         | |
-| 9:00 - 11.00 am     | 1. Understanding AI in Academic Contexts | Introduction to AI and its impact on academic research. Overview of generative AI and its capabilities. |
-| 11:00 - 11:30 am | Morning break                        | |
-| 11:30 - 1.00 pm  | 2. Hands-on with AI Prompts       | Crafting effective prompts for generative AI. Interactive session: Creating prompts for different academic purposes. |
-| 1.00 - 2.00 pm      | Lunch                                | |
-| 2.00 - 4:30 pm   | 3. AI Copywriting for Academia       | Principles of AI copywriting in academic research. Case studies: Analyzing AI-generated academic content. |
-|             | 4. AI as an Image Creator            | Exploring AI's ability to create academic visuals. Workshop: Designing figures and diagrams with AI assistance. |
-
-### Day 2 (13 May 2024)
-
-| Time        | Focus Area                           | 
-|-------------|--------------------------------------|
-| 9:00 - 11:00 am     | 1. Streamlining Literature Search with AI | Utilizing AI for efficient literature search strategies. Practical exercises: AI-powered databases and search tools. |
-| 11:00 - 11:30 am | Morning break                        | |
-|             | 2. Discovering and Visualizing Papers with AI | AI for paper discovery: Finding relevant research quickly. Visualizing research trends and data with AI tools. |
-| 1:00 - 2:00 pm      | Lunch                                | |
-| 2:00 - 4:30 pm   | 3. Structuring Your Article with AI  | Understanding the components of a research article. Using AI to outline and structure your draft. |
-
-### Day 3 (14 May 2024)
-
-| Time        | Focus Area                           | 
-|-------------|--------------------------------------|
-| 9:00 - 11:00 am     | 1. AI-Assisted Writing               | Techniques for writing abstracts, introductions, and conclusions with AI. Hands-on practice: Starting your article with AI-generated content. |
-| 11:00 - 11:30 am | Morning break                        | |
-| 11:30:00 - 1:00 pm  | 2. Refining Your Draft               | Editing and refining strategies using AI. Collaborative session: Peer review with AI insights. |
-| 1:00 - 2:00 pm      | Lunch                                | |
-| 2:00 - 4:30 pm   | 3. Finalizing and Publishing        | Preparing your manuscript for submission. Utilizing AI for referencing and citation management. Workshop conclusion: Sharing drafted articles and feedback. |
-
 ## Materials
 | Module  | Topic |
 |:--------:|---------|
