@@ -40,3 +40,12 @@ AI boleh membantu universiti mengenal pasti dan mengurus risiko. Ini termasuk ra
 
 ### Kesimpulan
 Penggunaan AI dalam perancangan strategik universiti dapat meningkatkan kecekapan operasi, memberikan wawasan yang lebih mendalam untuk membuat keputusan, dan membantu dalam penyesuaian terhadap perubahan dinamik dalam sektor pendidikan tinggi. Dengan AI, universiti dapat menjadi lebih responsif dan proaktif dalam menyediakan pendidikan yang berkualiti tinggi dan relevan dengan keperluan masa kini.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
