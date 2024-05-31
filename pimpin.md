@@ -13,7 +13,7 @@ Bagaimana AI mempengaruhi Kepimpinan Strategik:
 
 1. **[Perancangan Strategik](materials/pimpin/1ps.md)**: AI membantu pemimpin dalam menyelaraskan objektif organisasi dengan matlamat jangka panjang. Ini termasuk penilaian persekitaran dalaman dan luaran, mengenal pasti peluang dan cabaran, serta membangunkan rancangan untuk mencapai kejayaan.
 
-2. **Automasi Tugasan**: AI boleh digunakan untuk mengautomasikan tugasan rutin dan berulang, membolehkan pemimpin dan pasukan mereka memberi tumpuan kepada tugas yang lebih penting dan strategik.
+2. **[Automasi Tugasan](materials/pimpin/2automasi.md)**: AI boleh digunakan untuk mengautomasikan tugasan rutin dan berulang, membolehkan pemimpin dan pasukan mereka memberi tumpuan kepada tugas yang lebih penting dan strategik.
 
 3. **Pengurusan Risiko**: Pemimpin dapat memanfaatkan AI dalam menganalisis sejumlah besar data untuk mengenal pasti ancaman dan kelemahan, serta membuat penilaian dan pengurusan risiko yang lebih tepat.
 
