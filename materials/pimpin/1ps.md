@@ -1,3 +1,4 @@
+# AI di dalam Perancangan Strategik
 Penggunaan kecerdasan buatan (AI) dalam perancangan strategik di peringkat pendidikan tinggi, seperti di universiti, dapat memberikan manfaat yang signifikan. Berikut adalah beberapa cara bagaimana AI dapat digunakan dalam perancangan strategik universiti:
 
 ### 1. **Analisis Data Akademik dan Prestasi Pelajar**
