@@ -21,6 +21,10 @@ Bagaimana AI mempengaruhi Kepimpinan Strategik:
 
 5. **[Adaptasi dengan Perubahan](materials/pimpin/5adaptasi.md)**: Dalam persekitaran perniagaan yang berubah dengan pantas, AI membantu organisasi dalam membuat ramalan, menyesuaikan diri dengan perubahan, dan memudahkan dalam pembuatan keputusan.
 
+## Generatif AI
+
+
+
 ## Materials
 | Module  | Topic |
 |:--------:|---------|
