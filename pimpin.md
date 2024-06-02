@@ -25,8 +25,8 @@ Bagaimana AI mempengaruhi Kepimpinan Strategik:
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Generatif AI |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 2. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
+| 1.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
+| 2. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
 | 3. | Prompts | [Exercise](https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md)|
 |  |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
