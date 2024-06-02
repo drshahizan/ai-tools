@@ -24,24 +24,6 @@
 - Sign in using your **Google Account**.
 - Gemini provides assistance with writing, planning, learning, and more, powered by Google AI.
 
-### 4. AIPRM for ChatGPT
-To install AIPRM for ChatGPT, follow these steps based on your browser:
-
-1. **Google Chrome**:
-    - Open ChatGPT and log in to your account.
-    - Open a new browser tab.
-    - Go to the **[Chrome Web Store](https://chromewebstore.google.com/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)**.
-    - Search for **AIPRM**.
-    - Click the **"Add to Chrome"** button.
-    - In the popup window, click **"Add extension"**.
-
-2. **Microsoft Edge**:
-    - Open ChatGPT and log in to your account.
-    - Open a new browser tab.
-    - Go to the **[Microsoft Edge Add-ons page](https://microsoftedge.microsoft.com/addons/detail/nkiohniccbickhccicgbedaibabialda)**.
-    - Search for **AIPRM**.
-    - On the extension page, click **"Get"**.
-    - In the popup window, click **"Add extension"**.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
