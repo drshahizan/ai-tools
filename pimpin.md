@@ -23,6 +23,24 @@ Bagaimana AI mempengaruhi Kepimpinan Strategik:
 
 ## Generatif AI
 
+| No | Pelajaran | Topik |
+|--------|---------|---------|
+| 1.| Generatif AI |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
+| 2. | Installation & Sign in |[ChatGPT, BingAI, Gemini and AIPRM for ChatGPT](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/signin.md)|
+| 3. | Prompts | [Exercise](https://github.com/drshahizan/ai-tools/blob/main/materials/d1-genai.md)|
+|  |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+|  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
+|  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
+|  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
+|  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
+|  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
+|  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
+| 4. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
+|  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
+| 5. | Image Creator | [Bing's Image Creator](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bing_image.md) |
+|  |  | [Prompt: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
+|  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
+
 
 
 ## Materials
