@@ -44,7 +44,11 @@ Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi
 
 6. **Terjemahan PDF**: Microsoft Edge membolehkan anda menterjemahkan teks dari dokumen PDF ke bahasa lain. Pilih teks yang ingin diterjemahkan, kemudian klik ikon terjemah di bar alat PDF.
 
-7. **Menggunakan Bing AI untuk Analisis**: Anda boleh menggunakan Bing AI untuk menganalisis dokumen PDF dengan membuka dokumen di Edge, klik ikon Bing AI, dan ketik 'summarize this' untuk mendapatkan ringkasan dokumen.
+<p align="center">
+<img src="../../images/terjemah.png"  height="350" />
+</p>
+
+8. **Menggunakan Bing AI untuk Analisis**: Anda boleh menggunakan Bing AI untuk menganalisis dokumen PDF dengan membuka dokumen di Edge, klik ikon Bing AI, dan ketik 'summarize this' untuk mendapatkan ringkasan dokumen.
 
 Ini adalah beberapa ciri utama yang boleh digunakan untuk menganalisis dan bekerja dengan dokumen PDF di Microsoft Edge. Fungsi-fungsi ini memudahkan penggunaan dokumen PDF tanpa perlu perisian pihak ketiga dan meningkatkan produktiviti kerja.
 
