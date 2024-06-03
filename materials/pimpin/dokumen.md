@@ -13,7 +13,7 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 |--------:|---------|
 | 1. | [Teks Amanat Naib Canselor 2024](https://www.uitm.edu.my/images/document/amanat-vc/final-amanat-naib-canselor-umum-9-feb-2024.pdf) |
 | 2. | [Slaid Amanat Naib Canselor 2024](https://uitm.edu.my/images/document/amanat-vc/slide_amanat-nc-2024.pdf) |
-| 3. | [Laporan Tahunan UiTM 2021](https://github.com/drshahizan/ai-tools/blob/main/images/LaporanTahunanUiTM2021.pdf) |
+| 3. | [Laporan Tahunan UiTM 2021](https://www.uitm.edu.my/images/stories/about/LaporanTahunanUiTM2021.pdf) |
 
 
 
