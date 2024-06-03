@@ -22,6 +22,10 @@ Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-20
 2. **Klik kanan** pada dokumen tersebut dan pilih **'Open With'**, kemudian pilih **Microsoft Edge** dari senarai aplikasi.
 3. Jika dokumen tersebut sudah terbuka di pelayar web lain, Anda boleh **menyeret dan menjatuhkan** fail PDF tersebut ke dalam tetingkap Microsoft Edge untuk membukanya.
 
+<p align="center">
+<img src="../../images/fail_edge.png"  height="350" />
+</p>
+
 Setelah dokumen terbuka di Microsoft Edge, anda dapat menggunakan bar alat yang terdapat di bahagian atas skrin untuk menavigasi dokumen, mengubah ukuran tampilan, dan mencari teks tertentu. Microsoft Edge juga menyediakan fungsi untuk mengedit, menyimpan, atau mencetak dokumen PDF tersebut.
 
 ## 3. Fungsi yang tersedia untuk analisis dokumen
