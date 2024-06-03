@@ -104,7 +104,18 @@ Berikut adalah beberapa cadangan arahan (prompt) untuk meringkaskan maklumat dar
 "Ringkaskan temubual ini dengan seorang pensyarah kanan UiTM yang membincangkan perubahan kurikulum dan pendekatan pengajaran dalam era digital."
 
 ## 4. Terjemahkan Teks
-Terjemahkan teks dari satu bahasa ke bahasa lain. Misalnya, jika Anda memiliki teks dalam bahasa English dan ingin diterjemahkan ke bahasa Melayu, Copilot dapat melakukan itu.
+Terjemahkan teks dari satu bahasa ke bahasa lain. Berikut adalah jadual yang menyenaraikan arahan untuk terjemahan teks dari  bahasa Melayu ke bahasa Inggeris:
+
+| No. | Perkara               | Arahan                                                                                           |
+|-----|-----------------------|--------------------------------------------------------------------------------------------------|
+| 1   | Penerangan Universiti | Terjemahkan penerangan ini tentang sejarah dan misi UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
+| 2   | Artikel Akademik      | Terjemahkan abstrak artikel akademik ini yang membahas inovasi teknologi di UiTM dari Bahasa Inggeris ke Bahasa Malaysia. |
+| 3   | Surat Rasmi           | Terjemahkan surat rasmi ini yang ditujukan kepada pelajar antarabangsa yang ingin memohon masuk ke UiTM dari Bahasa Inggeris ke Bahasa Malaysia. |
+| 4   | Brosur Promosi        | Terjemahkan brosur promosi ini yang memperkenalkan program pengajian yang ditawarkan di UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
+| 5   | Laporan Tahunan       | Terjemahkan bahagian ini dari laporan tahunan UiTM yang merangkumi pencapaian akademik dan penyelidikan dari Bahasa Malaysia ke Bahasa Inggeris. |
+| 6   | Pengumuman            | Terjemahkan pengumuman ini mengenai pendaftaran kursus baru di UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
+| 7   | Artikel Berita        | Terjemahkan artikel berita ini yang melaporkan kejayaan pelajar UiTM dalam pertandingan antarabangsa dari Bahasa Inggeris ke Bahasa Malaysia. |
+| 8   | Panduan Pelajar       | Terjemahkan panduan pelajar ini tentang peraturan dan tatacara kehidupan kampus di UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
 
 ## 5. Menulis Kod Pengaturcaraan
 Membantu menulis kod dalam berbagai bahasa pengaturcaraan. Misalnya, jika Anda meminta "Tulis fungsi Python untuk mengurutkan daftar menggunakan algoritma sortir gelembung", Copilot dapat menghasilkan kode yang diperlukan.
