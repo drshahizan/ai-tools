@@ -50,6 +50,11 @@ Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi
 
 8. **Menggunakan Bing AI untuk Analisis**: Anda boleh menggunakan Bing AI untuk menganalisis dokumen PDF dengan membuka dokumen di Edge, klik ikon Bing AI, dan ketik 'summarize this' untuk mendapatkan ringkasan dokumen.
 
+<p align="center">
+<img src="../../images/chat.png"  height="450" />
+  <img src="../../images/chat.png"  height="450" />
+</p>
+
 Ini adalah beberapa ciri utama yang boleh digunakan untuk menganalisis dan bekerja dengan dokumen PDF di Microsoft Edge. Fungsi-fungsi ini memudahkan penggunaan dokumen PDF tanpa perlu perisian pihak ketiga dan meningkatkan produktiviti kerja.
 
 
