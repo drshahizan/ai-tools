@@ -9,6 +9,9 @@
 
 ## Muat turun dokumen
 Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
+| No  | Nama dokumen |
+|:--------:|---------|
+| 1 | [Teks Amanat Naib Canselor 2024](https://github.com/drshahizan/ai-tools/blob/main/images/amanat_nc_2024.pdf) |
 
 
 
