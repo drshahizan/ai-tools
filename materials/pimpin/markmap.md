@@ -19,41 +19,73 @@ patterns, or insights for every major branch. Make sure the linkages and hierarc
 visualised in the mind map.
   ```
 
-**Example**: Rice Disease
+**Example**: Amanat Naib Canselor
   ```
-# Rice Disease Mind Map
-## Bacterial Diseases
-### Bacterial Blight
-- **Pathogen**: Xanthomonas oryzae pv. oryzae
-- **Symptoms**: Kresek, wilting, leaf blight
-- **Management**: Use of resistant varieties, proper field sanitation
-### Bacterial Leaf Streak
-- **Pathogen**: Xanthomonas oryzae pv. oryzicola
-- **Symptoms**: Narrow, wavy, water-soaked streaks on leaves
-- **Management**: Balanced fertilizer application, resistant varieties
-## Fungal Diseases
-### Rice Blast
-- **Pathogen**: Pyricularia oryzae
-- **Symptoms**: Diamond-shaped lesions on leaves, neck rot
-- **Management**: Fungicide treatment, resistant varieties
-### Sheath Blight
-- **Pathogen**: Rhizoctonia solani
-- **Symptoms**: Water-soaked lesions on sheaths, eventual lodging
-- **Management**: Crop rotation, fungicide application
-## Viral Diseases
-### Rice Tungro Disease
-- **Pathogens**: Rice tungro bacilliform virus (RTBV), Rice tungro spherical virus (RTSV)
-- **Symptoms**: Stunted growth, yellow-orange discoloration of leaves
-- **Management**: Vector control, use of tolerant varieties
-### Rice Yellow Mottle Virus (RYMV)
-- **Pathogen**: Rice yellow mottle virus
-- **Symptoms**: Mottling and distortion of leaves, stunted growth
-- **Management**: Weed management, use of resistant varieties
-## Nematode Diseases
-### Root Knot Nematode
-- **Pathogen**: Meloidogyne spp.
-- **Symptoms**: Galls or knots on roots, stunted growth
-- **Management**: Nematicides, crop rotation
+## Amanat Naib Canselor 2024
+- **Introduction**
+  - Salutations and expressions of gratitude
+  - Reflection on past and progress
+  - Remembrance of departed UiTM family members
+
+- **Achievements in 2023**
+  - Academic and non-academic successes
+  - International recognition and rankings
+    - QS World University Rankings
+    - QS Asia University Rankings
+    - THE Impact Rankings
+    - UI GreenMetric World University Rankings
+
+- **UiTM's Mission and Vision**
+  - Championing Bumiputera professional development
+  - Core values: Excellence, Synergy, Integrity
+  - University motto: "Usaha, Takwa, Mulia"
+
+- **Strategic Pillars**
+  - Introduced by the 6th Vice-Chancellor
+  - Six main pillars guiding UiTM towards global renown
+
+- **9R Principles**
+  - Royal, Religion, Race
+  - Relevant, Referred, Respected
+  - Reduce, Recycle, Reuse
+
+- **Strategic Planning for 2024**
+  - Alignment with national education goals (RMK-12)
+  - UiTM2025 Macro Transformation Phase
+  - Focus on global marketability and employability
+
+- **Emphasis on Human Capital**
+  - Talent management and development
+  - Increasing the ratio of PhD-qualified lecturers
+  - Enhancing staff participation in training programs
+
+- **Academic Strategic Plan**
+  - Restructuring for wider access and rapid recovery
+  - Focus on academic programs, teaching quality, and student enrollment
+
+- **Research, Development, Innovation, and Commercialization (RDIC) Plan**
+  - Impactful knowledge generation
+  - Collaboration with community and industry
+
+- **Community and Industry Engagement**
+  - Quintuple Helix approach
+  - Strengthening networks and collaborations
+
+- **Student Development Strategy**
+  - Holistic leadership programs
+  - Mental health initiatives
+  - Empowerment of student organizations
+
+- **Vice-Chancellor's Emphases for 2024**
+  - Global recognition theme
+  - Talent plans for various staff categories
+  - Academic, research, and community engagement strategies
+
+- **Conclusion**
+  - Call to action for continued excellence and unity
+  - Vision of being "Globally Renowned, Locally Rooted"
+
+This mind map represents the key points and themes from the Amanat Naib Canselor 2024, highlighting the university's strategic direction, achievements, and plans for future development. Each branch and sub-branch provides a snapshot of the various aspects of the address, reflecting the interconnectedness of the university's goals and initiatives.
 ```
 ## 2. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
