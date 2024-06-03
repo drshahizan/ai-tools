@@ -15,6 +15,13 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 | 1. | [Population Table: Malaysia](https://data.gov.my/data-catalogue/population_malaysia)
 
 
+## 2. Muat naik fail
+
+Sila muat naik fail population_malaysia.csv di kotak input chatgpt dan masukkan arahan huraikan berkaitan data ini
+
+<p align="center">
+<img src="../../images/chatgpt.png"  height="350" />
+</p>
 
 
 
