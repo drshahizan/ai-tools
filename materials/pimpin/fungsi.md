@@ -8,7 +8,7 @@
 # Penggunaan Generatif AI
 
 ## 1. Menjawab Pertanyaan
-Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan yang lebih spesifik. Berikut adalah beberapa soalan yang boleh anda gunakan sebagai prompt untuk membincangkan perancangan strategik:
+Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan yang lebih spesifik. Berikut adalah  soalan yang boleh anda gunakan sebagai prompt untuk membincangkan perancangan strategik:
 
 1. **Matlamat dan Visi**: Apakah matlamat jangka panjang UiTM, dan bagaimana perancangan strategik dapat membantu mencapai visi tersebut?
 2. **Analisis SWOT**: Bagaimana analisis SWOT (Kekuatan, Kelemahan, Peluang, Ancaman) dapat membantu UiTM dalam merumuskan strategi?
