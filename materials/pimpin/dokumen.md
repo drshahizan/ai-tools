@@ -55,7 +55,35 @@ Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi
   <img src="../../images/chat1.png"  height="450" />
 </p>
 
-Ini adalah beberapa ciri utama yang boleh digunakan untuk menganalisis dan bekerja dengan dokumen PDF di Microsoft Edge. Fungsi-fungsi ini memudahkan penggunaan dokumen PDF tanpa perlu perisian pihak ketiga dan meningkatkan produktiviti kerja.
+Anda juga boleh klik pada 'Suggest questions about this document', hasilnya adalah seperti berikut:
+1. What are the key achievements of Universiti Teknologi MARA (UiTM) in 2023?
+2. How does the 'Globally Renowned, Locally Rooted' theme reflect UiTM's vision for 2025?
+3. What are the main objectives of the UiTM2025 Transformation Macro Phase?
+4. How has UiTM performed in various global university rankings in 2024?
+5. What is the significance of the 9R Principles in maintaining UiTM's identity?
+6. How does UiTM plan to enhance the employability of its graduates globally?
+7. What strategies are in place for talent development among UiTM's academic and administrative staff?]
+8. What initiatives are being taken to address mental health issues among UiTM students?
+9. How does UiTM intend to integrate the 'Quintuple Helix' approach in its community and industry engagement?
+10. What are the Vice-Chancellor's strategic emphases for UiTM in 2024?
+
+## Latihan
+#### Sila taipkan arahan berikut
+   1. Huraikan halatuju UiTM
+   2. Hasilkan analisis SWOT
+
+#### Berdasarkan konteks dokumen yang diberikan, sila dapatkan jawapan untuk 10 soalan yang berkaitan dengan Amanat Naib Canselor 2024 di Universiti Teknologi MARA:
+1. Apakah tujuan utama yang disampaikan dalam Amanat Naib Canselor 2024?
+2. Bagaimana prestasi Universiti Teknologi MARA dalam QS World University Rankings 2024 dan apakah peningkatan yang dicapai?
+3. Apakah prinsip 9R yang ditekankan oleh Naib Canselor dan bagaimana prinsip ini mempengaruhi hala tuju universiti?
+4. Bagaimana UiTM menyokong pembangunan Bumiputera profesional melalui kurikulum dan penyelidikan?
+5. Apakah inisiatif yang diperkenalkan oleh Naib Canselor UiTM ke-6 untuk mencapai visi 'Globally Renowned University'?
+6. Bagaimana UiTM mengatasi cabaran globalisasi dan perubahan landskap ekonomi serta teknologi?
+7. Apakah strategi UiTM untuk meningkatkan kebolehpasaran graduan dan bersaing di peringkat global?
+8. Bagaimana UiTM merancang untuk memperkasakan hubungan dengan Raja-Raja Melayu dan memahami Perkara 153 Perlembagaan Persekutuan?
+9. Apakah langkah-langkah yang diambil UiTM untuk memperbaiki kesihatan mental di kalangan staf dan pelajar?
+10. Bagaimana UiTM merancang untuk mempertahankan dan mengembangkan bakat dalam kalangan pensyarah dan pentadbir?
+
 
 
 ## Contribution 🛠️
