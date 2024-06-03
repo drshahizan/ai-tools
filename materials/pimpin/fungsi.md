@@ -57,6 +57,52 @@ Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Berik
 ## 3. Meringkaskan maklumat
 Membantu untuk meringkaskan artikel, buku, atau dokumen lainnya. Misalnya, jika Anda memiliki artikel panjang dan ingin ringkasan singkat, Copilot dapat membantu dengan itu.
 
+Berikut adalah beberapa cadangan arahan (prompt) untuk meringkaskan maklumat dari pelbagai sumber seperti artikel, buku, atau dokumen lain dengan fokus kepada UiTM:
+
+1. **Artikel Akademik:**
+   "Ringkaskan artikel ini yang membincangkan tentang impak program keusahawanan UiTM terhadap pembangunan ekonomi tempatan."
+
+2. **Laporan Penyelidikan:**
+   "Berdasarkan laporan penyelidikan ini, ringkaskan kajian tentang keberkesanan pendekatan pengajaran di Fakulti Sains Komputer dan Matematik UiTM."
+
+3. **Buku:**
+   "Baca dan ringkaskan bab dalam buku ini yang membincangkan sejarah penubuhan UiTM dan evolusi kampusnya sejak dari awal penubuhan hingga kini."
+
+4. **Dokumen Polisi:**
+   "Ringkaskan dokumen polisi ini yang menggariskan strategi dan inisiatif UiTM dalam meningkatkan kualiti pengajaran dan pembelajaran."
+
+5. **Artikel Berita:**
+   "Ringkaskan artikel berita ini tentang pencapaian terbaru UiTM dalam bidang penyelidikan dan inovasi."
+
+6. **Laporan Tahunan:**
+   "Berdasarkan laporan tahunan UiTM, ringkaskan perkembangan utama dan pencapaian institusi dalam tahun lepas."
+
+7. **Kajian Kes:**
+   "Ringkaskan kajian kes ini yang meneliti program mobiliti pelajar di UiTM dan kesannya terhadap pembangunan soft skills pelajar."
+
+8. **Temubual:**
+   "Ringkaskan temubual ini dengan Naib Canselor UiTM yang membincangkan visi dan misi universiti untuk masa depan."
+
+**Contoh Spesifik Prompt:**
+
+**Artikel Akademik:**
+"Ringkaskan artikel ini yang membahas tentang inovasi teknologi di UiTM dan bagaimana ia mempengaruhi kualiti pendidikan serta penyelidikan universiti."
+
+**Laporan Penyelidikan:**
+"Ringkaskan laporan ini yang mengkaji keberkesanan program latihan industri yang dianjurkan oleh UiTM dalam meningkatkan kebolehpasaran graduan."
+
+**Buku:**
+"Ringkaskan bab ini dalam buku tentang sejarah pendidikan tinggi di Malaysia yang khusus membincangkan peranan UiTM dalam menyediakan akses pendidikan kepada Bumiputera."
+
+**Artikel Berita:**
+"Ringkaskan artikel ini yang melaporkan kejayaan pelajar UiTM dalam pertandingan antarabangsa dan impak kejayaan tersebut kepada reputasi universiti."
+
+**Laporan Tahunan:**
+"Ringkaskan bahagian ini dari laporan tahunan UiTM yang merangkumi pencapaian akademik, penyelidikan, dan perkhidmatan komuniti pada tahun lalu."
+
+**Temubual:**
+"Ringkaskan temubual ini dengan seorang pensyarah kanan UiTM yang membincangkan perubahan kurikulum dan pendekatan pengajaran dalam era digital."
+
 ## 4. Terjemahkan Teks
 Terjemahkan teks dari satu bahasa ke bahasa lain. Misalnya, jika Anda memiliki teks dalam bahasa English dan ingin diterjemahkan ke bahasa Melayu, Copilot dapat melakukan itu.
 
