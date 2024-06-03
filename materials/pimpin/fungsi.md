@@ -20,30 +20,26 @@ Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umu
 | 6   | Perubahan dan Adaptasi               | Terangkan bagaimana organisasi UiTM akan menyesuaikan diri dengan perubahan dalam industri atau persekitaran makro.                                          |
 | 7   | Inovasi dan Pertumbuhan              | Nyatakan inisiatif atau projek inovatif yang UiTM boleh sertakan dalam perancangan strategik untuk mendorong pertumbuhan.                                    |
 | 8   | Risiko dan Pengurusan Krisis         | Huraikan risiko utama yang mungkin dihadapi, dan jelaskan bagaimana UiTM merancang untuk mengurus krisis. |
-| 9   | Sumber                                | Jelaskan bagaimana UiTM akan menggunakan sumber yang ada untuk mencapai objektif strategik. |
+| 9   | Sumber | Jelaskan bagaimana UiTM akan menggunakan sumber yang ada untuk mencapai objektif strategik. |
 | 10  | Kerjasama dan Perkongsian            | Nyatakan peluang kerjasama atau perkongsian yang boleh dieksplorasi untuk memperkukuhkan pelan strategik UiTM. |
 
 ## 2. Membuat Kandungan Kreatif
-Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Berikut adalah contoh arahan untuk kandungan kreatif yang memberi fokus kepada UiTM:
-
-Berikut adalah contoh prompt yang merangkumi setiap permintaan:
+Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Berikut adalah contoh arahan untuk kandungan kreatif:
 
 | No. | Jenis           | Arahan |
 |-----|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Puisi           | Tulis sebuah puisi tentang perjalanan seorang pelajar UiTM dari hari pertama sehingga hari konvokesyen.                                  |
-| 2   | Puisi           | Gambarkan keindahan kampus UiTM dalam bentuk puisi, termasuk suasana pagi, petang, dan malam.                                              |
-| 3   | Puisi           | Luahkan rasa bangga sebagai warga UiTM dalam sebuah puisi yang menggabungkan unsur tradisi dan moden.                                      |
+| 1   | Puisi           | Tulis sebuah puisi tentang perjalanan seorang pelajar UiTM dari hari pertama sehingga hari konvokesyen. |
+| 2   | Puisi           | Gambarkan keindahan kampus UiTM dalam bentuk puisi, termasuk suasana pagi, petang, dan malam. |
+| 3   | Puisi           | Luahkan rasa bangga sebagai warga UiTM dalam sebuah puisi yang menggabungkan unsur tradisi dan moden. |
 | 4   | Cerita Pendek   | Karangkan sebuah cerita pendek tentang seorang pelajar UiTM yang berjaya mengatasi cabaran dalam pelajaran dan kehidupan peribadi.          |
 | 5   | Cerita Pendek   | Ceritakan pengalaman seorang pelajar UiTM yang terlibat dalam aktiviti kokurikulum dan bagaimana ia membantu membentuk keperibadiannya.    |
 | 6   | Cerita Pendek   | Tulis sebuah kisah persahabatan antara pelajar-pelajar dari pelbagai fakulti di UiTM dan bagaimana mereka menyokong satu sama lain.       |
-| 7   | Lirik Lagu      | Cipta lirik lagu yang menggambarkan semangat dan dedikasi pelajar UiTM dalam mengejar cita-cita.                                           |
+| 7   | Lirik Lagu      | Cipta lirik lagu yang menggambarkan semangat dan dedikasi pelajar UiTM dalam mengejar cita-cita. |
 | 8   | Lirik Lagu      | Tulis lirik lagu tentang kenangan manis dan pahit sepanjang pengajian di UiTM, termasuk detik-detik bersama rakan-rakan dan pensyarah.  |
 | 9   | Lirik Lagu      | Karang lirik lagu yang menceritakan tentang pentingnya UiTM dalam membentuk masa depan anak bangsa dan sumbangannya kepada negara.        |
 
-## 3. Meringkaskan maklumat
-Membantu untuk meringkaskan artikel, buku, atau dokumen lainnya. Misalnya, jika Anda memiliki artikel panjang dan ingin ringkasan singkat, Copilot dapat membantu dengan itu.
-
-Berikut adalah beberapa cadangan arahan (prompt) untuk meringkaskan maklumat dari pelbagai sumber seperti artikel, buku, atau dokumen lain dengan fokus kepada UiTM:
+## 3. Ringkasan maklumat
+Membantu untuk meringkaskan artikel, buku, atau dokumen lainnya. Berikut adalah beberapa contoh arahan untuk meringkaskan maklumat dari pelbagai sumber:
 
 1. **Artikel Akademik:**
    "Ringkaskan artikel ini yang membincangkan tentang impak program keusahawanan UiTM terhadap pembangunan ekonomi tempatan."
