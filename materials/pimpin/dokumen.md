@@ -52,7 +52,7 @@ Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi
 
 <p align="center">
 <img src="../../images/chat.png"  height="450" />
-  <img src="../../images/chat.png"  height="450" />
+  <img src="../../images/chat1.png"  height="450" />
 </p>
 
 Ini adalah beberapa ciri utama yang boleh digunakan untuk menganalisis dan bekerja dengan dokumen PDF di Microsoft Edge. Fungsi-fungsi ini memudahkan penggunaan dokumen PDF tanpa perlu perisian pihak ketiga dan meningkatkan produktiviti kerja.
