@@ -20,3 +20,14 @@
 6. **Membantu dengan Tugas Sehari-hari**: Copilot juga dapat membantu dengan berbagai tugas sehari-hari seperti mengatur tab browser, mendapatkan kata laluan dari browser lain, dan membantu menemukan tempat untuk menonton film.
 
 Harap diingat bahwa kemampuan Copilot terus berkembang dan ditingkatkan, jadi ada banyak lagi yang dapat dilakukan! Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, jangan ragu untuk bertanya.
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
+
+You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
+
+
+
