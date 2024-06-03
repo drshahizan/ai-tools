@@ -8,7 +8,19 @@
 # Penggunaan Generatif AI
 
 ## 1. Menjawab Pertanyaan
-Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan teknis yang lebih spesifik. Misalnya, "Apa itu pembelajaran mesin?" atau "Bagaimana cara kerja algoritma sortir gelembung?".
+Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan yang lebih spesifik. Berikut adalah beberapa soalan yang boleh anda gunakan sebagai prompt untuk membincangkan perancangan strategik:
+
+1. **Matlamat dan Visi**: Apakah matlamat jangka panjang UiTM, dan bagaimana perancangan strategik dapat membantu mencapai visi tersebut?
+2. **Analisis SWOT**: Bagaimana analisis SWOT (Kekuatan, Kelemahan, Peluang, Ancaman) dapat membantu UiTM dalam merumuskan strategi?
+3. **Objektif SMART**: Apakah objektif SMART (Khusus, Boleh diukur, Boleh dicapai, Relevan, Terikat masa) yang kita ingin capai melalui perancangan strategik ini?
+4. **Penglibatan Pihak Berkepentingan**: Bagaimana UiTM boleh melibatkan pihak berkepentingan dalam proses perancangan strategik?
+5. **Pemantauan dan Penilaian**: Apakah mekanisme pemantauan dan penilaian yang akan gunakan untuk mengukur kejayaan pelan strategik UiTM?
+6. **Perubahan dan Adaptasi**: Bagaimana organisasi UiTM akan menyesuaikan diri dengan perubahan dalam industri atau persekitaran makro?
+7. **Inovasi dan Pertumbuhan**: Apakah inisiatif atau projek inovatif yang UiTM boleh sertakan dalam perancangan strategik untuk mendorong pertumbuhan?
+8. **Risiko dan Pengurusan Krisis**: Apakah risiko utama yang mungkin dihadapi, dan bagaimana UiTM merancang untuk mengurus krisis?
+9. **Sumber**: Bagaimana UiTM akan menggunakan sumber yang ada untuk mencapai objektif strategik?
+10. **Kerjasama dan Perkongsian**: Apakah peluang kerjasama atau perkongsian yang boleh kita teroka untuk memperkukuhkan pelan strategik UiTM?
+
 
 ## 2. Membuat Kandungan Kreatif
 Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Misalnya, jika Anda meminta "Buat puisi tentang matahari terbenam", Copilot dapat menghasilkan puisi yang indah dan puitis.
