@@ -24,9 +24,9 @@ Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-20
 
 Setelah dokumen terbuka di Microsoft Edge, anda dapat menggunakan bar alat yang terdapat di bahagian atas skrin untuk menavigasi dokumen, mengubah ukuran tampilan, dan mencari teks tertentu. Microsoft Edge juga menyediakan fungsi untuk mengedit, menyimpan, atau mencetak dokumen PDF tersebut.
 
-## 3. Analisis dokumen
+## 3. Fungsi yang tersedia untuk analisis dokumen
 
-Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan beberapa ciri bawaan yang berguna. Berikut adalah beberapa fungsi yang tersedia untuk membantu anda menganalisis dokumen PDF:
+Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi yang tersedia seperti:
 
 1. **Membuka PDF**: Anda boleh membuka dokumen PDF dengan mudah di Microsoft Edge dengan hanya mengklik dua kali pada fail atau menyeret dan menjatuhkan fail ke dalam tetingkap pelayar Edge.
 
