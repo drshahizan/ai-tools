@@ -9,7 +9,7 @@
 
 Kecerdasan Buatan (AI) dan Kepimpinan Strategik saling berkaitan dalam banyak aspek. AI merujuk kepada sistem komputer yang dapat melaksanakan tugas yang biasanya memerlukan kecerdasan manusia, seperti membuat persepsi visual, menyelesaikan masalah, dan membuat keputusan. Dalam konteks kepimpinan, AI dapat membantu pemimpin dalam membuat perancangan strategik dengan menyediakan analisis data yang mendalam, meramalkan hala tuju, perubahan pasaran, dan potensi risiko.
 
-Bagaimana AI mempengaruhi Kepimpinan Strategik:
+Bagaimana AI membantu Kepimpinan Strategik:
 
 1. **[Perancangan Strategik](materials/pimpin/1ps.md)**: AI membantu pemimpin dalam menyelaraskan objektif organisasi dengan matlamat jangka panjang. Ini termasuk penilaian persekitaran dalaman dan luaran, mengenal pasti peluang dan cabaran, serta membangunkan rancangan untuk mencapai kejayaan.
 
