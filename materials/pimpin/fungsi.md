@@ -10,49 +10,35 @@
 ## 1. Menjawab Pertanyaan
 Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umum hingga pertanyaan yang lebih spesifik. Berikut adalah  soalan yang boleh anda gunakan sebagai prompt untuk membincangkan perancangan strategik:
 
-1. **Matlamat dan Visi**: Apakah matlamat jangka panjang UiTM, dan bagaimana perancangan strategik dapat membantu mencapai visi tersebut?
-2. **Analisis SWOT**: Bagaimana analisis SWOT (Kekuatan, Kelemahan, Peluang, Ancaman) dapat membantu UiTM dalam merumuskan strategi?
-3. **Objektif SMART**: Apakah objektif SMART (Khusus, Boleh diukur, Boleh dicapai, Relevan, Terikat masa) yang kita ingin capai melalui perancangan strategik ini?
-4. **Penglibatan Pihak Berkepentingan**: Bagaimana UiTM boleh melibatkan pihak berkepentingan dalam proses perancangan strategik?
-5. **Pemantauan dan Penilaian**: Apakah mekanisme pemantauan dan penilaian yang akan gunakan untuk mengukur kejayaan pelan strategik UiTM?
-6. **Perubahan dan Adaptasi**: Bagaimana organisasi UiTM akan menyesuaikan diri dengan perubahan dalam industri atau persekitaran makro?
-7. **Inovasi dan Pertumbuhan**: Apakah inisiatif atau projek inovatif yang UiTM boleh sertakan dalam perancangan strategik untuk mendorong pertumbuhan?
-8. **Risiko dan Pengurusan Krisis**: Apakah risiko utama yang mungkin dihadapi, dan bagaimana UiTM merancang untuk mengurus krisis?
-9. **Sumber**: Bagaimana UiTM akan menggunakan sumber yang ada untuk mencapai objektif strategik?
-10. **Kerjasama dan Perkongsian**: Apakah peluang kerjasama atau perkongsian yang boleh kita teroka untuk memperkukuhkan pelan strategik UiTM?
-
+| No. | Perkara                               | Arahan |
+|-----|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Matlamat dan Visi                    | Terangkan matlamat jangka panjang UiTM dan jelaskan bagaimana perancangan strategik dapat membantu mencapai visi tersebut.                                 |
+| 2   | Analisis SWOT                        | Jelaskan bagaimana analisis SWOT (Kekuatan, Kelemahan, Peluang, Ancaman) dapat membantu UiTM dalam merumuskan strategi.                                    |
+| 3   | Objektif SMART                       | Nyatakan objektif SMART (Khusus, Boleh diukur, Boleh dicapai, Relevan, Terikat masa) yang ingin dicapai melalui perancangan strategik ini.                 |
+| 4   | Penglibatan Pihak Berkepentingan     | Huraikan bagaimana UiTM boleh melibatkan pihak berkepentingan dalam proses perancangan strategik.                                                            |
+| 5   | Pemantauan dan Penilaian             | Jelaskan mekanisme pemantauan dan penilaian yang akan digunakan untuk mengukur kejayaan pelan strategik UiTM.                                                 |
+| 6   | Perubahan dan Adaptasi               | Terangkan bagaimana organisasi UiTM akan menyesuaikan diri dengan perubahan dalam industri atau persekitaran makro.                                          |
+| 7   | Inovasi dan Pertumbuhan              | Nyatakan inisiatif atau projek inovatif yang UiTM boleh sertakan dalam perancangan strategik untuk mendorong pertumbuhan.                                    |
+| 8   | Risiko dan Pengurusan Krisis         | Huraikan risiko utama yang mungkin dihadapi, dan jelaskan bagaimana UiTM merancang untuk mengurus krisis. |
+| 9   | Sumber                                | Jelaskan bagaimana UiTM akan menggunakan sumber yang ada untuk mencapai objektif strategik. |
+| 10  | Kerjasama dan Perkongsian            | Nyatakan peluang kerjasama atau perkongsian yang boleh dieksplorasi untuk memperkukuhkan pelan strategik UiTM. |
 
 ## 2. Membuat Kandungan Kreatif
 Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Berikut adalah contoh arahan untuk kandungan kreatif yang memberi fokus kepada UiTM:
 
-**Puisi:**
+Berikut adalah contoh prompt yang merangkumi setiap permintaan:
 
-- Tulis sebuah puisi tentang perjalanan seorang pelajar UiTM dari hari pertama sehingga hari konvokesyen.
-- Gambarkan keindahan kampus UiTM dalam bentuk puisi, termasuk suasana pagi, petang, dan malam.
-- Luahkan rasa bangga sebagai warga UiTM dalam sebuah puisi yang menggabungkan unsur tradisi dan moden.
-
-**Cerita Pendek:**
-
-- Karangkan sebuah cerita pendek tentang seorang pelajar UiTM yang berjaya mengatasi cabaran dalam pelajaran dan kehidupan peribadi untuk mencapai impiannya.
-- Ceritakan pengalaman seorang pelajar UiTM yang terlibat dalam aktiviti kokurikulum dan bagaimana ia membantu membentuk keperibadiannya.
-- Tulis sebuah kisah persahabatan antara pelajar-pelajar dari pelbagai fakulti di UiTM dan bagaimana mereka menyokong satu sama lain melalui suka dan duka.
-
-**Lirik Lagu:**
-
-- Cipta lirik lagu yang menggambarkan semangat dan dedikasi pelajar UiTM dalam mengejar cita-cita.
-- Tulis lirik lagu tentang kenangan manis dan pahit sepanjang pengajian di UiTM, termasuk detik-detik bersama rakan-rakan dan pensyarah.
-- Karang lirik lagu yang menceritakan tentang pentingnya UiTM dalam membentuk masa depan anak bangsa dan sumbangannya kepada negara.
-
-**Contoh Spesifik Prompt:**
-
-**Puisi:**
-"Tulis sebuah puisi tentang bagaimana UiTM menjadi simbol harapan dan masa depan untuk generasi muda Malaysia, lengkap dengan deskripsi suasana kampus dan semangat pelajar."
-
-**Cerita Pendek:**
-"Ceritakan pengalaman seorang pelajar UiTM yang terlibat dalam projek komuniti di luar kampus, dan bagaimana projek tersebut memberi impak kepada dirinya dan masyarakat setempat."
-
-**Lirik Lagu:**
-"Cipta lirik lagu yang menceritakan perjalanan seorang pelajar dari tahun pertama hingga ke hari konvokesyen di UiTM, termasuk cabaran, kejayaan, dan kenangan manis yang dilalui bersama rakan-rakan."
+| No. | Jenis           | Arahan |
+|-----|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Puisi           | Tulis sebuah puisi tentang perjalanan seorang pelajar UiTM dari hari pertama sehingga hari konvokesyen.                                  |
+| 2   | Puisi           | Gambarkan keindahan kampus UiTM dalam bentuk puisi, termasuk suasana pagi, petang, dan malam.                                              |
+| 3   | Puisi           | Luahkan rasa bangga sebagai warga UiTM dalam sebuah puisi yang menggabungkan unsur tradisi dan moden.                                      |
+| 4   | Cerita Pendek   | Karangkan sebuah cerita pendek tentang seorang pelajar UiTM yang berjaya mengatasi cabaran dalam pelajaran dan kehidupan peribadi.          |
+| 5   | Cerita Pendek   | Ceritakan pengalaman seorang pelajar UiTM yang terlibat dalam aktiviti kokurikulum dan bagaimana ia membantu membentuk keperibadiannya.    |
+| 6   | Cerita Pendek   | Tulis sebuah kisah persahabatan antara pelajar-pelajar dari pelbagai fakulti di UiTM dan bagaimana mereka menyokong satu sama lain.       |
+| 7   | Lirik Lagu      | Cipta lirik lagu yang menggambarkan semangat dan dedikasi pelajar UiTM dalam mengejar cita-cita.                                           |
+| 8   | Lirik Lagu      | Tulis lirik lagu tentang kenangan manis dan pahit sepanjang pengajian di UiTM, termasuk detik-detik bersama rakan-rakan dan pensyarah.  |
+| 9   | Lirik Lagu      | Karang lirik lagu yang menceritakan tentang pentingnya UiTM dalam membentuk masa depan anak bangsa dan sumbangannya kepada negara.        |
 
 ## 3. Meringkaskan maklumat
 Membantu untuk meringkaskan artikel, buku, atau dokumen lainnya. Misalnya, jika Anda memiliki artikel panjang dan ingin ringkasan singkat, Copilot dapat membantu dengan itu.
@@ -108,7 +94,7 @@ Terjemahkan teks dari satu bahasa ke bahasa lain. Berikut adalah jadual yang men
 
 | No. | Perkara               | Arahan                                                                                           |
 |-----|-----------------------|--------------------------------------------------------------------------------------------------|
-| 1   | Penerangan Universiti | Terjemahkan penerangan ini tentang sejarah dan misi UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
+| 1   | Sejarah institusi  | Terjemahkan penerangan ini tentang sejarah dan misi UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
 | 2   | Artikel Akademik      | Terjemahkan abstrak artikel akademik ini yang membahas inovasi teknologi di UiTM dari Bahasa Inggeris ke Bahasa Malaysia. |
 | 3   | Surat Rasmi           | Terjemahkan surat rasmi ini yang ditujukan kepada pelajar antarabangsa yang ingin memohon masuk ke UiTM dari Bahasa Inggeris ke Bahasa Malaysia. |
 | 4   | Brosur Promosi        | Terjemahkan brosur promosi ini yang memperkenalkan program pengajian yang ditawarkan di UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
@@ -118,8 +104,18 @@ Terjemahkan teks dari satu bahasa ke bahasa lain. Berikut adalah jadual yang men
 | 8   | Panduan Pelajar       | Terjemahkan panduan pelajar ini tentang peraturan dan tatacara kehidupan kampus di UiTM dari Bahasa Malaysia ke Bahasa Inggeris. |
 
 ## 5. Menulis Kod Pengaturcaraan
-Membantu menulis kod dalam berbagai bahasa pengaturcaraan. Misalnya, jika Anda meminta "Tulis fungsi Python untuk mengurutkan daftar menggunakan algoritma sortir gelembung", Copilot dapat menghasilkan kode yang diperlukan.
+Membantu menulis kod dalam berbagai bahasa pengaturcaraan. Berikut adalah jadual yang menyenaraikan arahan (prompt) untuk menulis kod pengaturcaraan dengan fokus kepada UiTM:
 
+| No. | Perkara                                 | Arahan |
+|-----|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Sistem Pengurusan Pelajar               | Tulis kod pengaturcaraan untuk sistem pengurusan pelajar di UiTM yang membolehkan pengurusan maklumat pelajar seperti pendaftaran kursus, markah, dan maklumat peribadi. |
+| 2   | Sistem Perpustakaan                     | Cipta kod pengaturcaraan untuk sistem perpustakaan UiTM yang membolehkan pelajar mencari, meminjam, dan mengembalikan buku dengan mudah melalui antaramuka pengguna. |
+| 3   | Sistem Pengurusan Kursus                | Tulis kod pengaturcaraan untuk sistem pengurusan kursus di UiTM yang membolehkan pentadbir menguruskan jadual kuliah, memasukkan tugasan dan ujian, serta menyediakan bahan pengajaran kepada pelajar. |
+| 4   | Aplikasi E-Learning                     | Cipta kod pengaturcaraan untuk aplikasi e-learning UiTM yang menyediakan akses kepada bahan pengajaran dalam talian, ujian atas talian, dan forum perbincangan antara pensyarah dan pelajar. |
+| 5   | Sistem Maklumat Pelajar (SMP)          | Tulis kod pengaturcaraan untuk sistem maklumat pelajar (SMP) UiTM yang menyimpan maklumat peribadi, akademik, dan aktiviti kokurikulum pelajar dalam pangkalan data yang terpusat. |
+| 6   | Aplikasi Pengurusan Kewangan            | Cipta kod pengaturcaraan untuk aplikasi pengurusan kewangan UiTM yang membolehkan pentadbir menguruskan perbelanjaan, kutipan yuran, dan penyelarasan belanjawan universiti. |
+| 7   | Sistem Pengurusan Persuratan            | Tulis kod pengaturcaraan untuk sistem pengurusan persuratan UiTM yang memudahkan pentadbir dalam menyusun dan menguruskan surat-menyurat di dalam universiti. |
+| 8   | Sistem Pangkalan Data Alumni            | Cipta kod pengaturcaraan untuk sistem pangkalan data alumni UiTM yang menyimpan maklumat perhubungan dan pencapaian alumni bagi memudahkan interaksi dan perkongsian maklumat. |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
