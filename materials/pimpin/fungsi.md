@@ -26,42 +26,30 @@ Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umu
 ## 2. Menghasilkan Kandungan Kreatif
 Kandungan kreatif merujuk kepada penciptaan bahan atau isi yang asli dan inovatif, yang boleh melibatkan pelbagai bentuk seperti teks, grafik, audio, dan video. Ia sering dikaitkan dengan idea-idea baru, pendekatan yang tidak konvensional, dan penggunaan kreativiti untuk menyelesaikan masalah atau menyampaikan mesej dalam cara yang unik dan menarik. Berikut adalah jenis kandungan kreatif yang boleh dihasilkan:
 
-| No. | Jenis Kandungan Kreatif     | Penerangan |
-|-----|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 1   | Puisi                       | Karya sastera yang menekankan keindahan bahasa, irama, dan makna untuk menyampaikan perasaan, pengalaman, atau pemandangan. |
-| 2   | Cerita Pendek               | Naratif ringkas yang menekankan watak, plot, dan tema dalam format yang lebih padat berbanding novel.                       |
-| 3   | Lirik Lagu                  | Teks yang ditulis untuk muzik, sering kali berbentuk puitis dan berirama, menggambarkan perasaan atau kisah tertentu.       |
-| 4   | Dialog atau Skrip           | Perbualan atau naskah yang boleh digunakan untuk teater, filem, atau drama radio.                                          |
-| 5   | Artikel atau Esei Kreatif   | Penulisan yang menggabungkan fakta dengan naratif kreatif untuk menyampaikan maklumat atau pandangan secara menarik.        |
-| 6   | Sajak                       | Karya puisi yang lebih bebas dan kurang formal, sering kali lebih eksperimental dalam bentuk dan struktur.                  |
-| 7   | Monolog                     | Ucapan panjang oleh satu watak dalam drama atau naratif, mendedahkan fikiran atau perasaan mereka.                          |
-| 8   | Cerpen Berantai             | Kisah yang ditulis secara episodik, di mana setiap bahagian disambung dari bahagian sebelumnya.                              |
-| 9   | Flash Fiction               | Cerita pendek yang sangat ringkas, biasanya di bawah 1,000 perkataan, menekankan kecekapan dalam penceritaan.               |
-| 10  | Cerita Kanak-kanak          | Naratif yang ditulis khusus untuk kanak-kanak, biasanya dengan moral atau pelajaran yang jelas.                             |
-| 11  | Surat atau Nota Cinta       | Penulisan yang menyampaikan perasaan cinta, penghargaan, atau keinginan kepada seseorang yang istimewa.                      |
-| 12  | Prosa Puisi                 | Bentuk penulisan yang menggabungkan elemen puisi dan prosa, sering kali menggunakan bahasa yang kaya dan imajinatif.         |
-| 13  | Parodi atau Satira          | Karya yang menggunakan humor, ironi, atau keterlaluan untuk mengkritik atau mengolok-olok subjek tertentu.                  |
-| 14  | Fabel atau Cerita Rakyat    | Kisah dengan pelajaran moral, sering kali menggunakan haiwan sebagai watak utama.                                          |
-| 15  | Haiku                       | Bentuk puisi Jepun yang sangat ringkas, biasanya dengan struktur tiga baris 5-7-5 suku kata, sering kali menggambarkan alam. |
-| 16  | Cerita Inspirasi            | Naratif yang bertujuan untuk memberi motivasi atau inspirasi kepada pembaca melalui kisah kejayaan atau ketabahan.          |
-| 17  | Deskripsi Lanskap atau Tempat | Penulisan yang menggambarkan suatu tempat atau pemandangan dengan terperinci dan indah.                                     |
-| 18  | Surat Rasmi atau Informal   | Penulisan surat yang boleh formal atau santai, bergantung kepada konteks dan penerima.                                       |
-| 19  | Ulasan atau Kritikan        | Penulisan yang mengulas atau mengkritik karya seni, buku, filem, atau persembahan tertentu.                                 |
-| 20  | Blog atau Pos Media Sosial  | Kandungan yang ditulis untuk platform dalam talian, sering kali dengan nada perbualan dan menarik perhatian.                |
+Berikut adalah jadual yang memaparkan jenis kandungan kreatif yang boleh dihasilkan oleh ChatGPT, lengkap dengan contoh prompt berkenaan kepimpinan strategik di UiTM:
 
-ChatGPT boleh membantu mencipta, mengedit, dan memperbaiki pelbagai jenis kandungan kreatif ini mengikut keperluan dan kehendak anda.
-
-| No. | Jenis           | Arahan |
-|-----|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Puisi           | Tulis sebuah puisi tentang perjalanan seorang pelajar UiTM dari hari pertama sehingga hari konvokesyen. |
-| 2   | Puisi           | Gambarkan keindahan kampus UiTM dalam bentuk puisi, termasuk suasana pagi, petang, dan malam. |
-| 3   | Puisi           | Luahkan rasa bangga sebagai warga UiTM dalam sebuah puisi yang menggabungkan unsur tradisi dan moden. |
-| 4   | Cerita Pendek   | Karangkan sebuah cerita pendek tentang seorang pelajar UiTM yang berjaya mengatasi cabaran dalam pelajaran dan kehidupan peribadi.          |
-| 5   | Cerita Pendek   | Ceritakan pengalaman seorang pelajar UiTM yang terlibat dalam aktiviti kokurikulum dan bagaimana ia membantu membentuk keperibadiannya.    |
-| 6   | Cerita Pendek   | Tulis sebuah kisah persahabatan antara pelajar-pelajar dari pelbagai fakulti di UiTM dan bagaimana mereka menyokong satu sama lain.       |
-| 7   | Lirik Lagu      | Cipta lirik lagu yang menggambarkan semangat dan dedikasi pelajar UiTM dalam mengejar cita-cita. |
-| 8   | Lirik Lagu      | Tulis lirik lagu tentang kenangan manis dan pahit sepanjang pengajian di UiTM, termasuk detik-detik bersama rakan-rakan dan pensyarah.  |
-| 9   | Lirik Lagu      | Karang lirik lagu yang menceritakan tentang pentingnya UiTM dalam membentuk masa depan anak bangsa dan sumbangannya kepada negara.        |
+| No. | Jenis Kandungan Kreatif     | Penerangan | Arahan |
+|-----|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1   | Puisi                       | Karya sastera yang menekankan keindahan bahasa, irama, dan makna untuk menyampaikan perasaan, pengalaman, atau pemandangan. | Tulis sebuah puisi tentang kepimpinan strategik di UiTM dan bagaimana ia menginspirasi para pelajar.    |
+| 2   | Cerita Pendek               | Naratif ringkas yang menekankan watak, plot, dan tema dalam format yang lebih padat berbanding novel.                       | Karangkan sebuah cerita pendek mengenai seorang pemimpin strategik di UiTM yang membawa perubahan besar. |
+| 3   | Lirik Lagu                  | Teks yang ditulis untuk muzik, sering kali berbentuk puitis dan berirama, menggambarkan perasaan atau kisah tertentu.       | Cipta lirik lagu yang menggambarkan visi dan dedikasi kepimpinan strategik di UiTM.                      |
+| 4   | Dialog atau Skrip           | Perbualan atau naskah yang boleh digunakan untuk teater, filem, atau drama radio.                                          | Tulis skrip dialog antara dua pemimpin UiTM yang membincangkan perancangan strategik untuk masa depan.   |
+| 5   | Artikel atau Esei Kreatif   | Penulisan yang menggabungkan fakta dengan naratif kreatif untuk menyampaikan maklumat atau pandangan secara menarik.        | Tulis sebuah artikel tentang strategi kepimpinan di UiTM dan impaknya terhadap kecemerlangan akademik.   |
+| 6   | Sajak                       | Karya puisi yang lebih bebas dan kurang formal, sering kali lebih eksperimental dalam bentuk dan struktur.                  | Tulis sebuah sajak yang menggambarkan semangat kepimpinan strategik di UiTM.                             |
+| 7   | Monolog                     | Ucapan panjang oleh satu watak dalam drama atau naratif, mendedahkan fikiran atau perasaan mereka.                          | Tulis monolog seorang pemimpin UiTM yang berfikir tentang cabaran dan kejayaan dalam memimpin universiti.|
+| 8   | Cerpen Berantai             | Kisah yang ditulis secara episodik, di mana setiap bahagian disambung dari bahagian sebelumnya.                             | Karang sebuah cerpen berantai tentang pelbagai pemimpin UiTM yang menerapkan strategi berkesan.          |
+| 9   | Flash Fiction               | Cerita pendek yang sangat ringkas, biasanya di bawah 1,000 perkataan, menekankan kecekapan dalam penceritaan.               | Tulis sebuah flash fiction tentang tindakan strategik seorang pemimpin UiTM yang membawa kejayaan besar. |
+| 10  | Cerita Kanak-kanak          | Naratif yang ditulis khusus untuk kanak-kanak, biasanya dengan moral atau pelajaran yang jelas.                             | Tulis sebuah cerita kanak-kanak tentang seorang pemimpin muda di UiTM yang bercita-cita tinggi.          |
+| 11  | Surat atau Nota Cinta       | Penulisan yang menyampaikan perasaan cinta, penghargaan, atau keinginan kepada seseorang yang istimewa.                     | Tulis sebuah surat cinta yang mengungkapkan rasa kagum terhadap kepimpinan strategik di UiTM.            |
+| 12  | Prosa Puisi                 | Bentuk penulisan yang menggabungkan elemen puisi dan prosa, sering kali menggunakan bahasa yang kaya dan imajinatif.         | Tulis sebuah prosa puisi tentang visi dan misi kepimpinan di UiTM.                                       |
+| 13  | Parodi atau Satira          | Karya yang menggunakan humor, ironi, atau keterlaluan untuk mengkritik atau mengolok-olok subjek tertentu.                  | Tulis sebuah parodi tentang pelbagai gaya kepimpinan di UiTM dan bagaimana ia mempengaruhi pelajar.      |
+| 14  | Fabel atau Cerita Rakyat    | Kisah dengan pelajaran moral, sering kali menggunakan haiwan sebagai watak utama.                                          | Tulis sebuah fabel tentang haiwan yang menerapkan kepimpinan strategik untuk memajukan komuniti mereka.  |
+| 15  | Haiku                       | Bentuk puisi Jepun yang sangat ringkas, biasanya dengan struktur tiga baris 5-7-5 suku kata, sering kali menggambarkan alam. | Tulis sebuah haiku tentang kepimpinan di UiTM.                                                          |
+| 16  | Cerita Inspirasi            | Naratif yang bertujuan untuk memberi motivasi atau inspirasi kepada pembaca melalui kisah kejayaan atau ketabahan.          | Tulis sebuah cerita inspirasi tentang seorang pemimpin UiTM yang berjaya membawa perubahan positif.     |
+| 17  | Deskripsi Lanskap atau Tempat| Penulisan yang menggambarkan suatu tempat atau pemandangan dengan terperinci dan indah.                                    | Tulis deskripsi lanskap kampus UiTM yang mencerminkan kepimpinan strategik dalam setiap sudutnya.       |
+| 18  | Surat Rasmi atau Informal   | Penulisan surat yang boleh formal atau santai, bergantung kepada konteks dan penerima.                                      | Tulis surat rasmi kepada seorang pemimpin UiTM mengucapkan tahniah atas kejayaan strategik yang dicapai. |
+| 19  | Ulasan atau Kritikan        | Penulisan yang mengulas atau mengkritik karya seni, buku, filem, atau persembahan tertentu.                                 | Tulis ulasan tentang buku yang membincangkan strategi kepimpinan di UiTM.                                |
+| 20  | Blog atau Pos Media Sosial  | Kandungan yang ditulis untuk platform dalam talian, sering kali dengan nada perbualan dan menarik perhatian.                | Tulis blog tentang langkah-langkah strategik terbaru yang diambil oleh kepimpinan UiTM.                 |
 
 ## 3. Ringkasan maklumat
 Membantu untuk meringkaskan artikel, buku, atau dokumen lainnya. Berikut adalah beberapa contoh arahan untuk meringkaskan maklumat dari pelbagai sumber:
