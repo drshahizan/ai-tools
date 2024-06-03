@@ -23,7 +23,36 @@ Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umu
 
 
 ## 2. Membuat Kandungan Kreatif
-Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Misalnya, jika Anda meminta "Buat puisi tentang matahari terbenam", Copilot dapat menghasilkan puisi yang indah dan puitis.
+Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Berikut adalah contoh arahan untuk kandungan kreatif yang memberi fokus kepada UiTM:
+
+**Puisi:**
+
+- Tulis sebuah puisi tentang perjalanan seorang pelajar UiTM dari hari pertama sehingga hari konvokesyen.
+- Gambarkan keindahan kampus UiTM dalam bentuk puisi, termasuk suasana pagi, petang, dan malam.
+- Luahkan rasa bangga sebagai warga UiTM dalam sebuah puisi yang menggabungkan unsur tradisi dan moden.
+
+**Cerita Pendek:**
+
+- Karangkan sebuah cerita pendek tentang seorang pelajar UiTM yang berjaya mengatasi cabaran dalam pelajaran dan kehidupan peribadi untuk mencapai impiannya.
+- Ceritakan pengalaman seorang pelajar UiTM yang terlibat dalam aktiviti kokurikulum dan bagaimana ia membantu membentuk keperibadiannya.
+- Tulis sebuah kisah persahabatan antara pelajar-pelajar dari pelbagai fakulti di UiTM dan bagaimana mereka menyokong satu sama lain melalui suka dan duka.
+
+**Lirik Lagu:**
+
+- Cipta lirik lagu yang menggambarkan semangat dan dedikasi pelajar UiTM dalam mengejar cita-cita.
+- Tulis lirik lagu tentang kenangan manis dan pahit sepanjang pengajian di UiTM, termasuk detik-detik bersama rakan-rakan dan pensyarah.
+- Karang lirik lagu yang menceritakan tentang pentingnya UiTM dalam membentuk masa depan anak bangsa dan sumbangannya kepada negara.
+
+**Contoh Spesifik Prompt:**
+
+**Puisi:**
+"Tulis sebuah puisi tentang bagaimana UiTM menjadi simbol harapan dan masa depan untuk generasi muda Malaysia, lengkap dengan deskripsi suasana kampus dan semangat pelajar."
+
+**Cerita Pendek:**
+"Ceritakan pengalaman seorang pelajar UiTM yang terlibat dalam projek komuniti di luar kampus, dan bagaimana projek tersebut memberi impak kepada dirinya dan masyarakat setempat."
+
+**Lirik Lagu:**
+"Cipta lirik lagu yang menceritakan perjalanan seorang pelajar dari tahun pertama hingga ke hari konvokesyen di UiTM, termasuk cabaran, kejayaan, dan kenangan manis yang dilalui bersama rakan-rakan."
 
 ## 3. Meringkaskan maklumat
 Membantu untuk meringkaskan artikel, buku, atau dokumen lainnya. Misalnya, jika Anda memiliki artikel panjang dan ingin ringkasan singkat, Copilot dapat membantu dengan itu.
