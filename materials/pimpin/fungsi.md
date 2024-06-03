@@ -23,10 +23,8 @@ Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umu
 | 9   | Sumber | Jelaskan bagaimana UiTM akan menggunakan sumber yang ada untuk mencapai objektif strategik. |
 | 10  | Kerjasama dan Perkongsian            | Nyatakan peluang kerjasama atau perkongsian yang boleh dieksplorasi untuk memperkukuhkan pelan strategik UiTM. |
 
-## 2. Menghasilkan Kandungan Kreatif
+## 2. Kandungan Kreatif
 Kandungan kreatif merujuk kepada penciptaan bahan atau isi yang asli dan inovatif, yang boleh melibatkan pelbagai bentuk seperti teks, grafik, audio, dan video. Ia sering dikaitkan dengan idea-idea baru, pendekatan yang tidak konvensional, dan penggunaan kreativiti untuk menyelesaikan masalah atau menyampaikan mesej dalam cara yang unik dan menarik. Berikut adalah jenis kandungan kreatif yang boleh dihasilkan:
-
-Berikut adalah jadual yang memaparkan jenis kandungan kreatif yang boleh dihasilkan oleh ChatGPT, lengkap dengan contoh prompt berkenaan kepimpinan strategik di UiTM:
 
 | No. | Jenis Kandungan Kreatif     | Penerangan | Arahan |
 |-----|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
@@ -51,7 +49,7 @@ Berikut adalah jadual yang memaparkan jenis kandungan kreatif yang boleh dihasil
 | 19  | Ulasan atau Kritikan        | Penulisan yang mengulas atau mengkritik karya seni, buku, filem, atau persembahan tertentu.                                 | Tulis ulasan tentang buku yang membincangkan strategi kepimpinan di UiTM.                                |
 | 20  | Blog atau Pos Media Sosial  | Kandungan yang ditulis untuk platform dalam talian, sering kali dengan nada perbualan dan menarik perhatian.                | Tulis blog tentang langkah-langkah strategik terbaru yang diambil oleh kepimpinan UiTM.                 |
 
-## 3. Ringkasan maklumat
+## 3. Ringkasan Maklumat
 Membantu untuk meringkaskan artikel, buku, atau dokumen lainnya. Berikut adalah beberapa contoh arahan untuk meringkaskan maklumat dari pelbagai sumber:
 
 | No. | Perkara             | Arahan |
