@@ -30,7 +30,8 @@ Bagaimana AI membantu Kepimpinan Strategik:
 | 3. | Arahan | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [Latihan: Penggunaan arahan Generatif AI](materials/pimpin/fungsi.md)|
-|  |  | [Latihan: Analisa dokumen](materials/pimpin/dokumen.md)|
+|  |  | [Latihan: Analisa dokumen menggunakan Copilot](materials/pimpin/dokumen_copilot.md)|
+|  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](materials/pimpin/dokumen_chatgpt.md)|
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
