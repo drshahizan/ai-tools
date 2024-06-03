@@ -23,8 +23,33 @@ Generatif AI dapat menjawab berbagai jenis pertanyaan, mulai dari pertanyaan umu
 | 9   | Sumber | Jelaskan bagaimana UiTM akan menggunakan sumber yang ada untuk mencapai objektif strategik. |
 | 10  | Kerjasama dan Perkongsian            | Nyatakan peluang kerjasama atau perkongsian yang boleh dieksplorasi untuk memperkukuhkan pelan strategik UiTM. |
 
-## 2. Membuat Kandungan Kreatif
-Membantu membuat kandungan kreatif seperti puisi, cerita, atau lirik lagu. Berikut adalah contoh arahan untuk kandungan kreatif:
+## 2. Menghasilkan Kandungan Kreatif
+Kandungan kreatif merujuk kepada penciptaan bahan atau isi yang asli dan inovatif, yang boleh melibatkan pelbagai bentuk seperti teks, grafik, audio, dan video. Ia sering dikaitkan dengan idea-idea baru, pendekatan yang tidak konvensional, dan penggunaan kreativiti untuk menyelesaikan masalah atau menyampaikan mesej dalam cara yang unik dan menarik. Berikut adalah jenis kandungan kreatif yang boleh dihasilkan:
+
+| No. | Jenis Kandungan Kreatif     | Penerangan |
+|-----|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1   | Puisi                       | Karya sastera yang menekankan keindahan bahasa, irama, dan makna untuk menyampaikan perasaan, pengalaman, atau pemandangan. |
+| 2   | Cerita Pendek               | Naratif ringkas yang menekankan watak, plot, dan tema dalam format yang lebih padat berbanding novel.                       |
+| 3   | Lirik Lagu                  | Teks yang ditulis untuk muzik, sering kali berbentuk puitis dan berirama, menggambarkan perasaan atau kisah tertentu.       |
+| 4   | Dialog atau Skrip           | Perbualan atau naskah yang boleh digunakan untuk teater, filem, atau drama radio.                                          |
+| 5   | Artikel atau Esei Kreatif   | Penulisan yang menggabungkan fakta dengan naratif kreatif untuk menyampaikan maklumat atau pandangan secara menarik.        |
+| 6   | Sajak                       | Karya puisi yang lebih bebas dan kurang formal, sering kali lebih eksperimental dalam bentuk dan struktur.                  |
+| 7   | Monolog                     | Ucapan panjang oleh satu watak dalam drama atau naratif, mendedahkan fikiran atau perasaan mereka.                          |
+| 8   | Cerpen Berantai             | Kisah yang ditulis secara episodik, di mana setiap bahagian disambung dari bahagian sebelumnya.                              |
+| 9   | Flash Fiction               | Cerita pendek yang sangat ringkas, biasanya di bawah 1,000 perkataan, menekankan kecekapan dalam penceritaan.               |
+| 10  | Cerita Kanak-kanak          | Naratif yang ditulis khusus untuk kanak-kanak, biasanya dengan moral atau pelajaran yang jelas.                             |
+| 11  | Surat atau Nota Cinta       | Penulisan yang menyampaikan perasaan cinta, penghargaan, atau keinginan kepada seseorang yang istimewa.                      |
+| 12  | Prosa Puisi                 | Bentuk penulisan yang menggabungkan elemen puisi dan prosa, sering kali menggunakan bahasa yang kaya dan imajinatif.         |
+| 13  | Parodi atau Satira          | Karya yang menggunakan humor, ironi, atau keterlaluan untuk mengkritik atau mengolok-olok subjek tertentu.                  |
+| 14  | Fabel atau Cerita Rakyat    | Kisah dengan pelajaran moral, sering kali menggunakan haiwan sebagai watak utama.                                          |
+| 15  | Haiku                       | Bentuk puisi Jepun yang sangat ringkas, biasanya dengan struktur tiga baris 5-7-5 suku kata, sering kali menggambarkan alam. |
+| 16  | Cerita Inspirasi            | Naratif yang bertujuan untuk memberi motivasi atau inspirasi kepada pembaca melalui kisah kejayaan atau ketabahan.          |
+| 17  | Deskripsi Lanskap atau Tempat | Penulisan yang menggambarkan suatu tempat atau pemandangan dengan terperinci dan indah.                                     |
+| 18  | Surat Rasmi atau Informal   | Penulisan surat yang boleh formal atau santai, bergantung kepada konteks dan penerima.                                       |
+| 19  | Ulasan atau Kritikan        | Penulisan yang mengulas atau mengkritik karya seni, buku, filem, atau persembahan tertentu.                                 |
+| 20  | Blog atau Pos Media Sosial  | Kandungan yang ditulis untuk platform dalam talian, sering kali dengan nada perbualan dan menarik perhatian.                |
+
+ChatGPT boleh membantu mencipta, mengedit, dan memperbaiki pelbagai jenis kandungan kreatif ini mengikut keperluan dan kehendak anda.
 
 | No. | Jenis           | Arahan |
 |-----|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
