@@ -14,7 +14,6 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 | 1. | [Teks Amanat Naib Canselor 2024](https://www.uitm.edu.my/images/document/amanat-vc/final-amanat-naib-canselor-umum-9-feb-2024.pdf) |
 | 2. | [Slaid Amanat Naib Canselor 2024](https://uitm.edu.my/images/document/amanat-vc/slide_amanat-nc-2024.pdf) |
 | 3. | [Laporan Tahunan UiTM 2021](https://www.uitm.edu.my/images/stories/about/LaporanTahunanUiTM2021.pdf) |
-| 4. | [Population Table: Malaysia](https://data.gov.my/data-catalogue/population_malaysia)
 
 ## 2. Cara untuk membuka fail di Microsoft Edge
 Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
