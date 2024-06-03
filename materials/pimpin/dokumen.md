@@ -20,7 +20,7 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
 1. Sila muat turun dokumen tersebut. Setelah itu **Cari dokumen PDF** yang ingin anda buka di komputer anda.
 2. **Klik kanan** pada dokumen tersebut dan pilih **'Open With'**, kemudian pilih **Microsoft Edge** dari senarai aplikasi.
-3. Jika dokumen tersebut sudah terbuka di pelayar web lain, Anda boleh **menyeret dan menjatuhkan** fail PDF tersebut ke dalam tetingkap Microsoft Edge untuk membukanya.
+3. Jika dokumen tersebut sudah terbuka di pelayar web lain, Anda boleh **menyeret dan menjatuhkan** fail PDF tersebut ke dalam tetingkap Microsoft Edge untuk membukanya. Rajah di bawah menunjukkan fail PDF yang berjaya di buka di Microsoft Edge.
 
 <p align="center">
 <img src="../../images/fail_edge.png"  height="350" />
