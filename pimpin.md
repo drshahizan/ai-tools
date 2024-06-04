@@ -33,6 +33,8 @@ Bagaimana AI membantu Kepimpinan Strategik:
 |  |  | [Latihan: Analisa dokumen menggunakan Copilot](materials/pimpin/dokumen_copilot.md)|
 |  |  | [Latihan: MarkMap](materials/pimpin/markmap.md)|
 |  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](materials/pimpin/dokumen_chatgpt.md)|
+|  |  | [Latihan: Julius.ai(https://julius.ai/)|
+|  |  | [Latihan: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
@@ -41,7 +43,6 @@ Bagaimana AI membantu Kepimpinan Strategik:
 | 4. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
 |  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
 | 5. | Image Creator | [Bing's Image Creator](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bing_image.md) |
-|  |  | [Prompt: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
 
 
