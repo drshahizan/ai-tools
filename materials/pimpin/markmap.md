@@ -90,10 +90,10 @@ This mind map represents the key points and themes from the Amanat Naib Canselor
 ## 2. [MarkMap](https://markmap.js.org/repl)
 Paste the Markdown code into [MarkMap](https://markmap.js.org/repl): Open Markmap and paste your copied markdown content. Markmap will automatically generate an interactive mind map based on the markdown structure.
 
-**Example**: Rice Disease
+**Example**: Amanat Naib Canselor
 
 <p align="center">
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/markmap.png" height="250" />
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/markmap1.png" height="300" />
 </p>
 
 ## 3. Interact with Your Mind Map
