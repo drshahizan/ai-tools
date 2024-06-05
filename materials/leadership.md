@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Kecerdasan Buatan dan Kepimpinan Strategik: Merangka Masa Depan Universiti yang Mampan
+# How AI tools can be used by University Academic Managers
 
 Kecerdasan Buatan (AI) dan Kepimpinan Strategik saling berkaitan dalam banyak aspek. AI merujuk kepada sistem komputer yang dapat melaksanakan tugas yang biasanya memerlukan kecerdasan manusia, seperti membuat persepsi visual, menyelesaikan masalah, dan membuat keputusan. Dalam konteks kepimpinan, AI dapat membantu pemimpin dalam membuat perancangan strategik dengan menyediakan analisis data yang mendalam, meramalkan hala tuju, perubahan pasaran, dan potensi risiko.
 
