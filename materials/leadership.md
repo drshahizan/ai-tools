@@ -19,13 +19,6 @@ The key responsibilities of University Academic Managers at UTM (Universiti Tekn
 | Student Affairs | Managing student affairs to create a conducive academic environment. |
 | Liaison | Acting as a liaison between faculty and senior management. |
 
-This table provides a concise overview of the multifaceted role that Academic Managers play in the university setting. Their work is integral to the smooth operation and academic success of the institution.
-
-Source: Conversation with Copilot, 06/06/2024
-(1) Academic Manager Job Description | Velvet Jobs. https://www.velvetjobs.com/job-descriptions/academic-manager.
-(2) THESIS - Universiti Teknologi Malaysia. https://sps.utm.my/wp-content/uploads/2019/08/THESIS-GUIDELINES-070819.pdf.
-(3) UTM(PS)-03/96 (Pind. 1/04) SCHOOL OF GRADUATE STUDIES UNIVERSITI .... https://sps.utm.my/wp-content/uploads/2016/07/checklistthesissubmission.pdf.
-
 ## Generatif AI
 
 | No | Pelajaran | Topik |
