@@ -17,13 +17,13 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 
 
 ## 2. Cara untuk membuka fail di Microsoft Edge
-Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
+Untuk membuka dokumen PDF yang bernama "SLIDE-AMANAT-TNCAA-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
 1. Sila muat turun dokumen tersebut. Setelah itu **Cari dokumen PDF** yang ingin anda buka di komputer anda.
 2. **Klik kanan** pada dokumen tersebut dan pilih **'Open With'**, kemudian pilih **Microsoft Edge** dari senarai aplikasi.
 3. Jika dokumen tersebut sudah terbuka di pelayar web lain, Anda boleh **menyeret dan menjatuhkan** fail PDF tersebut ke dalam tetingkap Microsoft Edge untuk membukanya. Rajah di bawah menunjukkan fail PDF yang berjaya di buka di Microsoft Edge.
 
 <p align="center">
-<img src="../../images/fail_edge.png"  height="350" />
+<img src="../../images/edge1.png"  height="350" />
 </p>
 
 Setelah dokumen terbuka di Microsoft Edge, anda dapat menggunakan bar alat yang terdapat di bahagian atas skrin untuk menavigasi dokumen, mengubah ukuran tampilan, dan mencari teks tertentu. Microsoft Edge juga menyediakan fungsi untuk mengedit, menyimpan, atau mencetak dokumen PDF tersebut.
@@ -45,7 +45,7 @@ Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi
 6. **Terjemahan PDF**: Microsoft Edge membolehkan anda menterjemahkan teks dari dokumen PDF ke bahasa lain. Pilih teks yang ingin diterjemahkan, kemudian klik ikon terjemah di bar alat PDF.
 
 <p align="center">
-<img src="../../images/terjemah.png"  height="350" />
+<img src="../../images/edge2.png"  height="350" />
 </p>
 
 8. **Menggunakan Bing AI untuk Analisis**: Anda boleh menggunakan Bing AI untuk menganalisis dokumen PDF dengan membuka dokumen di Edge, klik ikon Bing AI, dan ketik 'summarize this' untuk mendapatkan ringkasan dokumen.
