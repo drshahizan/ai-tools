@@ -48,7 +48,7 @@ Bagaimana AI membantu Kepimpinan Strategik:
 ## Latihan
 
 | No | Topik |
-|-----------------|
+|------------|----|
 | 1. | [Latihan: Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
 | 2. | [Latihan: Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
 | 3. | [Latihan: MarkMap](pimpin/markmap.md)|
