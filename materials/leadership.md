@@ -27,12 +27,6 @@ The key responsibilities of University Academic Managers at UTM (Universiti Tekn
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](materials/pimpin/signin.md)|
 | 4. | Arahan | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|  |  | [Latihan: Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
-|  |  | [Latihan: Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
-|  |  | [Latihan: MarkMap](pimpin/markmap.md)|
-|  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](pimpin/dokumen_chatgpt.md)|
-|  |  | [Latihan: Julius.ai](https://julius.ai/)|
-|  |  | [Latihan: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
