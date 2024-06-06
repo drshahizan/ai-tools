@@ -5,10 +5,6 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-<p align="center">
-<img src="/images/qrcode_leader.png"  height="500" />
-</p>
-
 # How AI tools can be used by University Academic Managers
 
 AI tools are revolutionising the work of academic administrators at universities, significantly increasing productivity and efficiency in various areas such as research management, academic advising, data analysis and course design. These tools automate tasks, provide data-driven insights and support decision-making processes. They help in drafting research proposals, identifying at-risk students, analysing academic data and designing curricula. In addition, AI tools streamline project management workflows and promote a healthy, productive academic environment.
