@@ -10,7 +10,7 @@
 ## 1. Answering Questions
 Generative AI can answer various types of questions, from general queries to more specific ones. Below are some prompts you can use to discuss strategic planning:
 
-| No. | Topic                            | Instruction |
+| No. | Topic                            | Prompt |
 |-----|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Goals and Vision                 | Explain UTM's long-term goals and how strategic planning can help achieve this vision.                                 |
 | 2   | SWOT Analysis                    | Describe how a SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) can assist UTM in formulating strategies.                                    |
@@ -26,7 +26,7 @@ Generative AI can answer various types of questions, from general queries to mor
 ## 2. Creative Content
 Creative content refers to the creation of original and innovative material, which can involve various forms such as text, graphics, audio, and video. It often involves new ideas, unconventional approaches, and the use of creativity to solve problems or convey messages in unique and engaging ways. Here are types of creative content that can be produced:
 
-| No. | Type of Creative Content | Description | Instruction |
+| No. | Type of Creative Content | Description | Prompt |
 |-----|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | 1   | Poetry                   | Literary work emphasizing the beauty of language, rhythm, and meaning to convey feelings, experiences, or scenes. | Write a poem about strategic leadership at UTM and how it inspires students.    |
 | 2   | Short Story              | A brief narrative focusing on character, plot, and theme in a more condensed format compared to a novel.                       | Write a short story about a strategic leader at UTM who brings significant change. |
@@ -52,7 +52,7 @@ Creative content refers to the creation of original and innovative material, whi
 ## 3. Summarizing Information
 Generative AI can help summarize articles, books, or other documents. Here are some example instructions for summarizing information from various sources:
 
-| No. | Topic               | Instruction |
+| No. | Topic               | Prompt |
 |-----|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Academic Article    | Summarize this article discussing technological innovations at UTM and how they affect the quality of education and research.         |
 | 2   | Research Report     | Summarize this report evaluating the effectiveness of UTM's industrial training programs in enhancing graduate employability.                |
@@ -66,7 +66,7 @@ Generative AI can help summarize articles, books, or other documents. Here are s
 ## 4. Translating Text
 Generative AI can translate text from one language to another. Below is a table listing instructions for translating text from Malay to English:
 
-| No. | Topic                 | Instruction                                                                                           |
+| No. | Topic                 | Prompt                                                                                           |
 |-----|-----------------------|--------------------------------------------------------------------------------------------------|
 | 1   | Institutional History | Translate this description of UTM's history and mission from Malay to English. |
 | 2   | Academic Article      | Translate this academic article abstract discussing technological innovations at UTM from English to Malay. |
