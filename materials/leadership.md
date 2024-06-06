@@ -53,6 +53,7 @@ The key responsibilities of University Academic Managers:
 | 4. | [MarkMap](pimpin/markmap.md) |
 | 5. | [Document Analysis using ChatGPT](pimpin/dokumen_chatgpt.md) |
 | 6. | [Julius.ai](https://julius.ai/) |
+| 7. | [claude.ai](https://claude.ai/)|
 | 7. | [Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 
 ## Others
