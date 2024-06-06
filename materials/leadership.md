@@ -23,40 +23,40 @@ The key responsibilities of University Academic Managers at UTM (Universiti Tekn
 | [Student Affairs](leader/affairs.md) | Managing student affairs to create a conducive academic environment. |
 | [Liaison](leader/liaison.md) | Acting as a liaison between faculty and senior management. |
 
-## Generatif AI
+## Generative AI
 
-| No | Pelajaran | Topik |
+| No | Lesson | Topic |
 |--------|---------|---------|
-| 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](materials/pimpin/signin.md)|
-| 4. | Arahan | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
-|  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
-|  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
-|  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
-|  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
-|  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
-| 5. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
+| 2. | Article | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
+| 3. | Installation & Login | [ChatGPT, Copilot, Gemini](materials/pimpin/signin.md) |
+| 4. | Prompt | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts) |
+|  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md) |
+|  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md) |
+|  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md) |
+|  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts) |
+|  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates) |
+|  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md) |
+| 5. | Copywriting | [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
 |  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
-| 6. | Penjanaan imej | [Bing's Image Creator](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bing_image.md) |
+| 6. | Image Generation | [Bing's Image Creator](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bing_image.md) |
 |  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
 
-## Latihan
 
-| No | Topik |
+## Training
+
+| No | Topic |
 |------------|----|
-| 1. | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/)|
-| 2. | [Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
-| 3. | [Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
-| 4. | [MarkMap](pimpin/markmap.md)|
-| 5. | [Analisa dokumen menggunakan ChatGPT](pimpin/dokumen_chatgpt.md)|
-| 6. | [Julius.ai](https://julius.ai/)|
+| 1. | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
+| 2. | [Use of Generative AI Instructions](pimpin/fungsi.md) |
+| 3. | [Document Analysis using Copilot](pimpin/dokumen_copilot.md) |
+| 4. | [MarkMap](pimpin/markmap.md) |
+| 5. | [Document Analysis using ChatGPT](pimpin/dokumen_chatgpt.md) |
+| 6. | [Julius.ai](https://julius.ai/) |
 | 7. | [Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 
+## Others
 
-## Maklumat Tambahan
-
-| No | Pelajaran | Topik |
+| No | Lesson | Topic |
 |--------:|---------|---------|
 | 1. | AI Show Case | [Future of Work](../../images/Future%20of%20Work%20.pdf) |
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
