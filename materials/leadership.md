@@ -11,7 +11,7 @@ Kecerdasan Buatan (AI) dan Kepimpinan Strategik saling berkaitan dalam banyak as
 
 Bagaimana AI membantu Kepimpinan Strategik:
 
-1. **[Perancangan Strategik](/pimpin/1ps.md)**: AI membantu pemimpin dalam menyelaraskan objektif organisasi dengan matlamat jangka panjang. Ini termasuk penilaian persekitaran dalaman dan luaran, mengenal pasti peluang dan cabaran, serta membangunkan rancangan untuk mencapai kejayaan.
+1. **[Perancangan Strategik](pimpin/1ps.md)**: AI membantu pemimpin dalam menyelaraskan objektif organisasi dengan matlamat jangka panjang. Ini termasuk penilaian persekitaran dalaman dan luaran, mengenal pasti peluang dan cabaran, serta membangunkan rancangan untuk mencapai kejayaan.
 
 2. **[Automasi Tugasan](materials/pimpin/2automasi.md)**: AI boleh digunakan untuk mengautomasikan tugasan rutin dan berulang, membolehkan pemimpin dan pasukan mereka memberi tumpuan kepada tugas yang lebih penting dan strategik.
 
