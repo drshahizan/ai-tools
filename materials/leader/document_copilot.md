@@ -5,86 +5,59 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Analisis Dokumen: Copilot
+# Document Analysis: Copilot
 
-## 1. Muat turun dokumen
-Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
-| No  | Nama dokumen |
+## 1. Download the document
+You need to download the document to enable the document analysis process to be carried out. The document is
+| No | Document Name |
 |--------:|---------|
 | 1. | [Generative AI and the Automating of Academia](https://github.com/drshahizan/ai-tools/blob/main/images/genAi.pdf) |
 | 2. | [Slaid amanat TNCAA 2024](https://github.com/drshahizan/ai-tools/blob/main/images/SLIDE-AMANAT-TNCAA-2024.pdf) |
 | 3. | [🖼️ Risk Management](https://github.com/drshahizan/ai-tools/blob/main/images/risk.png) |
 
-
-## 2. Cara untuk membuka fail di Microsoft Edge
-Untuk membuka dokumen PDF yang bernama "SLIDE-AMANAT-TNCAA-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
-1. Sila muat turun dokumen tersebut. Setelah itu **Cari dokumen PDF** yang ingin anda buka di komputer anda.
-2. **Klik kanan** pada dokumen tersebut dan pilih **'Open With'**, kemudian pilih **Microsoft Edge** dari senarai aplikasi.
-3. Jika dokumen tersebut sudah terbuka di pelayar web lain, Anda boleh **menyeret dan menjatuhkan** fail PDF tersebut ke dalam tetingkap Microsoft Edge untuk membukanya. Rajah di bawah menunjukkan fail PDF yang berjaya di buka di Microsoft Edge.
-
+## 2. How to open a file in Microsoft Edge
+To open a PDF document named "SLIDE-AMANAT-TNCAA-2024.pdf" in Microsoft Edge, please follow these steps:
+1. Please download the document. After that, **find the PDF document** you want to open on your computer.
+2. **Right-click** on the document and choose **'Open With'**, then select **Microsoft Edge** from the list of applications.
+3. If the document is already open in another web browser, you can **drag and drop** the PDF file into the Microsoft Edge window to open it. The diagram below shows the PDF file successfully opened in Microsoft Edge.
 <p align="center">
 <img src="../../images/edge1.png"  height="350" />
 </p>
 
-Setelah dokumen terbuka di Microsoft Edge, anda dapat menggunakan bar alat yang terdapat di bahagian atas skrin untuk menavigasi dokumen, mengubah ukuran tampilan, dan mencari teks tertentu. Microsoft Edge juga menyediakan fungsi untuk mengedit, menyimpan, atau mencetak dokumen PDF tersebut.
+Once the document is open in Microsoft Edge, you can use the toolbar at the top of the screen to navigate the document, change the display size, and search for specific text. Microsoft Edge also provides functions to edit, save, or print the PDF document.
 
-## 3. Fungsi yang tersedia untuk analisis dokumen
+## 3. Functions available for document analysis
 
-Analisis dokumen PDF di Microsoft Edge boleh dilakukan dengan menggunakan fungsi yang tersedia seperti:
+PDF document analysis in Microsoft Edge can be performed using the available functions such as:
 
-1. **Membuka PDF**: Anda boleh membuka dokumen PDF dengan mudah di Microsoft Edge dengan hanya mengklik dua kali pada fail atau menyeret dan menjatuhkan fail ke dalam tetingkap pelayar Edge.
+1. **Opening PDF**: You can easily open PDF documents in Microsoft Edge by simply double-clicking on the file or dragging and dropping the file into the Edge browser window.
 
-2. **Mengedit PDF**: Microsoft Edge membolehkan anda mengisi medan kosong pada PDF atau menambah teks baru. Anda boleh memilih 'Edit' dari bar alat untuk memulakan pengeditan dan menyimpan PDF yang telah diedit dengan memilih 'Save'.
+2. **Editing PDF**: Microsoft Edge allows you to fill in blank fields in a PDF or add new text. You can select 'Edit' from the toolbar to start editing and save the edited PDF by selecting 'Save'.
 
-3. **Menambah Nota**: Anda juga boleh menambah teks, imej, dan bentuk baru ke dalam PDF dengan memilih 'Add notes' di bar alat atas. Ini sesuai untuk menonjolkan maklumat penting atau membuat anotasi pada dokumen.
+3. **Adding Notes**: You can also add new text, images, and shapes to the PDF by selecting 'Add notes' from the top toolbar. This is suitable for highlighting important information or annotating the document.
 
-4. **Mencetak PDF**: Untuk mencetak dokumen PDF dari Microsoft Edge, buka PDF tersebut dan pilih 'Print' dari bar alat. Kemudian pilih pencetak dan opsyen cetak yang dikehendaki, dan pilih 'Print' untuk memulakan pencetakan.
+4. **Printing PDF**: To print a PDF document from Microsoft Edge, open the PDF and select 'Print' from the toolbar. Then choose the printer and the desired print options, and select 'Print' to start printing.
 
-5. **Menyimpan PDF**: Selepas membuat suntingan dan mencetak salinan kertas, anda mungkin ingin menyimpan PDF anda. Buka PDF di Edge, pilih 'Save', tentukan lokasi penyimpanan, beri nama fail, dan simpan.
+5. **Saving PDF**: After making edits and printing a paper copy, you might want to save your PDF. Open the PDF in Edge, select 'Save', determine the storage location, name the file, and save.
 
-6. **Terjemahan PDF**: Microsoft Edge membolehkan anda menterjemahkan teks dari dokumen PDF ke bahasa lain. Pilih teks yang ingin diterjemahkan, kemudian klik ikon terjemah di bar alat PDF.
+6. **Translating PDF**: Microsoft Edge allows you to translate text from a PDF document into another language. Select the text you want to translate, then click the translate icon in the PDF toolbar.
 
 <p align="center">
 <img src="../../images/edge2.png"  height="350" />
 </p>
 
-8. **Menggunakan Bing AI untuk Analisis**: Anda boleh menggunakan Bing AI untuk menganalisis dokumen PDF dengan membuka dokumen di Edge, klik ikon Bing AI, dan ketik 'summarize this' untuk mendapatkan ringkasan dokumen.
+8. **Using Copilot for Analysis**: You can use Copilot to analyze PDF documents by opening the document in Edge, clicking on the Copilot icon, and typing 'summarize this' to get a summary of the document.
 
 <p align="center">
-<img src="../../images/chat.png"  height="450" />
-  <img src="../../images/chat1.png"  height="450" />
+<img src="../../images/edge3.png"  height="450" />
+  <img src="../../images/edge4.png"  height="450" />
 </p>
 
-Anda juga boleh klik pada 'Suggest questions about this document', hasilnya adalah seperti berikut:
-1. What are the key achievements of Universiti Teknologi MARA (UiTM) in 2023?
-2. How does the 'Globally Renowned, Locally Rooted' theme reflect UiTM's vision for 2025?
-3. What are the main objectives of the UiTM2025 Transformation Macro Phase?
-4. How has UiTM performed in various global university rankings in 2024?
-5. What is the significance of the 9R Principles in maintaining UiTM's identity?
-6. How does UiTM plan to enhance the employability of its graduates globally?
-7. What strategies are in place for talent development among UiTM's academic and administrative staff?]
-8. What initiatives are being taken to address mental health issues among UiTM students?
-9. How does UiTM intend to integrate the 'Quintuple Helix' approach in its community and industry engagement?
-10. What are the Vice-Chancellor's strategic emphases for UiTM in 2024?
-
-## Latihan
-#### Sila taipkan arahan berikut
-   1. Huraikan halatuju UiTM
-   2. Hasilkan analisis SWOT
-
-#### Berdasarkan konteks dokumen yang diberikan, sila dapatkan jawapan untuk 10 soalan yang berkaitan dengan Amanat Naib Canselor 2024 di Universiti Teknologi MARA:
-1. Apakah tujuan utama yang disampaikan dalam Amanat Naib Canselor 2024?
-2. Bagaimana prestasi Universiti Teknologi MARA dalam QS World University Rankings 2024 dan apakah peningkatan yang dicapai?
-3. Apakah prinsip 9R yang ditekankan oleh Naib Canselor dan bagaimana prinsip ini mempengaruhi hala tuju universiti?
-4. Bagaimana UiTM menyokong pembangunan Bumiputera profesional melalui kurikulum dan penyelidikan?
-5. Apakah inisiatif yang diperkenalkan oleh Naib Canselor UiTM ke-6 untuk mencapai visi 'Globally Renowned University'?
-6. Bagaimana UiTM mengatasi cabaran globalisasi dan perubahan landskap ekonomi serta teknologi?
-7. Apakah strategi UiTM untuk meningkatkan kebolehpasaran graduan dan bersaing di peringkat global?
-8. Bagaimana UiTM merancang untuk memperkasakan hubungan dengan Raja-Raja Melayu dan memahami Perkara 153 Perlembagaan Persekutuan?
-9. Apakah langkah-langkah yang diambil UiTM untuk memperbaiki kesihatan mental di kalangan staf dan pelajar?
-10. Bagaimana UiTM merancang untuk mempertahankan dan mengembangkan bakat dalam kalangan pensyarah dan pentadbir?
-
-
+You can also click on 'Suggest questions about this document', and the results would be as follows:
+1. **Generative AI Impact**: How does the proliferation of generative AI tools affect the workload and academic practices of UK academics?
+2. **Neoliberal Influence**: In what ways has the neoliberal transformation of higher education contributed to the current state of academia in the UK?
+3. **Digital Tools**: What role do digital tools and platforms play in shaping the inclusivity and accessibility of academic practice during the Covid-19 pandemic?
+4. **Work Intensification**: Can generative AI tools potentially exacerbate the work intensification experienced by academics, and if so, how?
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
