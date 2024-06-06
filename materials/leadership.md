@@ -49,6 +49,8 @@ Bagaimana AI membantu Kepimpinan Strategik:
 
 | No | Topik |
 |------------|----|
+| 1. | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/)|
+https://thinkmachine.com/
 | 1. | [Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
 | 2. | [Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
 | 3. | [MarkMap](pimpin/markmap.md)|
