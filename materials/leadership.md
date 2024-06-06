@@ -42,7 +42,7 @@ The key responsibilities of University Academic Managers at UTM (Universiti Tekn
 |  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
 
 
-## Training
+## Demonstration
 
 | No | Topic |
 |------------|----|
