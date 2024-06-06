@@ -49,12 +49,12 @@ Bagaimana AI membantu Kepimpinan Strategik:
 
 | No | Topik |
 |------------|----|
-| 1. | [Latihan: Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
-| 2. | [Latihan: Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
-| 3. | [Latihan: MarkMap](pimpin/markmap.md)|
-| 4. | [Latihan: Analisa dokumen menggunakan ChatGPT](pimpin/dokumen_chatgpt.md)|
-| 5. | [Latihan: Julius.ai](https://julius.ai/)|
-| 6. | [Latihan: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
+| 1. | [Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
+| 2. | [Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
+| 3. | [MarkMap](pimpin/markmap.md)|
+| 4. | [Analisa dokumen menggunakan ChatGPT](pimpin/dokumen_chatgpt.md)|
+| 5. | [Julius.ai](https://julius.ai/)|
+| 6. | [Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 
 
 ## Maklumat Tambahan
