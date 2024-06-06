@@ -13,27 +13,26 @@ Bagaimana AI membantu Kepimpinan Strategik:
 
 1. **[Perancangan Strategik](pimpin/1ps.md)**: AI membantu pemimpin dalam menyelaraskan objektif organisasi dengan matlamat jangka panjang. Ini termasuk penilaian persekitaran dalaman dan luaran, mengenal pasti peluang dan cabaran, serta membangunkan rancangan untuk mencapai kejayaan.
 
-2. **[Automasi Tugasan](materials/pimpin/2automasi.md)**: AI boleh digunakan untuk mengautomasikan tugasan rutin dan berulang, membolehkan pemimpin dan pasukan mereka memberi tumpuan kepada tugas yang lebih penting dan strategik.
+2. **[Automasi Tugasan](pimpin/2automasi.md)**: AI boleh digunakan untuk mengautomasikan tugasan rutin dan berulang, membolehkan pemimpin dan pasukan mereka memberi tumpuan kepada tugas yang lebih penting dan strategik.
 
-3. **[Pengurusan Risiko](materials/pimpin/3risiko.md)**: Pemimpin dapat memanfaatkan AI dalam menganalisis sejumlah besar data untuk mengenal pasti ancaman dan kelemahan, serta membuat penilaian dan pengurusan risiko yang lebih tepat.
+3. **[Pengurusan Risiko](pimpin/3risiko.md)**: Pemimpin dapat memanfaatkan AI dalam menganalisis sejumlah besar data untuk mengenal pasti ancaman dan kelemahan, serta membuat penilaian dan pengurusan risiko yang lebih tepat.
 
-4. **[Pembuatan Keputusan](materials/pimpin/4keputusan.md)**: AI menyediakan analisis data yang canggih, memudahkan pemimpin untuk membuat keputusan yang berinformasi dan strategik. Ini termasuk mengenal pasti patern, arah aliran, dan cerapan yang mungkin tidak dapat dilihat dengan mata kasar manusia.
+4. **[Pembuatan Keputusan](pimpin/4keputusan.md)**: AI menyediakan analisis data yang canggih, memudahkan pemimpin untuk membuat keputusan yang berinformasi dan strategik. Ini termasuk mengenal pasti patern, arah aliran, dan cerapan yang mungkin tidak dapat dilihat dengan mata kasar manusia.
 
-5. **[Adaptasi dengan Perubahan](materials/pimpin/5adaptasi.md)**: Dalam persekitaran perniagaan yang berubah dengan pantas, AI membantu organisasi dalam membuat ramalan, menyesuaikan diri dengan perubahan, dan memudahkan dalam pembuatan keputusan.
+5. **[Adaptasi dengan Perubahan](pimpin/5adaptasi.md)**: Dalam persekitaran perniagaan yang berubah dengan pantas, AI membantu organisasi dalam membuat ramalan, menyesuaikan diri dengan perubahan, dan memudahkan dalam pembuatan keputusan.
 
 ## Generatif AI
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Kecerdasan Buatan dan Kepimpinan Strategik](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/EaNUOHIq5bZOqvmg21dRsPYBjccq5qiHdUZxOHc70IXUxg?e=y6mqJO)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](materials/pimpin/signin.md)|
 | 4. | Arahan | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|  |  | [Latihan: Penggunaan arahan Generatif AI](materials/pimpin/fungsi.md)|
-|  |  | [Latihan: Analisa dokumen menggunakan Copilot](materials/pimpin/dokumen_copilot.md)|
-|  |  | [Latihan: MarkMap](materials/pimpin/markmap.md)|
-|  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](materials/pimpin/dokumen_chatgpt.md)|
+|  |  | [Latihan: Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
+|  |  | [Latihan: Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
+|  |  | [Latihan: MarkMap](pimpin/markmap.md)|
+|  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](pimpin/dokumen_chatgpt.md)|
 |  |  | [Latihan: Julius.ai](https://julius.ai/)|
 |  |  | [Latihan: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
