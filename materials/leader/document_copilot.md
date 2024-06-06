@@ -13,6 +13,8 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 |--------:|---------|
 | 1. | [Generative AI and the Automating of Academia](https://github.com/drshahizan/ai-tools/blob/main/images/genAi.pdf) |
 | 2. | [Slaid amanat TNCAA 2024](https://github.com/drshahizan/ai-tools/blob/main/images/SLIDE-AMANAT-TNCAA-2024.pdf) |
+| 3. | [Risk Management](https://github.com/drshahizan/ai-tools/blob/main/images/risk.png) |
+
 
 ## 2. Cara untuk membuka fail di Microsoft Edge
 Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
