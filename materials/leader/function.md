@@ -76,6 +76,8 @@ Generative AI can translate text from one language to another. Below is a table 
 | 6   | Announcement          | Translate this announcement regarding new course registrations at UiTM from Malay to English. |
 | 7   | News Article          | Translate this news article reporting UiTM students' success in an international competition from English to Malay. |
 | 8   | Student Guide         | Translate this student guide on campus rules and procedures at UiTM from Malay to English. |
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
