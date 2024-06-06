@@ -11,7 +11,9 @@
 
 # How AI tools can be used by University Academic Managers
 
-The key responsibilities of University Academic Managers at UTM (Universiti Teknologi Malaysia):
+AI tools are revolutionising the work of academic administrators at universities, significantly increasing productivity and efficiency in various areas such as research management, academic advising, data analysis and course design. These tools automate tasks, provide data-driven insights and support decision-making processes. They help in drafting research proposals, identifying at-risk students, analysing academic data and designing curricula. In addition, AI tools streamline project management workflows and promote a healthy, productive academic environment.
+
+The key responsibilities of University Academic Managers:
 
 | **Area of Responsibility** | **Description** |
 |----------------------------|-----------------|
@@ -40,7 +42,6 @@ The key responsibilities of University Academic Managers at UTM (Universiti Tekn
 |  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
 | 6. | Image Generation | [Bing's Image Creator](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bing_image.md) |
 |  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
-
 
 ## Demonstration
 
