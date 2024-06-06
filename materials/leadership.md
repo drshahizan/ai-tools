@@ -7,19 +7,24 @@
 
 # How AI tools can be used by University Academic Managers
 
-Kecerdasan Buatan (AI) dan Kepimpinan Strategik saling berkaitan dalam banyak aspek. AI merujuk kepada sistem komputer yang dapat melaksanakan tugas yang biasanya memerlukan kecerdasan manusia, seperti membuat persepsi visual, menyelesaikan masalah, dan membuat keputusan. Dalam konteks kepimpinan, AI dapat membantu pemimpin dalam membuat perancangan strategik dengan menyediakan analisis data yang mendalam, meramalkan hala tuju, perubahan pasaran, dan potensi risiko.
+The key responsibilities of University Academic Managers at UTM (Universiti Teknologi Malaysia):
 
-Bagaimana AI membantu Kepimpinan Strategik:
+| **Area of Responsibility** | **Description** |
+|----------------------------|-----------------|
+| Coordinating Administration Services | Responsible for a range of services to support the student lifecycle³. |
+| Planning and Organizing | Ensuring the delivery of high-quality services through effective planning and organization³. |
+| Supporting Teaching and Learning | Regulating teaching, learning, examinations, and the conferment of degrees and awards². |
+| Promoting Research | Encouraging and facilitating research activities within the university². |
+| Academic Policy Development | Developing policies that align with the university's strategic goals². |
+| Student Affairs | Managing student affairs to create a conducive academic environment¹. |
+| Liaison | Acting as a liaison between faculty and senior management¹. |
 
-1. **[Perancangan Strategik](pimpin/1ps.md)**: AI membantu pemimpin dalam menyelaraskan objektif organisasi dengan matlamat jangka panjang. Ini termasuk penilaian persekitaran dalaman dan luaran, mengenal pasti peluang dan cabaran, serta membangunkan rancangan untuk mencapai kejayaan.
+This table provides a concise overview of the multifaceted role that Academic Managers play in the university setting. Their work is integral to the smooth operation and academic success of the institution.
 
-2. **[Automasi Tugasan](pimpin/2automasi.md)**: AI boleh digunakan untuk mengautomasikan tugasan rutin dan berulang, membolehkan pemimpin dan pasukan mereka memberi tumpuan kepada tugas yang lebih penting dan strategik.
-
-3. **[Pengurusan Risiko](pimpin/3risiko.md)**: Pemimpin dapat memanfaatkan AI dalam menganalisis sejumlah besar data untuk mengenal pasti ancaman dan kelemahan, serta membuat penilaian dan pengurusan risiko yang lebih tepat.
-
-4. **[Pembuatan Keputusan](pimpin/4keputusan.md)**: AI menyediakan analisis data yang canggih, memudahkan pemimpin untuk membuat keputusan yang berinformasi dan strategik. Ini termasuk mengenal pasti patern, arah aliran, dan cerapan yang mungkin tidak dapat dilihat dengan mata kasar manusia.
-
-5. **[Adaptasi dengan Perubahan](pimpin/5adaptasi.md)**: Dalam persekitaran perniagaan yang berubah dengan pantas, AI membantu organisasi dalam membuat ramalan, menyesuaikan diri dengan perubahan, dan memudahkan dalam pembuatan keputusan.
+Source: Conversation with Copilot, 06/06/2024
+(1) Academic Manager Job Description | Velvet Jobs. https://www.velvetjobs.com/job-descriptions/academic-manager.
+(2) THESIS - Universiti Teknologi Malaysia. https://sps.utm.my/wp-content/uploads/2019/08/THESIS-GUIDELINES-070819.pdf.
+(3) UTM(PS)-03/96 (Pind. 1/04) SCHOOL OF GRADUATE STUDIES UNIVERSITI .... https://sps.utm.my/wp-content/uploads/2016/07/checklistthesissubmission.pdf.
 
 ## Generatif AI
 
@@ -50,13 +55,12 @@ Bagaimana AI membantu Kepimpinan Strategik:
 | No | Topik |
 |------------|----|
 | 1. | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/)|
-https://thinkmachine.com/
-| 1. | [Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
-| 2. | [Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
-| 3. | [MarkMap](pimpin/markmap.md)|
-| 4. | [Analisa dokumen menggunakan ChatGPT](pimpin/dokumen_chatgpt.md)|
-| 5. | [Julius.ai](https://julius.ai/)|
-| 6. | [Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
+| 2. | [Penggunaan arahan Generatif AI](pimpin/fungsi.md)|
+| 3. | [Analisa dokumen menggunakan Copilot](pimpin/dokumen_copilot.md)|
+| 4. | [MarkMap](pimpin/markmap.md)|
+| 5. | [Analisa dokumen menggunakan ChatGPT](pimpin/dokumen_chatgpt.md)|
+| 6. | [Julius.ai](https://julius.ai/)|
+| 7. | [Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 
 
 ## Maklumat Tambahan
