@@ -49,7 +49,7 @@ The key responsibilities of University Academic Managers:
 |------------|----|
 | 1. | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
 | 2. | [Use of Generative AI Prompt](leader/function.md) |
-| 3. | [Document Analysis using Copilot](pimpin/dokumen_copilot.md) |
+| 3. | [Document Analysis using Copilot](/leader/document_copilot.md) |
 | 4. | [MarkMap](pimpin/markmap.md) |
 | 5. | [Document Analysis using ChatGPT](pimpin/dokumen_chatgpt.md) |
 | 6. | [Julius.ai](https://julius.ai/) |
