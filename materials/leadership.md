@@ -16,12 +16,12 @@ The key responsibilities of University Academic Managers at UTM (Universiti Tekn
 | **Area of Responsibility** | **Description** |
 |----------------------------|-----------------|
 | [Coordinating Administration Services](leader/coordination.md) | Responsible for a range of services to support the student lifecycle. |
-| Planning and Organizing | Ensuring the delivery of high-quality services through effective planning and organization. |
-| Supporting Teaching and Learning | Regulating teaching, learning, examinations, and the conferment of degrees and awards. |
-| Promoting Research | Encouraging and facilitating research activities within the university. |
-| Academic Policy Development | Developing policies that align with the university's strategic goals. |
-| Student Affairs | Managing student affairs to create a conducive academic environment. |
-| Liaison | Acting as a liaison between faculty and senior management. |
+| [Planning and Organizing](leader/planning.md) | Ensuring the delivery of high-quality services through effective planning and organization. |
+| [Supporting Teaching and Learning](leader/supporting.md) | Regulating teaching, learning, examinations, and the conferment of degrees and awards. |
+| [Promoting Research](leader/research.md) | Encouraging and facilitating research activities within the university. |
+| [Academic Policy Development](leader/policy.md) | Developing policies that align with the university's strategic goals. |
+| [Student Affairs](leader/affairs.md) | Managing student affairs to create a conducive academic environment. |
+| [Liaison](leader/liaison.md) | Acting as a liaison between faculty and senior management. |
 
 ## Generatif AI
 
