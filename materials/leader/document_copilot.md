@@ -11,8 +11,8 @@
 Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
 | No  | Nama dokumen |
 |--------:|---------|
-| 2. | [Slaid Amanat Naib Canselor 2024](https://github.com/drshahizan/ai-tools/blob/main/images/slide_amanat-nc-2024.pdf) |
-| 3. | [Laporan Tahunan UiTM 2021](https://www.uitm.edu.my/images/stories/about/LaporanTahunanUiTM2021.pdf) |
+| 2. | [Generative AI and the Automating of Academia](https://github.com/drshahizan/ai-tools/blob/main/images/genAi.pdf) |
+| 3. | [Slaid amanat TNCAA 2024](https://github.com/drshahizan/ai-tools/blob/main/images/SLIDE-AMANAT-TNCAA-2024.pdf) |
 
 ## 2. Cara untuk membuka fail di Microsoft Edge
 Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
