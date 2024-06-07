@@ -1,4 +1,4 @@
-<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+![image](https://github.com/drshahizan/ai-tools/assets/81284918/35a083fe-3425-40c2-a1c5-ba44e442c972)<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
@@ -7,7 +7,11 @@
 
 # NEXT-GEN AI-TOOLS: ELEVATING RESEARCH AND CLASSROOM EXPERIENCE
 
-This workshop serves as an introduction to artificial intelligence (AI) technology for writing high-quality articles. It will guide faculty members to write high-quality articles by integrating AI technology and thus gain the ability to prepare and perfect academic manuscripts using AI from the first draft stage to final publication.
+The "NEXT-GEN AI-TOOLS" workshop is a comprehensive programme aimed at exploring state-of- the-art applications of artificial intelligence tools in academic research and education. This one-day event is structured to provide participants with a series of interactive modules, each focusing on different aspects of AI integration in education and research.
+
+The first module looks at the different types of AI tools and how they can enhance research skills, providing practical examples and experiences. Participants will learn innovative strategies on how to integrate this AI tool into their teaching methods to increase engagement and learning outcomes.The third module will look at the integration of AI tools into research methodology courses. This session will demonstrate how AI can be used to increase research potential and provide a new perspective on traditional research approaches.
+
+The "NEXT-GEN AI-TOOLS" workshop promises to be an enlightening experience for educators, researchers and anyone interested in the intersection of AI and academia.
 
 ## Workshop Schedule
 
