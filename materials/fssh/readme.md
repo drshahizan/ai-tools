@@ -27,9 +27,9 @@ The "NEXT-GEN AI-TOOLS" workshop is a comprehensive programme aimed at exploring
 ## Materials
 | Module  | Topic |
 |:--------:|---------|
-| 1 | [Understanding AI in Academic Contexts](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod1.md) |
-| 2 | [Generative AI](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod2.md) |
-| 3 | [AI Tools for Academic Writing](https://github.com/drshahizan/ai-tools/blob/main/materials/hero/mod3.md) |
+| 1 | [Understanding AI in Academic Contexts]() |
+| 2 | [Generative AI]() |
+| 3 | [AI Tools for Academic Writing]() |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
