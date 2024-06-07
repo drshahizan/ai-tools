@@ -1,4 +1,4 @@
-![image](https://github.com/drshahizan/ai-tools/assets/81284918/3b41cc4d-28f4-4781-841e-2b805a7ed3f1)<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
