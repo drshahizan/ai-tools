@@ -7,7 +7,7 @@
 
 # UTM National Training Week 2024
 
-## Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini.
+## Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini
 
 
 
