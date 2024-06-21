@@ -90,6 +90,7 @@
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 ||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
 | 2. | AI Apps| [askLAYLA](https://justasklayla.com/) |
+|||[Trip Planner AI](https://tripplanner.ai/)|
 ||| [Penyampai Radio AI Yang Pertama Di Malaysia](https://says.com/my/seismik/kenali-aina-sabrina-dj-fly-fm-juga-ai-yang-pertama-di-malaysia-sebagai-penyampai-radio)|
 |||[Sora](https://openai.com/sora)|
 ||| [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
