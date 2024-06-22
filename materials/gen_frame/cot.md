@@ -23,7 +23,7 @@ Rantaian pemikiran atau _Chain of Thought_ (CoT) adalah sebuah kerangka kerja un
    - **Langkah Mudah:** Tambahkan frasa _Let's think step-by-step_ pada akhir prompt anda.
    - **Contoh:** Jika anda menghadapi masalah matematik yang kompleks, anda boleh memberikan arahan seperti: "Bolehkah anda menyelesaikan masalah ini? Let's think step-by-step."
 
-### Contoh Penggunaan CoT
+## Contoh Penggunaan
 
 | **No.** | **Contoh**                          | **Prompt** |
 |---------:|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
