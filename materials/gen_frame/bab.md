@@ -7,20 +7,20 @@
 
 # B-A-B Framework: Before, After, Bridge
 
-B-A-B framework adalah kaedah struktur yang membantu untuk menetapkan peralihan yang jelas dari keadaan awal (before) ke hasil yang diinginkan (after) melalui langkah-langkah atau tindakan yang diperlukan untuk mencapai peralihan tersebut (bridge). Dengan menggunakan rangka kerja ini, pengguna boleh membimbing ChatGPT untuk menghasilkan teks yang memudahkan kemajuan atau transformasi.
+B-A-B framework adalah kaedah struktur yang membantu untuk menetapkan peralihan yang jelas dari keadaan awal (before) ke hasil yang diinginkan (after) melalui langkah-langkah atau tindakan yang diperlukan untuk mencapai peralihan tersebut (bridge). Dengan menggunakan rangka kerja ini, pengguna boleh membimbing generatif AI untuk menghasilkan teks yang memudahkan kemajuan atau transformasi.
 
 ## Komponen B-A-B Framework
 
 1. **Before (Sebelum)**
-   - **Penerangan**: Fasa "before" menetapkan konteks dengan menggambarkan situasi semasa atau titik permulaan sebelum sebarang perubahan atau intervensi berlaku. Ia menggariskan cabaran, isu, atau keadaan sedia ada yang mendorong keperluan untuk berinteraksi dengan ChatGPT.
+   - **Penerangan**: Fasa "before" menetapkan konteks dengan menggambarkan situasi semasa atau titik permulaan sebelum sebarang perubahan atau intervensi berlaku. Ia menggariskan cabaran, isu, atau keadaan sedia ada yang mendorong keperluan untuk berinteraksi dengan generatif AI.
    - **Contoh**: "Pada masa ini, pasukan jualan kami menghadapi masalah untuk mencapai kuota bulanan mereka. Motivasi pasukan rendah dan terdapat kekurangan strategi pemasaran yang berkesan."
 
 2. **After (Selepas)**
-   - **Penerangan**: Fasa "after" membayangkan hasil yang diinginkan atau matlamat yang ingin dicapai melalui interaksi dengan ChatGPT. Ia menggambarkan keadaan yang telah diperbaiki atau penyelesaian masalah yang sepatutnya berlaku hasil daripada respon AI.
+   - **Penerangan**: Fasa "after" membayangkan hasil yang diinginkan atau matlamat yang ingin dicapai melalui interaksi dengan generatif AI. Ia menggambarkan keadaan yang telah diperbaiki atau penyelesaian masalah yang sepatutnya berlaku hasil daripada respon AI.
    - **Contoh**: "Selepas melaksanakan strategi baru, pasukan jualan bukan sahaja mencapai kuota bulanan mereka tetapi juga melebihi sasaran, dengan motivasi yang lebih tinggi dan strategi pemasaran yang berkesan."
 
 3. **Bridge (Jambatan)**
-   - **Penerangan**: Komponen "bridge" menghubungkan keadaan sebelum dan selepas, dengan menggariskan langkah-langkah atau tindakan yang diperlukan untuk beralih dari keadaan awal ke hasil yang diinginkan. Ia memberikan panduan kepada ChatGPT tentang bagaimana untuk memudahkan transformasi atau kemajuan yang dinyatakan dalam prompt.
+   - **Penerangan**: Komponen "bridge" menghubungkan keadaan sebelum dan selepas, dengan menggariskan langkah-langkah atau tindakan yang diperlukan untuk beralih dari keadaan awal ke hasil yang diinginkan. Ia memberikan panduan kepada generatif AI tentang bagaimana untuk memudahkan transformasi atau kemajuan yang dinyatakan dalam prompt.
    - **Contoh**: "Untuk mencapai hasil tersebut, langkah-langkah yang diperlukan termasuk: 1) Menyediakan latihan motivasi untuk pasukan jualan, 2) Mengembangkan strategi pemasaran baru yang disesuaikan dengan pasaran semasa, 3) Mengadakan sesi bimbingan berkala untuk menilai kemajuan dan menyesuaikan strategi."
 
 ## Cara Menggunakan B-A-B Framework dengan ChatGPT
