@@ -28,7 +28,7 @@ R-I-S-E framework adalah kaedah struktur yang menekankan pada penentuan peranan,
    - **Penerangan**: Komponen jangkaan menjelaskan hasil, matlamat, atau objektif yang ingin dicapai oleh pengguna melalui interaksi dengan ChatGPT. Ia memperjelaskan jangkaan pengguna dan membimbing AI dalam menghasilkan teks yang selaras dengan objektif tersebut.
    - **Contoh**: "Kami berharap untuk melihat peningkatan dalam kepuasan kerja sekurang-kurangnya 10% dalam tempoh tiga bulan."
 
-## Cara Menggunakan R-I-S-E Framework dengan ChatGPT
+## Cara Menggunakan R-I-S-E Framework
 
 1. **Mulakan dengan Role**
    - Tentukan peranan atau persona yang perlu diambil oleh AI dalam responsnya.
