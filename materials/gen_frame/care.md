@@ -7,7 +7,6 @@
 
 # Kerangka kerja C-A-R-E: _Context, Action, Result, Example_
 
-## Pengenalan
 Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
 ## Komponen kerangka kerja C-A-R-E
@@ -46,9 +45,9 @@ Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks
    - Berikan contoh konkrit atau senario untuk menjelaskan tindakan atau hasil yang diinginkan.
    - Contoh: "Sebagai contoh, salah satu cadangan boleh melibatkan penggunaan alat komunikasi seperti Slack untuk memudahkan pertukaran maklumat yang pantas dan jelas."
 
-### Contoh Penggunaan
+## Contoh Penggunaan
 
-| **No.** | **Contoh**                                    | **Prompt** |
+| **No.** | **Topik**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1       | Peningkatan keterlibatan pelanggan            | **Context:** Dalam pasukan pemasaran kami, terdapat keperluan untuk meningkatkan keterlibatan pelanggan melalui media sosial. <br> **Action:** Sila cadangkan tiga strategi yang boleh meningkatkan keterlibatan pelanggan di platform media sosial kami. <br> **Result:** Dengan melaksanakan strategi ini, kami berharap dapat melihat peningkatan dalam keterlibatan pelanggan sekurang-kurangnya 20% dalam tempoh tiga bulan. <br> **Example:** Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan. |
 | 2       | Meningkatkan produktiviti kerja               | **Context:** Produktiviti pekerja menurun disebabkan oleh gangguan berterusan dan kurang fokus. <br> **Action:** Cadangkan tiga cara untuk meningkatkan produktiviti pekerja. <br> **Result:** Kami berharap dapat melihat peningkatan produktiviti sekurang-kurangnya 15% dalam tempoh sebulan. <br> **Example:** Sebagai contoh, menetapkan waktu kerja bebas gangguan boleh membantu pekerja fokus pada tugasan mereka. |
