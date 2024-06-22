@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Kerangka kerja TAG
-Kerangka kerja TAG (_Task, Action, Goal_) menyediakan pendekatan terstruktur untuk membimbing interaksi dengan generatif AI, memastikan kejelasan dan keselarasan untuk mencapai hasil yang spesifik. Berikut adalah penjelasan terperinci mengenai setiap komponen:
+Kerangka kerja TAG (_Task, Action, Goal_) menyediakan pendekatan terstruktur untuk membimbing interaksi dengan generatif AI, memastikan kejelasan dan keselarasan untuk mencapai hasil yang spesifik.
 
 ## Penerangan
 
