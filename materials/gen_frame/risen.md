@@ -31,9 +31,7 @@ kerangka kerja RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kom
    - **Definisi:** Pengecilan skop adalah proses untuk memfokuskan tugas dengan lebih spesifik dan terperinci. Ini membantu mengurangkan kekaburan dan memastikan usaha tertumpu pada aspek-aspek yang paling penting.
    - **Contoh:** "Fokus pada dampak ekonomi perubahan iklim di negara-negara membangun," atau "Tulis tentang strategi pemasaran media sosial untuk perniagaan kecil."
 
-## Contoh Penggunaan kerangka kerja RISEN dalam Pelbagai Situasi
-
-Tentu! Berikut adalah 10 prompt menggunakan kerangka kerja RISEN yang disusun dalam jadual:
+## Contoh Penggunaan
 
 | **No.** | **Contoh**                          | **RISEN Prompt**                                                                                                                 |
 |---------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
