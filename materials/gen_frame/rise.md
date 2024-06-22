@@ -9,7 +9,7 @@
 
 Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing generatif AI dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
-## Komponen kerangka kerja R-I-S-E
+## Penerangan
 
 1. **_Role_ (Peranan)**
    - **Penerangan**: Komponen peranan menentukan persona atau perspektif dari mana ChatGPT harus mendekati prompt. Ia mendefinisikan watak, identiti, atau peranan yang perlu diambil oleh AI dalam responsnya.
