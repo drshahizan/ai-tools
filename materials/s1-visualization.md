@@ -21,35 +21,35 @@
 ## Exercise
 
 1. **Open Knowledge Maps: Mapping Trends in Artificial Intelligence (AI) Research:**
-   - ****Objective:**** Utilize Open Knowledge Maps to visually represent trends in AI research over the past decade.
+   - **Objective:** Utilize Open Knowledge Maps to visually represent trends in AI research over the past decade.
    - **Tasks:**
      - Create a knowledge map to highlight key subfields in AI.
      - Visualize the connections between prominent authors and institutions.
      - Identify the most cited papers and their influence on the field.
 
 2. **VOSviewer: Visualizing Collaboration Networks in Big Data Analytics:**
-   - ****Objective:**** Apply VOSviewer to visualize collaboration networks among researchers in the field of Big Data Analytics.
+   - **Objective:** Apply VOSviewer to visualize collaboration networks among researchers in the field of Big Data Analytics.
    - **Tasks:**
      - Create a network map of authors and institutions based on co-authorship.
      - Explore the density and centrality of collaboration clusters.
      - Analyze the evolution of collaboration networks over time.
 
 3. **CiteSpace: Uncovering Emerging Trends in Cybersecurity Research:**
-   - ****Objective:**** Leverage CiteSpace to uncover emerging trends and hotspots in cybersecurity research.
+   - **Objective:** Leverage CiteSpace to uncover emerging trends and hotspots in cybersecurity research.
    - **Tasks:**
      - Identify bursty keywords and topics in recent cybersecurity literature.
      - Visualize the co-citation network to find influential papers.
      - Examine the temporal evolution of research clusters.
 
 4. **Gephi: Analyzing the Evolution of Machine Learning Algorithms:**
-   - ****Objective:**** Use Gephi to visualize the evolution of machine learning algorithms and their interconnections.
+   - **Objective:** Use Gephi to visualize the evolution of machine learning algorithms and their interconnections.
    - **Tasks:**
      - Create a dynamic graph representing the relationships between machine learning algorithms.
      - Analyze centrality metrics to identify the most influential algorithms.
      - Explore how the popularity of algorithms has changed over time.
 
 5. **Bibliometrix: Assessing the Impact of Open Source Software in Software Engineering:**
-   - ****Objective:**** Apply Bibliometrix to assess the impact of open-source software in the field of Software Engineering.
+   - **Objective:** Apply Bibliometrix to assess the impact of open-source software in the field of Software Engineering.
    - **Tasks:**
      - Visualize co-citation networks to identify influential software projects.
      - Analyze the collaboration patterns among authors contributing to open-source research.
