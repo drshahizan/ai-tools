@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Kerangka kerja R-I-S-E: _Role, Input, Steps, Expectation_
+# Kerangka kerja RISE: _Role, Input, Steps, Expectation_
 
-Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing generatif AI dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+Kerangka kerja RISE adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing generatif AI dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
 ## Penerangan
 
@@ -47,7 +47,7 @@ Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan per
 
 ## Contoh 
 
-| **No.** | **Contoh**                                    | **Prompt** |
+| **No.** | **Topik**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1       | Meningkatkan kepuasan kerja                   | **Role:** Sebagai seorang pengurus sumber manusia <br> **Input:** Berikan maklumat mengenai tahap kepuasan kerja staf dalam tempoh enam bulan yang lalu. <br> **Steps:** <br>1) Analisis data kepuasan kerja, <br>2) Kenal pasti trend atau masalah utama, <br>3) Cadangkan penyelesaian untuk meningkatkan kepuasan kerja. <br> **Expectation:** Kami berharap untuk melihat peningkatan dalam kepuasan kerja sekurang-kurangnya 10% dalam tempoh tiga bulan. |
 | 2       | Menyusun strategi pemasaran                   | **Role:** Sebagai seorang pakar pemasaran digital <br> **Input:** Sila analisis data trafik laman web untuk tempoh tiga bulan terakhir. <br> **Steps:** <br>1) Kenal pasti sumber trafik utama, <br>2) Analisis corak perilaku pengguna, <br>3) Cadangkan strategi untuk meningkatkan trafik. <br> **Expectation:** Kami mahu melihat peningkatan dalam trafik laman web sebanyak 20% dalam tempoh dua bulan. |
@@ -59,8 +59,6 @@ Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan per
 | 8       | Meningkatkan penglibatan pelanggan            | **Role:** Sebagai seorang pakar pemasaran digital <br> **Input:** Berikan data penglibatan pelanggan di media sosial untuk tempoh tiga bulan yang lalu. <br> **Steps:** <br>1) Analisis data penglibatan pelanggan, <br>2) Kenal pasti platform atau kandungan yang paling efektif, <br>3) Cadangkan strategi untuk meningkatkan penglibatan pelanggan. <br> **Expectation:** Kami mahu melihat peningkatan penglibatan pelanggan sebanyak 25% dalam tempoh dua bulan. |
 | 9       | Menambah baik latihan staf                    | **Role:** Sebagai seorang pengurus latihan <br> **Input:** Berikan maklumat mengenai program latihan semasa dan penilaian prestasi staf. <br> **Steps:** <br>1) Analisis keberkesanan program latihan semasa, <br>2) Kenal pasti bidang yang memerlukan penambahbaikan, <br>3) Cadangkan langkah-langkah untuk menambah baik program latihan. <br> **Expectation:** Kami mahu melihat peningkatan dalam prestasi staf sebanyak 15% dalam tempoh enam bulan. |
 | 10      | Meningkatkan keselamatan tempat kerja          | **Role:** Sebagai seorang pakar keselamatan tempat kerja <br> **Input:** Berikan data mengenai insiden keselamatan dalam tempoh enam bulan yang lalu. <br> **Steps:** <br>1) Analisis data insiden keselamatan, <br>2) Kenal pasti punca-punca utama, <br>3) Cadangkan langkah-langkah untuk meningkatkan keselamatan tempat kerja. <br> **Expectation:** Kami mahu mengurangkan insiden keselamatan sebanyak 40% dalam tempoh enam bulan. |
-
-Menggunakan R-I-S-E kerangka kerja dalam berinteraksi dengan generatif AI membantu memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
