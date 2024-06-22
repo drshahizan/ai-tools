@@ -24,9 +24,7 @@ Kerangka T-A-G (Task, Action, Goal) menyediakan pendekatan terstruktur untuk mem
 
 ### Contoh Penggunaan Framework T-A-G
 
-Berikut adalah contoh penggunaan framework T-A-G dalam beberapa senario harian:
-
-Berikut adalah 10 contoh prompt menggunakan framework T-A-G dalam jadual untuk kegunaan harian:
+Contoh prompt menggunakan framework T-A-G dalam jadual untuk kegunaan harian:
 
 | **No.** | **Contoh**                                    | **Framework T-A-G Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
