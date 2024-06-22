@@ -9,7 +9,7 @@
 
 Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
-## Komponen kerangka kerja C-A-R-E
+## Penerangan
 
 1. **_Context_ (Konteks)**
    - **Penerangan**: Komponen konteks menetapkan pentas dengan menyediakan maklumat latar belakang, setting, atau keadaan yang relevan dengan prompt. Ia membantu generatif AI memahami konteks di mana interaksi berlaku dan menyesuaikan responsnya dengan sewajarnya.
