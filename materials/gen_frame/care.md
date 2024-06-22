@@ -5,10 +5,10 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# C-A-R-E kerangka kerja: Context, Action, Result, Example
+# Kerangka kerja C-A-R-E: Context, Action, Result, Example
 
 ## Pengenalan
-C-A-R-E kerangka kerja adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
 ## Komponen C-A-R-E kerangka kerja
 
@@ -21,7 +21,7 @@ C-A-R-E kerangka kerja adalah kaedah struktur yang menekankan penyediaan konteks
    - **Contoh**: "Sila cadangkan tiga strategi yang boleh meningkatkan keterlibatan pelanggan di platform media sosial kami."
 
 3. **_Result_ (Hasil)**
-   - **Penerangan**: Komponen hasil mengantisipasi hasil atau akibat daripada respons AI, menonjolkan kesan atau manfaat yang diharapkan. Ia membantu pengguna menilai keberkesanan sumbangan generatif AI dan menilai sama ada objektif yang diinginkan telah dicapai.
+   - **Penerangan**: Komponen hasil atau akibat daripada respons AI, menonjolkan kesan atau manfaat yang diharapkan. Ia membantu pengguna menilai keberkesanan sumbangan generatif AI dan menilai sama ada objektif yang diinginkan telah dicapai.
    - **Contoh**: "Dengan melaksanakan strategi ini, kami berharap dapat melihat peningkatan dalam keterlibatan pelanggan sekurang-kurangnya 20% dalam tempoh tiga bulan."
 
 4. **_Example_ (Contoh)**
