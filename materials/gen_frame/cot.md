@@ -7,7 +7,7 @@
 
 # Rangka Kerja Rantaian Pemikiran
 
-Rantaian pemikiran atau _Chain of Thought_ (CoT) adalah sebuah framework untuk membuat prompt yang meningkatkan kemampuan model bahasa besar (LLM) dalam penalaran dengan memberitahu AI untuk melalui masalah secara langkah demi langkah. Pendekatan ini sangat berguna untuk penyelesaian masalah atau tugas analitik yang kompleks.
+Rantaian pemikiran atau _Chain of Thought_ (CoT) adalah sebuah rangka kerja untuk membuat prompt yang meningkatkan kemampuan model bahasa besar (LLM) dalam penaakulan dengan memberitahu AI untuk menyelesaikan masalah secara langkah demi langkah. Pendekatan ini sangat berguna untuk penyelesaian masalah atau tugas analitik yang kompleks.
 
 ### Huraian Chain of Thought Framework
 
@@ -25,26 +25,17 @@ Rantaian pemikiran atau _Chain of Thought_ (CoT) adalah sebuah framework untuk m
 
 ### Contoh Penggunaan Chain of Thought Framework
 
-1. **Masalah Matematik:**
-   - **Prompt Asal:** "Bolehkah anda menyelesaikan persamaan kuadratik ini: \( x^2 - 5x + 6 = 0 \)?"
-   - **Prompt CoT:** "Bolehkah anda menyelesaikan persamaan kuadratik ini: \( x^2 - 5x + 6 = 0 \)? Let's think step-by-step."
+Tentu! Berikut adalah contoh penggunaan Chain of Thought framework yang disusun dalam bentuk jadual, dengan kolom "Prompt Asal" dihapuskan:
 
-2. **Analisis Risiko:**
-   - **Prompt Asal:** "Apakah risiko utama dalam pelaburan ini?"
-   - **Prompt CoT:** "Apakah risiko utama dalam pelaburan ini? Let's think step-by-step."
+| **Contoh**                          | **Prompt CoT**                                                                                                                        |
+|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Masalah Matematik**            | "Bolehkah anda menyelesaikan persamaan kuadratik ini: \( x^2 - 5x + 6 = 0 \)? Let's think step-by-step."                              |
+| **2. Analisis Risiko**              | "Apakah risiko utama dalam pelaburan ini? Let's think step-by-step."                                                                  |
+| **3. Penyelesaian Teka-teki Logik** | "Ada tiga orang, A, B, dan C. A selalu berkata benar, B selalu berbohong, dan C berkata benar dan berbohong secara bergantian. Siapa di antara mereka yang sedang bercakap sekarang jika dia berkata 'Saya selalu berbohong'? Let's think step-by-step." |
+| **4. Pengambilan Keputusan Bisnes** | "Bagaimana saya boleh meningkatkan jualan syarikat? Let's think step-by-step."                                                        |
+| **5. Perancangan Projek**           | "Bagaimana saya boleh merancang projek ini dengan berkesan? Let's think step-by-step."                                               |
 
-3. **Penyelesaian Teka-teki Logik:**
-   - **Prompt Asal:** "Ada tiga orang, A, B, dan C. A selalu berkata benar, B selalu berbohong, dan C berkata benar dan berbohong secara bergantian. Siapa di antara mereka yang sedang bercakap sekarang jika dia berkata 'Saya selalu berbohong'?"
-   - **Prompt CoT:** "Ada tiga orang, A, B, dan C. A selalu berkata benar, B selalu berbohong, dan C berkata benar dan berbohong secara bergantian. Siapa di antara mereka yang sedang bercakap sekarang jika dia berkata 'Saya selalu berbohong'? Let's think step-by-step."
-
-4. **Pengambilan Keputusan Bisnes:**
-   - **Prompt Asal:** "Bagaimana saya boleh meningkatkan jualan syarikat?"
-   - **Prompt CoT:** "Bagaimana saya boleh meningkatkan jualan syarikat? Let's think step-by-step."
-
-5. **Perancangan Projek:**
-   - **Prompt Asal:** "Bagaimana saya boleh merancang projek ini dengan berkesan?"
-   - **Prompt CoT:** "Bagaimana saya boleh merancang projek ini dengan berkesan? Let's think step-by-step."
-
+Jadual ini menunjukkan bagaimana Chain of Thought framework digunakan untuk mengarahkan AI menyelesaikan masalah secara sistematik dan terperinci.
 ### Kesimpulan
 
 Menggunakan Chain of Thought framework membantu dalam memastikan setiap aspek masalah atau tugas dianalisis dengan teliti dan sistematik. Dengan menambah frasa "Let's think step-by-step" pada prompt, anda membimbing AI untuk berfikir secara lebih teratur dan logik, yang boleh meningkatkan ketepatan dan kualiti jawapan yang diberikan.
