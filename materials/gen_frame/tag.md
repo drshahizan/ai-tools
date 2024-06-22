@@ -22,7 +22,7 @@ Kerangka kerja T-A-G (_Task, Action, Goal_) menyediakan pendekatan terstruktur u
    - **Definisi:** Matlamat menegaskan hasil atau hasil yang diinginkan yang pengguna harapkan dapat dicapai melalui interaksi dengan ChatGPT. Ia menerangkan tujuan sebenar menghasilkan teks dan membantu menilai keberkesanan respons AI dalam memenuhi keperluan pengguna.
    - **Contoh:** Memahami konsep dengan lebih baik, menghiburkan melalui naratif yang menarik, atau memecahkan masalah matematik dengan pendekatan yang jelas dan terperinci.
 
-### Contoh Penggunaan kerangka kerja T-A-G
+## Contoh Penggunaan
 
 Contoh prompt menggunakan kerangka kerja T-A-G dalam jadual untuk kegunaan harian:
 
