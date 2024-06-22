@@ -5,8 +5,8 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Kerangka kerja T-A-G
-Kerangka kerja T-A-G (_Task, Action, Goal_) menyediakan pendekatan terstruktur untuk membimbing interaksi dengan generatif AI, memastikan kejelasan dan keselarasan untuk mencapai hasil yang spesifik. Berikut adalah penjelasan terperinci mengenai setiap komponen:
+# Kerangka kerja TAG
+Kerangka kerja TAG (_Task, Action, Goal_) menyediakan pendekatan terstruktur untuk membimbing interaksi dengan generatif AI, memastikan kejelasan dan keselarasan untuk mencapai hasil yang spesifik. Berikut adalah penjelasan terperinci mengenai setiap komponen:
 
 ## Penerangan
 
@@ -24,7 +24,7 @@ Kerangka kerja T-A-G (_Task, Action, Goal_) menyediakan pendekatan terstruktur u
 
 ## Contoh Penggunaan
 
-Contoh prompt menggunakan kerangka kerja T-A-G dalam jadual untuk kegunaan harian:
+Contoh prompt menggunakan kerangka kerja TAG dalam jadual untuk kegunaan harian:
 
 | **No.** | **Topik**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -37,7 +37,7 @@ Contoh prompt menggunakan kerangka kerja T-A-G dalam jadual untuk kegunaan haria
 | 7       | **Cadangan untuk strategi pemasaran**   | **Task:** Meminta cadangan untuk strategi pemasaran bagi pelancaran produk baru.                                   <br>**Action:** Sediakan analisis pasaran, cadangan untuk pengiklanan dan promosi yang berkesan.<br>**Goal:** Meningkatkan jualan dan pengenalan produk di pasaran. |
 | 8       | **Penulisan sinopsis untuk filem pendek** | **Task:** Meminta penulisan sinopsis yang menarik untuk filem pendek bertajuk "Masa Depan Kita".                    <br>**Action:** Cipta watak-watak utama, plot cerita yang menarik, dan mesej yang ingin disampaikan.<br>**Goal:** Menghiburkan penonton dan menyampaikan mesej yang berkesan. |
 | 9       | **Bantuan mengaturkan perjalanan usahasama** | **Task:** Meminta bantuan untuk mengaturkan perjalanan usahasama ke Kuala Lumpur.                                   <br>**Action:** Sediakan jadual perjalanan, tempahan penginapan, dan cadangan aktiviti untuk perjalanan.<br>**Goal:** Memastikan perjalanan berjalan lancar dan berkesan. |
-| 10      | **Analisis tentang tren pasaran saham terkini** | **Task:** Meminta analisis mengenai tren pasaran saham semasa dan ramalan jangka masa depan.                       <br>**Action:** Sediakan analisis mengenai faktor-faktor yang mempengaruhi pasaran saham, perbandingan antara syarikat, dan pandangan jangka panjang.<br>**Goal:** Mendapatkan pandangan yang berpengetahuan tentang pelaburan saham. |
+| 10      | **Analisis tentang tren pasaran saham terkini** | **Task:** Meminta analisis mengenai tren pasaran saham semasa dan ramalan jangka masa depan. <br>**Action:** Sediakan analisis mengenai faktor-faktor yang mempengaruhi pasaran saham, perbandingan antara syarikat, dan pandangan jangka panjang.<br>**Goal:** Mendapatkan pandangan yang berpengetahuan tentang pelaburan saham. |
 
 Jadual ini menggunakan kerangka kerja T-A-G untuk menggambarkan 10 prompt yang boleh digunakan dalam kegiatan harian untuk berinteraksi dengan generatif AI. Pendekatan ini membantu memastikan setiap interaksi dengan AI adalah terarah dengan jelas menuju kepada hasil yang diinginkan.
 
