@@ -9,7 +9,7 @@
 
 kerangka kerja RODES adalah pendekatan yang menyediakan struktur terperinci untuk menguruskan tugas dengan jelas dan berkesan. Berikut adalah huraian untuk setiap elemen dalam kerangka kerja RODES:
 
-## Elemen kerangka kerja RODES
+## Penerangan
 
 1. **_Role_ (Peranan):**
    - **Definisi:** Peranan merujuk kepada siapa yang bertanggungjawab untuk melaksanakan tugas atau projek tersebut.
