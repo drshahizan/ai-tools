@@ -23,13 +23,13 @@ Kerangka kerja RTF adalah sebuah pendekatan untuk menyusun dan mengkategorikan p
 
 Dengan menggunakan RTF kerangka kerja, permintaan menjadi lebih jelas dan mudah difahami, memastikan komunikasi yang lebih berkesan dan pengeluaran hasil yang lebih tepat. Berikut adalah lima contoh penggunaan RTF kerangka kerja dalam berbagai situasi:
 
-| **Contoh** | **Role (Peranan)** | **Task (Tugas)** | **Format (Format)** | **Prompt** |
-|------------|--------------------|------------------|---------------------|------------|
-| **1. Menulis E-mel Rasmi** | Saya (sebagai pekerja) | Menulis e-mel untuk memohon cuti | E-mel rasmi | "Sebagai seorang pekerja, saya perlu menulis e-mel rasmi untuk memohon cuti kepada pengurus saya. Bolehkah anda bantu saya menyediakan e-mel tersebut?" |
-| **2. Menyediakan Laporan** | Saya (sebagai pelajar) | Menyediakan laporan penyelidikan | Laporan formal dengan bahagian pengenalan, metodologi, hasil, dan kesimpulan | "Sebagai seorang pelajar, saya perlu menyediakan laporan penyelidikan mengenai topik perubahan iklim. Bolehkah anda membantu saya merangka laporan yang lengkap dengan bahagian pengenalan, metodologi, hasil, dan kesimpulan?" |
-| **3. Mencari Maklumat** | Anda (ChatGPT) | Mencari maklumat tentang amalan terbaik pengurusan masa | Senarai cadangan | "Sebagai ChatGPT, bolehkah anda mencari maklumat mengenai amalan terbaik dalam pengurusan masa dan memberikan saya senarai cadangan?" |
-| **4. Menyediakan Resipi** | Anda (ChatGPT) | Menyediakan resipi hidangan menggunakan bahan tertentu | Resipi langkah demi langkah | "Sebagai ChatGPT, saya ingin anda menyediakan resipi hidangan menggunakan bahan ayam, bawang putih, dan sayur-sayuran. Bolehkah anda memberikan saya resipi langkah demi langkah?" |
-| **5. Menghasilkan Pelan Latihan** | Saya (sebagai individu yang ingin bersenam) | Menghasilkan pelan latihan harian | Jadual senaman mingguan | "Sebagai individu yang ingin memulakan rutin kecergasan, saya perlu menghasilkan pelan latihan harian. Bolehkah anda membantu saya membuat jadual senaman mingguan yang mudah diikuti?" |
+|No.| **Topik** | **Role (Peranan)** | **Task (Tugas)** | **Format (Format)** | **Prompt** |
+|---|------------|--------------------|------------------|---------------------|------------|
+|1.| **1. Menulis E-mel Rasmi** | Saya (sebagai pekerja) | Menulis e-mel untuk memohon cuti | E-mel rasmi | "Sebagai seorang pekerja, saya perlu menulis e-mel rasmi untuk memohon cuti kepada pengurus saya. Bolehkah anda bantu saya menyediakan e-mel tersebut?" |
+|2.| **2. Menyediakan Laporan** | Saya (sebagai pelajar) | Menyediakan laporan penyelidikan | Laporan formal dengan bahagian pengenalan, metodologi, hasil, dan kesimpulan | "Sebagai seorang pelajar, saya perlu menyediakan laporan penyelidikan mengenai topik perubahan iklim. Bolehkah anda membantu saya merangka laporan yang lengkap dengan bahagian pengenalan, metodologi, hasil, dan kesimpulan?" |
+|3.| **3. Mencari Maklumat** | Anda (ChatGPT) | Mencari maklumat tentang amalan terbaik pengurusan masa | Senarai cadangan | "Sebagai ChatGPT, bolehkah anda mencari maklumat mengenai amalan terbaik dalam pengurusan masa dan memberikan saya senarai cadangan?" |
+|4.| **4. Menyediakan Resipi** | Anda (ChatGPT) | Menyediakan resipi hidangan menggunakan bahan tertentu | Resipi langkah demi langkah | "Sebagai ChatGPT, saya ingin anda menyediakan resipi hidangan menggunakan bahan ayam, bawang putih, dan sayur-sayuran. Bolehkah anda memberikan saya resipi langkah demi langkah?" |
+|5.| **5. Menghasilkan Pelan Latihan** | Saya (sebagai individu yang ingin bersenam) | Menghasilkan pelan latihan harian | Jadual senaman mingguan | "Sebagai individu yang ingin memulakan rutin kecergasan, saya perlu menghasilkan pelan latihan harian. Bolehkah anda membantu saya membuat jadual senaman mingguan yang mudah diikuti?" |
 
 Jadual ini menunjukkan dengan jelas bagaimana setiap elemen dalam RTF kerangka kerja digunakan untuk menyusun permintaan atau arahan dengan cara yang lebih sistematik dan mudah difahami.
 
