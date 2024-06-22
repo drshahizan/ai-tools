@@ -8,60 +8,60 @@
 # C-A-R-E Framework: Context, Action, Result, Example
 
 ## Pengenalan
-C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing ChatGPT dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
 ## Komponen C-A-R-E Framework
 
-1. **Context (Konteks)**
-   - **Penerangan**: Komponen konteks menetapkan pentas dengan menyediakan maklumat latar belakang, setting, atau keadaan yang relevan dengan prompt. Ia membantu ChatGPT memahami konteks di mana interaksi berlaku dan menyesuaikan responsnya dengan sewajarnya.
+1. **_Context_ (Konteks)**
+   - **Penerangan**: Komponen konteks menetapkan pentas dengan menyediakan maklumat latar belakang, setting, atau keadaan yang relevan dengan prompt. Ia membantu generatif AI memahami konteks di mana interaksi berlaku dan menyesuaikan responsnya dengan sewajarnya.
    - **Contoh**: "Dalam pasukan pemasaran kami, terdapat keperluan untuk meningkatkan keterlibatan pelanggan melalui media sosial."
 
-2. **Action (Tindakan)**
-   - **Penerangan**: Komponen tindakan menentukan tindakan, tugas, atau tingkah laku yang diinginkan AI untuk dilakukan sebagai respons kepada prompt. Ia menggariskan arahan atau permintaan khusus yang membimbing ChatGPT dalam penjanaan teks.
+2. **_Action_ (Tindakan)**
+   - **Penerangan**: Komponen tindakan menentukan tindakan, tugas, atau tingkah laku yang diinginkan AI untuk dilakukan sebagai respons kepada prompt. Ia menggariskan arahan atau permintaan khusus yang membimbing generatif AI dalam penjanaan teks.
    - **Contoh**: "Sila cadangkan tiga strategi yang boleh meningkatkan keterlibatan pelanggan di platform media sosial kami."
 
-3. **Result (Hasil)**
-   - **Penerangan**: Komponen hasil mengantisipasi hasil atau akibat daripada respons AI, menonjolkan kesan atau manfaat yang diharapkan. Ia membantu pengguna menilai keberkesanan sumbangan ChatGPT dan menilai sama ada objektif yang diinginkan telah dicapai.
+3. **_Result_ (Hasil)**
+   - **Penerangan**: Komponen hasil mengantisipasi hasil atau akibat daripada respons AI, menonjolkan kesan atau manfaat yang diharapkan. Ia membantu pengguna menilai keberkesanan sumbangan generatif AI dan menilai sama ada objektif yang diinginkan telah dicapai.
    - **Contoh**: "Dengan melaksanakan strategi ini, kami berharap dapat melihat peningkatan dalam keterlibatan pelanggan sekurang-kurangnya 20% dalam tempoh tiga bulan."
 
-4. **Example (Contoh)**
-   - **Penerangan**: Komponen contoh menyediakan ilustrasi atau insiden konkrit untuk menjelaskan prompt dan membimbing pemahaman ChatGPT. Ia menawarkan senario, kes, atau sampel khusus yang menunjukkan hasil yang diinginkan atau menjelaskan tindakan yang dimaksudkan.
+4. **_Example_ (Contoh)**
+   - **Penerangan**: Komponen contoh menyediakan ilustrasi atau insiden konkrit untuk menjelaskan prompt dan membimbing pemahaman generatif AI. Ia menawarkan senario, kes, atau sampel khusus yang menunjukkan hasil yang diinginkan atau menjelaskan tindakan yang dimaksudkan.
    - **Contoh**: "Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan."
 
-## Cara Menggunakan C-A-R-E Framework dengan ChatGPT
+## Cara Menggunakan C-A-R-E Framework
 
-1. **Mulakan dengan Context**
+1. **Mulakan dengan _Context_**
    - Berikan gambaran yang jelas tentang situasi atau latar belakang yang relevan dengan permintaan.
    - Contoh: "Dalam organisasi kami, terdapat kekurangan dalam komunikasi dalaman yang menyebabkan salah faham dan kesilapan yang kerap."
 
-2. **Nyatakan Action yang Diinginkan**
+2. **Nyatakan _Action_ yang Diinginkan**
    - Terangkan tindakan atau arahan khusus yang perlu diambil oleh AI.
    - Contoh: "Sila cadangkan beberapa cara untuk meningkatkan komunikasi dalaman antara jabatan."
 
-3. **Antisipasi Result yang Diinginkan**
+3. **Menghasilkan _Result_ yang Diinginkan**
    - Jelaskan hasil atau kesan yang diharapkan daripada tindakan yang diambil.
    - Contoh: "Dengan melaksanakan cadangan ini, kami berharap dapat mengurangkan salah faham dan kesilapan dalaman sebanyak 50%."
 
-4. **Berikan Example untuk Memperjelas**
+4. **Berikan _Example_ untuk Memperjelas**
    - Berikan contoh konkrit atau senario untuk menjelaskan tindakan atau hasil yang diinginkan.
    - Contoh: "Sebagai contoh, salah satu cadangan boleh melibatkan penggunaan alat komunikasi seperti Slack untuk memudahkan pertukaran maklumat yang pantas dan jelas."
 
-### Contoh Prompt Menggunakan C-A-R-E Framework
+### Contoh Penggunaan
 
 | **No.** | **Contoh**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| 1       | Peningkatan keterlibatan pelanggan            | Context: Dalam pasukan pemasaran kami, terdapat keperluan untuk meningkatkan keterlibatan pelanggan melalui media sosial. <br> Action: Sila cadangkan tiga strategi yang boleh meningkatkan keterlibatan pelanggan di platform media sosial kami. <br> Result: Dengan melaksanakan strategi ini, kami berharap dapat melihat peningkatan dalam keterlibatan pelanggan sekurang-kurangnya 20% dalam tempoh tiga bulan. <br> Example: Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan. |
-| 2       | Meningkatkan produktiviti kerja               | Context: Produktiviti pekerja menurun disebabkan oleh gangguan berterusan dan kurang fokus. <br> Action: Cadangkan tiga cara untuk meningkatkan produktiviti pekerja. <br> Result: Kami berharap dapat melihat peningkatan produktiviti sekurang-kurangnya 15% dalam tempoh sebulan. <br> Example: Sebagai contoh, menetapkan waktu kerja bebas gangguan boleh membantu pekerja fokus pada tugasan mereka. |
-| 3       | Mengurangkan kadar pusing ganti staf          | Context: Kepuasan kerja di kalangan staf adalah rendah, menyebabkan kadar pusing ganti staf yang tinggi. <br> Action: Sila berikan tiga cadangan untuk meningkatkan kepuasan kerja staf. <br> Result: Kami mahu mengurangkan kadar pusing ganti staf sebanyak 20% dalam tempoh enam bulan. <br> Example: Sebagai contoh, menyediakan peluang pembangunan kerjaya boleh meningkatkan kepuasan kerja staf. |
-| 4       | Meningkatkan kualiti produk                   | Context: Kualiti produk kami tidak konsisten dan sering mendapat aduan daripada pelanggan. <br> Action: Cadangkan langkah-langkah untuk meningkatkan kualiti produk. <br> Result: Kami mahu memastikan kualiti produk sentiasa tinggi dan memuaskan pelanggan. <br> Example: Sebagai contoh, mengadakan pemeriksaan kualiti yang lebih kerap boleh membantu mengesan masalah lebih awal. |
-| 5       | Memperbaiki komunikasi dalaman                | Context: Komunikasi dalaman antara jabatan tidak berkesan, menyebabkan banyak kesilapan dan salah faham. <br> Action: Cadangkan cara untuk memperbaiki komunikasi dalaman. <br> Result: Kami berharap dapat mengurangkan kesilapan dan salah faham sebanyak 50%. <br> Example: Sebagai contoh, menggunakan alat komunikasi seperti Slack boleh memudahkan pertukaran maklumat yang pantas dan jelas. |
-| 6       | Meningkatkan kesetiaan pelanggan              | Context: Pelanggan sering berpindah ke pesaing kerana tidak ada program kesetiaan yang berkesan. <br> Action: Cadangkan tiga strategi untuk meningkatkan kesetiaan pelanggan. <br> Result: Kami mahu meningkatkan kesetiaan pelanggan dan mengurangkan kehilangan pelanggan kepada pesaing. <br> Example: Sebagai contoh, memperkenalkan program kesetiaan dengan ganjaran menarik boleh meningkatkan kesetiaan pelanggan. |
-| 7       | Mengurangkan stres kerja                      | Context: Banyak pekerja mengadu tentang stres kerja yang tinggi dan keseimbangan kerja-hidup yang tidak memuaskan. <br> Action: Cadangkan cara untuk mengurangkan stres kerja. <br> Result: Kami mahu meningkatkan keseimbangan kerja-hidup di kalangan pekerja dan mengurangkan stres kerja. <br> Example: Sebagai contoh, memperkenalkan waktu kerja fleksibel boleh membantu pekerja mengurus masa mereka dengan lebih baik. |
-| 8       | Menarik pelanggan baru                        | Context: Kami menghadapi cabaran untuk menarik pelanggan baru di pasaran yang kompetitif. <br> Action: Cadangkan strategi untuk menarik pelanggan baru. <br> Result: Kami mahu melihat peningkatan dalam jumlah pelanggan baru sebanyak 10% dalam tempoh tiga bulan. <br> Example: Sebagai contoh, menawarkan diskaun istimewa kepada pelanggan baru boleh menarik minat mereka untuk mencuba produk kami. |
-| 9       | Memperbaiki proses penghantaran               | Context: Banyak pelanggan mengadu tentang masa penghantaran yang lambat. <br> Action: Cadangkan cara untuk mempercepatkan proses penghantaran. <br> Result: Kami mahu mengurangkan masa penghantaran kepada kurang daripada tiga hari bekerja. <br> Example: Sebagai contoh, mengoptimumkan rute penghantaran boleh membantu mempercepatkan masa penghantaran. |
-| 10      | Meningkatkan keberkesanan kempen pemasaran    | Context: Keberkesanan kempen pemasaran kami menurun dengan ketara dalam beberapa bulan kebelakangan ini. <br> Action: Cadangkan tiga cara untuk meningkatkan keberkesanan kempen pemasaran. <br> Result: Kami mahu melihat peningkatan dalam hasil kempen pemasaran sebanyak 15% dalam tempoh dua bulan. <br> Example: Sebagai contoh, mengadakan kajian pasaran sebelum melancarkan kempen baru boleh membantu memahami keperluan dan kehendak pelanggan. |
+| 1       | Peningkatan keterlibatan pelanggan            | **Context:** Dalam pasukan pemasaran kami, terdapat keperluan untuk meningkatkan keterlibatan pelanggan melalui media sosial. <br> **Action:** Sila cadangkan tiga strategi yang boleh meningkatkan keterlibatan pelanggan di platform media sosial kami. <br> **Result:** Dengan melaksanakan strategi ini, kami berharap dapat melihat peningkatan dalam keterlibatan pelanggan sekurang-kurangnya 20% dalam tempoh tiga bulan. <br> **Example:** Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan. |
+| 2       | Meningkatkan produktiviti kerja               | **Context:** Produktiviti pekerja menurun disebabkan oleh gangguan berterusan dan kurang fokus. <br> **Action:** Cadangkan tiga cara untuk meningkatkan produktiviti pekerja. <br> **Result:** Kami berharap dapat melihat peningkatan produktiviti sekurang-kurangnya 15% dalam tempoh sebulan. <br> **Example:** Sebagai contoh, menetapkan waktu kerja bebas gangguan boleh membantu pekerja fokus pada tugasan mereka. |
+| 3       | Mengurangkan kadar pusing ganti staf          | **Context:** Kepuasan kerja di kalangan staf adalah rendah, menyebabkan kadar pusing ganti staf yang tinggi. <br> **Action:** Sila berikan tiga cadangan untuk meningkatkan kepuasan kerja staf. <br> **Result:** Kami mahu mengurangkan kadar pusing ganti staf sebanyak 20% dalam tempoh enam bulan. <br> **Example:** Sebagai contoh, menyediakan peluang pembangunan kerjaya boleh meningkatkan kepuasan kerja staf. |
+| 4       | Meningkatkan kualiti produk                   | **Context:** Kualiti produk kami tidak konsisten dan sering mendapat aduan daripada pelanggan. <br> **Action:** Cadangkan langkah-langkah untuk meningkatkan kualiti produk. <br> **Result:** Kami mahu memastikan kualiti produk sentiasa tinggi dan memuaskan pelanggan. <br> **Example:** Sebagai contoh, mengadakan pemeriksaan kualiti yang lebih kerap boleh membantu mengesan masalah lebih awal. |
+| 5       | Memperbaiki komunikasi dalaman                | **Context:** Komunikasi dalaman antara jabatan tidak berkesan, menyebabkan banyak kesilapan dan salah faham. <br> **Action:** Cadangkan cara untuk memperbaiki komunikasi dalaman. <br> **Result:** Kami berharap dapat mengurangkan kesilapan dan salah faham sebanyak 50%. <br> **Example:** Sebagai contoh, menggunakan alat komunikasi seperti Slack boleh memudahkan pertukaran maklumat yang pantas dan jelas. |
+| 6       | Meningkatkan kesetiaan pelanggan              | **Context:** Pelanggan sering berpindah ke pesaing kerana tidak ada program kesetiaan yang berkesan. <br> **Action:** Cadangkan tiga strategi untuk meningkatkan kesetiaan pelanggan. <br> **Result:** Kami mahu meningkatkan kesetiaan pelanggan dan mengurangkan kehilangan pelanggan kepada pesaing. <br> **Example:** Sebagai contoh, memperkenalkan program kesetiaan dengan ganjaran menarik boleh meningkatkan kesetiaan pelanggan. |
+| 7       | Mengurangkan stres kerja                      | **Context:** Banyak pekerja mengadu tentang stres kerja yang tinggi dan keseimbangan kerja-hidup yang tidak memuaskan. <br> **Action:** Cadangkan cara untuk mengurangkan stres kerja. <br> **Result:** Kami mahu meningkatkan keseimbangan kerja-hidup di kalangan pekerja dan mengurangkan stres kerja. <br> **Example:** Sebagai contoh, memperkenalkan waktu kerja fleksibel boleh membantu pekerja mengurus masa mereka dengan lebih baik. |
+| 8       | Menarik pelanggan baru                        | **Context:** Kami menghadapi cabaran untuk menarik pelanggan baru di pasaran yang kompetitif. <br> **Action:** Cadangkan strategi untuk menarik pelanggan baru. <br> **Result:** Kami mahu melihat peningkatan dalam jumlah pelanggan baru sebanyak 10% dalam tempoh tiga bulan. <br> **Example:** Sebagai contoh, menawarkan diskaun istimewa kepada pelanggan baru boleh menarik minat mereka untuk mencuba produk kami. |
+| 9       | Memperbaiki proses penghantaran               | **Context:** Banyak pelanggan mengadu tentang masa penghantaran yang lambat. <br> **Action:** Cadangkan cara untuk mempercepatkan proses penghantaran. <br> **Result:** Kami mahu mengurangkan masa penghantaran kepada kurang daripada tiga hari bekerja. <br> **Example:** Sebagai contoh, mengoptimumkan rute penghantaran boleh membantu mempercepatkan masa penghantaran. |
+| 10      | Meningkatkan keberkesanan kempen pemasaran    | **Context:** Keberkesanan kempen pemasaran kami menurun dengan ketara dalam beberapa bulan kebelakangan ini. <br> **Action:** Cadangkan tiga cara untuk meningkatkan keberkesanan kempen pemasaran. <br> **Result:** Kami mahu melihat peningkatan dalam hasil kempen pemasaran sebanyak 15% dalam tempoh dua bulan. <br> **Example:** Sebagai contoh, mengadakan kajian pasaran sebelum melancarkan kempen baru boleh membantu memahami keperluan dan kehendak pelanggan. |
 
-Dengan menggunakan C-A-R-E framework dalam berinteraksi dengan ChatGPT, pengguna dapat memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
+Dengan menggunakan C-A-R-E framework dalam berinteraksi dengan generatif AI, pengguna dapat memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
