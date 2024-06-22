@@ -48,7 +48,7 @@ C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, men
 
 ### Contoh Prompt Menggunakan C-A-R-E Framework
 
-| **No.** | **Contoh**                                    | **C-A-R-E Framework Prompt** |
+| **No.** | **Contoh**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1       | Peningkatan keterlibatan pelanggan            | Context: Dalam pasukan pemasaran kami, terdapat keperluan untuk meningkatkan keterlibatan pelanggan melalui media sosial. <br> Action: Sila cadangkan tiga strategi yang boleh meningkatkan keterlibatan pelanggan di platform media sosial kami. <br> Result: Dengan melaksanakan strategi ini, kami berharap dapat melihat peningkatan dalam keterlibatan pelanggan sekurang-kurangnya 20% dalam tempoh tiga bulan. <br> Example: Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan. |
 | 2       | Meningkatkan produktiviti kerja               | Context: Produktiviti pekerja menurun disebabkan oleh gangguan berterusan dan kurang fokus. <br> Action: Cadangkan tiga cara untuk meningkatkan produktiviti pekerja. <br> Result: Kami berharap dapat melihat peningkatan produktiviti sekurang-kurangnya 15% dalam tempoh sebulan. <br> Example: Sebagai contoh, menetapkan waktu kerja bebas gangguan boleh membantu pekerja fokus pada tugasan mereka. |
