@@ -5,7 +5,7 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Kerangka kerja Rantaian Pemikiran
+# Kerangka kerja Rantaian Pemikiran (CoT)
 
 Rantaian pemikiran atau _Chain of Thought_ (CoT) adalah sebuah kerangka kerja untuk membuat prompt yang meningkatkan kemampuan model bahasa besar (LLM) dalam penaakulan dengan memberitahu AI untuk menyelesaikan masalah secara langkah demi langkah. Pendekatan ini sangat berguna untuk penyelesaian masalah atau tugas analitik yang kompleks.
 
