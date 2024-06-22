@@ -7,7 +7,7 @@
 
 # RTF framework
 
-RTF framework adalah sebuah pendekatan untuk menyusun dan mengkategorikan permintaan atau arahan dengan cara yang lebih jelas dan teratur. "RTF" adalah singkatan bagi _Role_, _Task", dan "Format". Berikut adalah huraian terperinci berkaitan setiap elemen dalam framework ini:
+RTF framework adalah sebuah pendekatan untuk menyusun dan mengkategorikan permintaan atau arahan dengan cara yang lebih jelas dan teratur. "RTF" adalah singkatan bagi _Role_, _Task_, dan _Format_. Berikut adalah huraian terperinci berkaitan setiap elemen dalam framework ini:
 
 1. **_Role_ (Peranan):**
    - **Definisi:** Peranan adalah siapa yang akan melaksanakan tugas yang diberikan. Ini boleh merujuk kepada diri sendiri, orang lain, atau bahkan alat atau sistem tertentu.
