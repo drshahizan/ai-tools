@@ -5,10 +5,10 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# T-A-G Framework
+# T-A-G kerangka kerja
 Kerangka T-A-G (Task, Action, Goal) menyediakan pendekatan terstruktur untuk membimbing interaksi dengan ChatGPT, memastikan kejelasan dan keselarasan untuk mencapai hasil yang spesifik. Berikut adalah penjelasan terperinci mengenai setiap komponen:
 
-## Penerangan T-A-G Framework
+## Penerangan T-A-G kerangka kerja
 
 1. **Task (Tugas):**
    - **Definisi:** Tugas menentukan tindakan khusus yang AI perlu lakukan sebagai respons terhadap prompt. Ia merangkumi objektif utama atau tujuan interaksi, seperti memberikan maklumat, menghasilkan kandungan kreatif, atau terlibat dalam dialog.
@@ -22,11 +22,11 @@ Kerangka T-A-G (Task, Action, Goal) menyediakan pendekatan terstruktur untuk mem
    - **Definisi:** Matlamat menegaskan hasil atau hasil yang diinginkan yang pengguna harapkan dapat dicapai melalui interaksi dengan ChatGPT. Ia menerangkan tujuan sebenar menghasilkan teks dan membantu menilai keberkesanan respons AI dalam memenuhi keperluan pengguna.
    - **Contoh:** Memahami konsep dengan lebih baik, menghiburkan melalui naratif yang menarik, atau memecahkan masalah matematik dengan pendekatan yang jelas dan terperinci.
 
-### Contoh Penggunaan Framework T-A-G
+### Contoh Penggunaan kerangka kerja T-A-G
 
-Contoh prompt menggunakan framework T-A-G dalam jadual untuk kegunaan harian:
+Contoh prompt menggunakan kerangka kerja T-A-G dalam jadual untuk kegunaan harian:
 
-| **No.** | **Contoh**                                    | **Framework T-A-G Prompt** |
+| **No.** | **Contoh**                                    | **kerangka kerja T-A-G Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1       | **Minta penjelasan tentang teori ekonomi**    | **Task:** Meminta penjelasan mengenai teori permintaan dan penawaran.                                               <br>**Action:** Sediakan definisi yang jelas, contoh, dan grafik yang menggambarkan hubungan ekonomi.<br>**Goal:** Memahami konsep ekonomi untuk kegunaan akademik. |
 | 2       | **Meminta cadangan untuk rekaan laman web**   | **Task:** Meminta cadangan untuk rekaan laman web yang menarik dan mudah digunakan.                                  <br>**Action:** Berikan contoh laman web terkini yang berkesan dan rekaan yang responsif.<br>**Goal:** Mencapai laman web yang mempunyai pengalaman pengguna yang baik. |
@@ -39,7 +39,7 @@ Contoh prompt menggunakan framework T-A-G dalam jadual untuk kegunaan harian:
 | 9       | **Meminta bantuan mengaturkan perjalanan usahasama** | **Task:** Meminta bantuan untuk mengaturkan perjalanan usahasama ke Kuala Lumpur.                                   <br>**Action:** Sediakan jadual perjalanan, tempahan penginapan, dan cadangan aktiviti untuk perjalanan.<br>**Goal:** Memastikan perjalanan berjalan lancar dan berkesan. |
 | 10      | **Minta analisis tentang tren pasaran saham terkini** | **Task:** Meminta analisis mengenai tren pasaran saham semasa dan ramalan jangka masa depan.                       <br>**Action:** Sediakan analisis mengenai faktor-faktor yang mempengaruhi pasaran saham, perbandingan antara syarikat, dan pandangan jangka panjang.<br>**Goal:** Mendapatkan pandangan yang berpengetahuan tentang pelaburan saham. |
 
-Jadual ini menggunakan framework T-A-G untuk menggambarkan 10 prompt yang boleh digunakan dalam kegiatan harian untuk berinteraksi dengan ChatGPT. Pendekatan ini membantu memastikan setiap interaksi dengan AI adalah terarah dengan jelas menuju kepada hasil yang diinginkan.
+Jadual ini menggunakan kerangka kerja T-A-G untuk menggambarkan 10 prompt yang boleh digunakan dalam kegiatan harian untuk berinteraksi dengan ChatGPT. Pendekatan ini membantu memastikan setiap interaksi dengan AI adalah terarah dengan jelas menuju kepada hasil yang diinginkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.

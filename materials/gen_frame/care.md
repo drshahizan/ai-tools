@@ -5,12 +5,12 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# C-A-R-E Framework: Context, Action, Result, Example
+# C-A-R-E kerangka kerja: Context, Action, Result, Example
 
 ## Pengenalan
-C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+C-A-R-E kerangka kerja adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
-## Komponen C-A-R-E Framework
+## Komponen C-A-R-E kerangka kerja
 
 1. **_Context_ (Konteks)**
    - **Penerangan**: Komponen konteks menetapkan pentas dengan menyediakan maklumat latar belakang, setting, atau keadaan yang relevan dengan prompt. Ia membantu generatif AI memahami konteks di mana interaksi berlaku dan menyesuaikan responsnya dengan sewajarnya.
@@ -28,7 +28,7 @@ C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, men
    - **Penerangan**: Komponen contoh menyediakan ilustrasi atau insiden konkrit untuk menjelaskan prompt dan membimbing pemahaman generatif AI. Ia menawarkan senario, kes, atau sampel khusus yang menunjukkan hasil yang diinginkan atau menjelaskan tindakan yang dimaksudkan.
    - **Contoh**: "Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan."
 
-## Cara Menggunakan C-A-R-E Framework
+## Cara Menggunakan C-A-R-E kerangka kerja
 
 1. **Mulakan dengan _Context_**
    - Berikan gambaran yang jelas tentang situasi atau latar belakang yang relevan dengan permintaan.
@@ -61,7 +61,7 @@ C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, men
 | 9       | Memperbaiki proses penghantaran               | **Context:** Banyak pelanggan mengadu tentang masa penghantaran yang lambat. <br> **Action:** Cadangkan cara untuk mempercepatkan proses penghantaran. <br> **Result:** Kami mahu mengurangkan masa penghantaran kepada kurang daripada tiga hari bekerja. <br> **Example:** Sebagai contoh, mengoptimumkan rute penghantaran boleh membantu mempercepatkan masa penghantaran. |
 | 10      | Meningkatkan keberkesanan kempen pemasaran    | **Context:** Keberkesanan kempen pemasaran kami menurun dengan ketara dalam beberapa bulan kebelakangan ini. <br> **Action:** Cadangkan tiga cara untuk meningkatkan keberkesanan kempen pemasaran. <br> **Result:** Kami mahu melihat peningkatan dalam hasil kempen pemasaran sebanyak 15% dalam tempoh dua bulan. <br> **Example:** Sebagai contoh, mengadakan kajian pasaran sebelum melancarkan kempen baru boleh membantu memahami keperluan dan kehendak pelanggan. |
 
-Dengan menggunakan C-A-R-E framework dalam berinteraksi dengan generatif AI, pengguna dapat memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
+Dengan menggunakan C-A-R-E kerangka kerja dalam berinteraksi dengan generatif AI, pengguna dapat memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.

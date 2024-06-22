@@ -5,11 +5,11 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# B-A-B Framework: _Before_, _After_, _Bridge_
+# B-A-B kerangka kerja: _Before_, _After_, _Bridge_
 
-B-A-B framework adalah kaedah struktur yang membantu untuk menetapkan peralihan yang jelas dari keadaan awal (_before_) ke hasil yang diinginkan (_after_) melalui langkah-langkah atau tindakan yang diperlukan untuk mencapai peralihan tersebut (_bridge_). Dengan menggunakan rangka kerja ini, pengguna boleh membimbing ChatGPT untuk menghasilkan teks yang memudahkan kemajuan atau transformasi.
+B-A-B kerangka kerja adalah kaedah struktur yang membantu untuk menetapkan peralihan yang jelas dari keadaan awal (_before_) ke hasil yang diinginkan (_after_) melalui langkah-langkah atau tindakan yang diperlukan untuk mencapai peralihan tersebut (_bridge_). Dengan menggunakan rangka kerja ini, pengguna boleh membimbing ChatGPT untuk menghasilkan teks yang memudahkan kemajuan atau transformasi.
 
-## Komponen B-A-B Framework
+## Komponen B-A-B kerangka kerja
 
 1. **_Before_ (Sebelum)**
    - **Penerangan**: Fasa "_before_" menetapkan konteks dengan menggambarkan situasi semasa atau titik permulaan sebelum sebarang perubahan atau intervensi berlaku. Ia menggariskan cabaran, isu, atau keadaan sedia ada yang mendorong keperluan untuk berinteraksi dengan generatif AI.
@@ -23,7 +23,7 @@ B-A-B framework adalah kaedah struktur yang membantu untuk menetapkan peralihan 
    - **Penerangan**: Komponen "_bridge_" menghubungkan keadaan sebelum dan selepas, dengan menggariskan langkah-langkah atau tindakan yang diperlukan untuk beralih dari keadaan awal ke hasil yang diinginkan. Ia memberikan panduan kepada generatif AI tentang bagaimana untuk memudahkan transformasi atau kemajuan yang dinyatakan dalam prompt.
    - **Contoh**: "Untuk mencapai hasil tersebut, langkah-langkah yang diperlukan termasuk: 1) Menyediakan latihan motivasi untuk pasukan jualan, 2) Mengembangkan strategi pemasaran baru yang disesuaikan dengan pasaran semasa, 3) Mengadakan sesi bimbingan berkala untuk menilai kemajuan dan menyesuaikan strategi."
 
-## Cara Menggunakan B-A-B Framework dengan ChatGPT
+## Cara Menggunakan B-A-B kerangka kerja dengan ChatGPT
 
 1. **Mulakan dengan _Before_**
    - Berikan gambaran yang jelas tentang keadaan semasa atau cabaran yang dihadapi. 

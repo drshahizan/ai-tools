@@ -5,11 +5,11 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Framework RODES
+# kerangka kerja RODES
 
-Framework RODES adalah pendekatan yang menyediakan struktur terperinci untuk menguruskan tugas dengan jelas dan berkesan. Berikut adalah huraian untuk setiap elemen dalam framework RODES:
+kerangka kerja RODES adalah pendekatan yang menyediakan struktur terperinci untuk menguruskan tugas dengan jelas dan berkesan. Berikut adalah huraian untuk setiap elemen dalam kerangka kerja RODES:
 
-## Framework RODES
+## kerangka kerja RODES
 
 1. **Role (Peranan):**
    - **Definisi:** Peranan merujuk kepada siapa yang bertanggungjawab untuk melaksanakan tugas atau projek tersebut.
@@ -31,8 +31,8 @@ Framework RODES adalah pendekatan yang menyediakan struktur terperinci untuk men
    - **Definisi:** Semakan adalah proses akhir untuk memastikan bahawa setiap langkah atau output berada dalam konteks yang sesuai dan memenuhi standard atau keperluan yang ditetapkan.
    - **Contoh:** Memastikan data yang digunakan adalah tepat dan sah, mengesahkan bahawa artikel mematuhi garis panduan penulisan, atau menilai kebolehpercayaan antara muka pengguna.
 
-## Contoh Penggunaan Framework RODES
-Contoh prompt menggunakan framework RODES dalam jadual untuk kegunaan harian:
+## Contoh Penggunaan kerangka kerja RODES
+Contoh prompt menggunakan kerangka kerja RODES dalam jadual untuk kegunaan harian:
 
 | **No.** | **Contoh**                          | **RODES Prompt**                                                                                                                 |
 |---------:|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -47,7 +47,7 @@ Contoh prompt menggunakan framework RODES dalam jadual untuk kegunaan harian:
 | 9.       | **Merancang Program Kesihatan**       | **Role:** Pengurus program kesihatan<br>**Objective:** Merancang program kesihatan bagi pekerja syarikat.<br>**Details:**<br>1) Kaji semula keperluan kesihatan staf melalui tinjauan dan analisis.<br>2) Susun program dengan fokus kepada diet, senaman, dan kesihatan mental.<br>3) Sediakan bahan-bahan pendidikan dan sokongan.<br>4) Lakukan penilaian kesan program.<br>Examples: Peningkatan kesihatan dan produktiviti staf secara keseluruhan.<br>**Sense Check:** Semak semula pencapaian objektif kesihatan dan penglibatan staf. |
 | 10.      | **Menyusun Proposal Pekerjaan**       | **Role:** Pembekal perkhidmatan<br>**Objective:** Menyiapkan proposal bagi tender penyelenggaraan sistem IT di sebuah syarikat.<br>**Details:**<br>1) Rangkakan butiran perkhidmatan yang disyorkan.<br>2) Tinjau rekod prestasi dan pengalaman syarikat.<br>3) Susun jadual pelaksanaan dan penyelenggaraan.<br>4) Rancang bajet dan sumber yang diperlukan.<br>Examples: Proposal yang menang tender dan dilaksanakan dengan cemerlang.<br>**Sense Check:** Semak semula keselarasan cadangan dengan keperluan syarikat dan teknologi terkini. |
 
-Jadual ini menggunakan framework RODES untuk menghuraikan 10 prompt yang dapat digunakan dalam pelbagai tugas harian. Pendekatan ini membantu memastikan setiap tugas atau projek diurus dengan teratur dan mencapai hasil yang diinginkan secara berkesan.
+Jadual ini menggunakan kerangka kerja RODES untuk menghuraikan 10 prompt yang dapat digunakan dalam pelbagai tugas harian. Pendekatan ini membantu memastikan setiap tugas atau projek diurus dengan teratur dan mencapai hasil yang diinginkan secara berkesan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.

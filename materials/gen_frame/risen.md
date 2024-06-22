@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Framework RISEN
+# kerangka kerja RISEN
 
-Framework RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kompleks atau terhad, seperti penulisan blog atau projek penyelidikan, menjadi komponen yang dapat dilaksanakan dengan lebih baik dan fokus. Berikut adalah huraian terperinci berkaitan setiap elemen dalam framework RISEN:
+kerangka kerja RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kompleks atau terhad, seperti penulisan blog atau projek penyelidikan, menjadi komponen yang dapat dilaksanakan dengan lebih baik dan fokus. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja RISEN:
 
 ## Elemen RISEN
 
@@ -31,9 +31,9 @@ Framework RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kompleks
    - **Definisi:** Pengecilan skop adalah proses untuk memfokuskan tugas dengan lebih spesifik dan terperinci. Ini membantu mengurangkan kekaburan dan memastikan usaha tertumpu pada aspek-aspek yang paling penting.
    - **Contoh:** "Fokus pada dampak ekonomi perubahan iklim di negara-negara membangun," atau "Tulis tentang strategi pemasaran media sosial untuk perniagaan kecil."
 
-## Contoh Penggunaan Framework RISEN dalam Pelbagai Situasi
+## Contoh Penggunaan kerangka kerja RISEN dalam Pelbagai Situasi
 
-Tentu! Berikut adalah 10 prompt menggunakan framework RISEN yang disusun dalam jadual:
+Tentu! Berikut adalah 10 prompt menggunakan kerangka kerja RISEN yang disusun dalam jadual:
 
 | **No.** | **Contoh**                          | **RISEN Prompt**                                                                                                                 |
 |---------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ Tentu! Berikut adalah 10 prompt menggunakan framework RISEN yang disusun dalam j
 | 9       | **Mengatur Acara Keluarga**          | **Role:** Penganjur acara<br>**Instructions:** Rancang acara keluarga pada hujung minggu.<br>**Steps:**<br>1) Tentukan jenis acara.<br>2) Susun jadual acara.<br>3) Sediakan makanan dan minuman.<br>4) Pastikan semua persiapan lengkap.<br>**End Goal:** Menyediakan acara keluarga yang menyeronokkan dan lancar.<br>**Narrowing:** Fokus pada aktiviti yang boleh melibatkan semua ahli keluarga. |
 | 10      | **Merancang Latihan Kecergasan**     | **Role:** Jurulatih peribadi<br>**Instructions:** Buat pelan latihan kecergasan untuk bulan depan.<br>**Steps:**<br>1) Tentukan matlamat kecergasan.<br>2) Rancang rutin senaman mingguan.<br>3) Sediakan jadual latihan.<br>4) Pantau kemajuan dan buat penyesuaian jika perlu.<br>**End Goal:** Mencapai matlamat kecergasan dengan pelan latihan yang berkesan.<br>**Narrowing:** Fokus pada latihan yang meningkatkan kekuatan dan stamina. |
 
-Jadual ini menyusun prompt menggunakan framework RISEN untuk berbagai tugas harian, membantu memastikan setiap langkah terperinci dan tujuan akhir dapat dicapai dengan efisien dan berkesan.
+Jadual ini menyusun prompt menggunakan kerangka kerja RISEN untuk berbagai tugas harian, membantu memastikan setiap langkah terperinci dan tujuan akhir dapat dicapai dengan efisien dan berkesan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.

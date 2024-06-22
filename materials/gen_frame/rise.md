@@ -5,12 +5,12 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# R-I-S-E Framework: Role, Input, Steps, Expectation
+# R-I-S-E kerangka kerja: Role, Input, Steps, Expectation
 
 ## Pengenalan
-R-I-S-E framework adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing ChatGPT dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+R-I-S-E kerangka kerja adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing ChatGPT dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
-## Komponen R-I-S-E Framework
+## Komponen R-I-S-E kerangka kerja
 
 1. **Role (Peranan)**
    - **Penerangan**: Komponen peranan menentukan persona atau perspektif dari mana ChatGPT harus mendekati prompt. Ia mendefinisikan watak, identiti, atau peranan yang perlu diambil oleh AI dalam responsnya.
@@ -28,7 +28,7 @@ R-I-S-E framework adalah kaedah struktur yang menekankan pada penentuan peranan,
    - **Penerangan**: Komponen jangkaan menjelaskan hasil, matlamat, atau objektif yang ingin dicapai oleh pengguna melalui interaksi dengan ChatGPT. Ia memperjelaskan jangkaan pengguna dan membimbing AI dalam menghasilkan teks yang selaras dengan objektif tersebut.
    - **Contoh**: "Kami berharap untuk melihat peningkatan dalam kepuasan kerja sekurang-kurangnya 10% dalam tempoh tiga bulan."
 
-## Cara Menggunakan R-I-S-E Framework
+## Cara Menggunakan R-I-S-E kerangka kerja
 
 1. **Mulakan dengan Role**
    - Tentukan peranan atau persona yang perlu diambil oleh AI dalam responsnya.
@@ -46,7 +46,7 @@ R-I-S-E framework adalah kaedah struktur yang menekankan pada penentuan peranan,
    - Jelaskan hasil atau matlamat yang ingin dicapai melalui interaksi dengan AI.
    - Contoh: "Kami mahu melihat peningkatan dalam trafik laman web sebanyak 20% dalam tempoh dua bulan."
 
-### Contoh Prompt Menggunakan R-I-S-E Framework
+### Contoh Prompt Menggunakan R-I-S-E kerangka kerja
 
 | **No.** | **Contoh**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ R-I-S-E framework adalah kaedah struktur yang menekankan pada penentuan peranan,
 | 9       | Menambah baik latihan staf                    | **Role:** Sebagai seorang pengurus latihan <br> **Input:** Berikan maklumat mengenai program latihan semasa dan penilaian prestasi staf. <br> **Steps:** <br>1) Analisis keberkesanan program latihan semasa, <br>2) Kenal pasti bidang yang memerlukan penambahbaikan, <br>3) Cadangkan langkah-langkah untuk menambah baik program latihan. <br> **Expectation:** Kami mahu melihat peningkatan dalam prestasi staf sebanyak 15% dalam tempoh enam bulan. |
 | 10      | Meningkatkan keselamatan tempat kerja          | **Role:** Sebagai seorang pakar keselamatan tempat kerja <br> **Input:** Berikan data mengenai insiden keselamatan dalam tempoh enam bulan yang lalu. <br> **Steps:** <br>1) Analisis data insiden keselamatan, <br>2) Kenal pasti punca-punca utama, <br>3) Cadangkan langkah-langkah untuk meningkatkan keselamatan tempat kerja. <br> **Expectation:** Kami mahu mengurangkan insiden keselamatan sebanyak 40% dalam tempoh enam bulan. |
 
-Menggunakan R-I-S-E framework dalam berinteraksi dengan ChatGPT membantu memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
+Menggunakan R-I-S-E kerangka kerja dalam berinteraksi dengan ChatGPT membantu memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
