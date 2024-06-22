@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# RTF kerangka kerja
+# Kerangka kerja RTF
 
-RTF kerangka kerja adalah sebuah pendekatan untuk menyusun dan mengkategorikan permintaan atau arahan dengan cara yang lebih jelas dan teratur. "RTF" adalah singkatan bagi _Role_, _Task_, dan _Format_. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja ini:
+Kerangka kerja RTF adalah sebuah pendekatan untuk menyusun dan mengkategorikan permintaan atau arahan dengan cara yang lebih jelas dan teratur. "RTF" adalah singkatan bagi _Role_, _Task_, dan _Format_. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja ini:
 
 1. **_Role_ (Peranan):**
    - **Definisi:** Peranan adalah siapa yang akan melaksanakan tugas yang diberikan. Ini boleh merujuk kepada diri sendiri, orang lain, atau bahkan alat atau sistem tertentu.
