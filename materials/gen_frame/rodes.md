@@ -31,7 +31,7 @@ kerangka kerja RODES adalah pendekatan yang menyediakan struktur terperinci untu
    - **Definisi:** Semakan adalah proses akhir untuk memastikan bahawa setiap langkah atau output berada dalam konteks yang sesuai dan memenuhi standard atau keperluan yang ditetapkan.
    - **Contoh:** Memastikan data yang digunakan adalah tepat dan sah, mengesahkan bahawa artikel mematuhi garis panduan penulisan, atau menilai kebolehpercayaan antara muka pengguna.
 
-## Contoh Penggunaan kerangka kerja RODES
+## Contoh penggunaan kerangka kerja RODES
 Contoh prompt menggunakan kerangka kerja RODES dalam jadual untuk kegunaan harian:
 
 | **No.** | **Contoh**                          | **RODES Prompt**                                                                                                                 |
