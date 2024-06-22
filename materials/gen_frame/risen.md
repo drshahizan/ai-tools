@@ -7,7 +7,7 @@
 
 # Kerangka kerja RISEN
 
-kerangka kerja RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kompleks atau terhad, seperti penulisan blog atau projek penyelidikan, menjadi komponen yang dapat dilaksanakan dengan lebih baik dan fokus. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja RISEN:
+Kerangka kerja RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kompleks atau terhad, seperti penulisan blog atau projek penyelidikan, menjadi komponen yang dapat dilaksanakan dengan lebih baik dan fokus. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja RISEN:
 
 ## Elemen RISEN
 
