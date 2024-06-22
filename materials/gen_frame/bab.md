@@ -12,15 +12,15 @@ B-A-B framework adalah kaedah struktur yang membantu untuk menetapkan peralihan 
 ## Komponen B-A-B Framework
 
 1. **_Before_ (Sebelum)**
-   - **Penerangan**: Fasa "before" menetapkan konteks dengan menggambarkan situasi semasa atau titik permulaan sebelum sebarang perubahan atau intervensi berlaku. Ia menggariskan cabaran, isu, atau keadaan sedia ada yang mendorong keperluan untuk berinteraksi dengan generatif AI.
+   - **Penerangan**: Fasa "_before_" menetapkan konteks dengan menggambarkan situasi semasa atau titik permulaan sebelum sebarang perubahan atau intervensi berlaku. Ia menggariskan cabaran, isu, atau keadaan sedia ada yang mendorong keperluan untuk berinteraksi dengan generatif AI.
    - **Contoh**: "Pada masa ini, pasukan jualan kami menghadapi masalah untuk mencapai kuota bulanan mereka. Motivasi pasukan rendah dan terdapat kekurangan strategi pemasaran yang berkesan."
 
-2. **After (Selepas)**
-   - **Penerangan**: Fasa "after" membayangkan hasil yang diinginkan atau matlamat yang ingin dicapai melalui interaksi dengan generatif AI. Ia menggambarkan keadaan yang telah diperbaiki atau penyelesaian masalah yang sepatutnya berlaku hasil daripada respon AI.
+2. **_After_ (Selepas)**
+   - **Penerangan**: Fasa "_after_" membayangkan hasil yang diinginkan atau matlamat yang ingin dicapai melalui interaksi dengan generatif AI. Ia menggambarkan keadaan yang telah diperbaiki atau penyelesaian masalah yang sepatutnya berlaku hasil daripada respon AI.
    - **Contoh**: "Selepas melaksanakan strategi baru, pasukan jualan bukan sahaja mencapai kuota bulanan mereka tetapi juga melebihi sasaran, dengan motivasi yang lebih tinggi dan strategi pemasaran yang berkesan."
 
-3. **Bridge (Jambatan)**
-   - **Penerangan**: Komponen "bridge" menghubungkan keadaan sebelum dan selepas, dengan menggariskan langkah-langkah atau tindakan yang diperlukan untuk beralih dari keadaan awal ke hasil yang diinginkan. Ia memberikan panduan kepada generatif AI tentang bagaimana untuk memudahkan transformasi atau kemajuan yang dinyatakan dalam prompt.
+3. **_Bridge_ (Jambatan)**
+   - **Penerangan**: Komponen "_bridge_" menghubungkan keadaan sebelum dan selepas, dengan menggariskan langkah-langkah atau tindakan yang diperlukan untuk beralih dari keadaan awal ke hasil yang diinginkan. Ia memberikan panduan kepada generatif AI tentang bagaimana untuk memudahkan transformasi atau kemajuan yang dinyatakan dalam prompt.
    - **Contoh**: "Untuk mencapai hasil tersebut, langkah-langkah yang diperlukan termasuk: 1) Menyediakan latihan motivasi untuk pasukan jualan, 2) Mengembangkan strategi pemasaran baru yang disesuaikan dengan pasaran semasa, 3) Mengadakan sesi bimbingan berkala untuk menilai kemajuan dan menyesuaikan strategi."
 
 ## Cara Menggunakan B-A-B Framework dengan ChatGPT
@@ -39,7 +39,7 @@ B-A-B framework adalah kaedah struktur yang membantu untuk menetapkan peralihan 
 
 ## Contoh penggunaan
 
-| **No.** | **Kajian kes**                                    | * Prompt** |
+| **No.** | **Kajian kes**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1       | Motivasi pekerja rendah                       | **Before:** Pasukan jualan kami menghadapi masalah motivasi yang rendah dan sukar mencapai kuota bulanan. <br> **After:** Selepas melaksanakan strategi baru, pasukan jualan bukan sahaja mencapai kuota bulanan tetapi juga melebihi sasaran dengan motivasi yang tinggi. <br> **Bridge:** Langkah-langkah yang diperlukan termasuk: 1) Menyediakan latihan motivasi, 2) Mengadakan sesi bimbingan berkala, 3) Menyusun semula struktur insentif. |
 | 2       | Jualan produk menurun                         | **Before:** Jualan produk kami telah menurun selama tiga bulan berturut-turut. <br> **After:** Kami ingin melihat peningkatan jualan sebanyak 15% dalam tempoh tiga bulan akan datang. <br> **Bridge:** Langkah-langkah yang perlu diambil termasuk: 1) Menganalisis tren pasaran, 2) Melancarkan kempen pemasaran baru, 3) Memberi diskaun atau promosi kepada pelanggan setia. |
