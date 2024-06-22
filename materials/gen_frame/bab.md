@@ -9,7 +9,7 @@
 
 Kerangka kerja B-A-B adalah kaedah struktur yang membantu untuk menetapkan peralihan yang jelas dari keadaan awal (_before_) ke hasil yang diinginkan (_after_) melalui langkah-langkah atau tindakan yang diperlukan untuk mencapai peralihan tersebut (_bridge_). Dengan menggunakan kerangka kerja ini, pengguna boleh membimbing generatif AI untuk menghasilkan teks yang memudahkan kemajuan atau transformasi.
 
-## Komponen kerangka kerja B-A-B
+## Penerangan
 
 1. **_Before_ (Sebelum)**
    - **Penerangan**: Fasa "_before_" menetapkan konteks dengan menggambarkan situasi semasa atau titik permulaan sebelum sebarang perubahan atau intervensi berlaku. Ia menggariskan cabaran, isu, atau keadaan sedia ada yang mendorong keperluan untuk berinteraksi dengan generatif AI.
