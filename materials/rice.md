@@ -36,6 +36,6 @@ For detailed information, you can access the resource directly [here](https://ri
 
 Source: Conversation with Bing, 29/04/2024
 (1) Rice Diseases Online Resource. https://rice-diseases.irri.org/.
-(2) Predicting rice diseases using advanced technologies at different .... https://link.springer.com/article/10.1007/s42994-023-00126-4.
+(2) Predicting rice diseases using advanced technologies at different . https://link.springer.com/article/10.1007/s42994-023-00126-4.
 (3) Review: Rice Blast Disease | ScienceGate. https://www.sciencegate.app/document/10.9734/arrb/2020/v35i130180.
-(4) Impacts of Climate Variability on Rice Yield and Diseases in ... - SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713419.
+(4) Impacts of Climate Variability on Rice Yield and Diseases in  - SSRN. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713419.
