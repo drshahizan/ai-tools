@@ -8,7 +8,7 @@
 # T-A-G Framework
 Kerangka T-A-G (Task, Action, Goal) menyediakan pendekatan terstruktur untuk membimbing interaksi dengan ChatGPT, memastikan kejelasan dan keselarasan untuk mencapai hasil yang spesifik. Berikut adalah penjelasan terperinci mengenai setiap komponen:
 
-### T-A-G Framework
+## Penerangan T-A-G Framework
 
 1. **Task (Tugas):**
    - **Definisi:** Tugas menentukan tindakan khusus yang AI perlu lakukan sebagai respons terhadap prompt. Ia merangkumi objektif utama atau tujuan interaksi, seperti memberikan maklumat, menghasilkan kandungan kreatif, atau terlibat dalam dialog.
