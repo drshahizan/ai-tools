@@ -5,12 +5,12 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# ## Huraian C-A-R-E Framework: Context, Action, Result, Example
+# C-A-R-E Framework: Context, Action, Result, Example
 
-### Pengenalan
+## Pengenalan
 C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing ChatGPT dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
-### Komponen C-A-R-E Framework
+## Komponen C-A-R-E Framework
 
 1. **Context (Konteks)**
    - **Penerangan**: Komponen konteks menetapkan pentas dengan menyediakan maklumat latar belakang, setting, atau keadaan yang relevan dengan prompt. Ia membantu ChatGPT memahami konteks di mana interaksi berlaku dan menyesuaikan responsnya dengan sewajarnya.
@@ -28,7 +28,7 @@ C-A-R-E framework adalah kaedah struktur yang menekankan penyediaan konteks, men
    - **Penerangan**: Komponen contoh menyediakan ilustrasi atau insiden konkrit untuk menjelaskan prompt dan membimbing pemahaman ChatGPT. Ia menawarkan senario, kes, atau sampel khusus yang menunjukkan hasil yang diinginkan atau menjelaskan tindakan yang dimaksudkan.
    - **Contoh**: "Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan."
 
-### Cara Menggunakan C-A-R-E Framework dengan ChatGPT
+## Cara Menggunakan C-A-R-E Framework dengan ChatGPT
 
 1. **Mulakan dengan Context**
    - Berikan gambaran yang jelas tentang situasi atau latar belakang yang relevan dengan permintaan.
