@@ -5,9 +5,9 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Kerangka kerja C-A-R-E: _Context, Action, Result, Example_
+# Kerangka kerja CARE: _Context, Action, Result, Example_
 
-Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+Kerangka kerja CARE adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
 ## Penerangan
 
@@ -59,8 +59,6 @@ Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks
 | 8       | Menarik pelanggan baru                        | **Context:** Kami menghadapi cabaran untuk menarik pelanggan baru di pasaran yang kompetitif. <br> **Action:** Cadangkan strategi untuk menarik pelanggan baru. <br> **Result:** Kami mahu melihat peningkatan dalam jumlah pelanggan baru sebanyak 10% dalam tempoh tiga bulan. <br> **Example:** Sebagai contoh, menawarkan diskaun istimewa kepada pelanggan baru boleh menarik minat mereka untuk mencuba produk kami. |
 | 9       | Memperbaiki proses penghantaran               | **Context:** Banyak pelanggan mengadu tentang masa penghantaran yang lambat. <br> **Action:** Cadangkan cara untuk mempercepatkan proses penghantaran. <br> **Result:** Kami mahu mengurangkan masa penghantaran kepada kurang daripada tiga hari bekerja. <br> **Example:** Sebagai contoh, mengoptimumkan rute penghantaran boleh membantu mempercepatkan masa penghantaran. |
 | 10      | Meningkatkan keberkesanan kempen pemasaran    | **Context:** Keberkesanan kempen pemasaran kami menurun dengan ketara dalam beberapa bulan kebelakangan ini. <br> **Action:** Cadangkan tiga cara untuk meningkatkan keberkesanan kempen pemasaran. <br> **Result:** Kami mahu melihat peningkatan dalam hasil kempen pemasaran sebanyak 15% dalam tempoh dua bulan. <br> **Example:** Sebagai contoh, mengadakan kajian pasaran sebelum melancarkan kempen baru boleh membantu memahami keperluan dan kehendak pelanggan. |
-
-Dengan menggunakan C-A-R-E kerangka kerja dalam berinteraksi dengan generatif AI, pengguna dapat memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
