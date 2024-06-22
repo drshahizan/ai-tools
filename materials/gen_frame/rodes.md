@@ -34,7 +34,7 @@ kerangka kerja RODES adalah pendekatan yang menyediakan struktur terperinci untu
 ## Contoh penggunaan
 Contoh prompt menggunakan kerangka kerja RODES dalam jadual untuk kegunaan harian:
 
-| **No.** | **Contoh**                          | **RODES Prompt**                                                                                                                 |
+| **No.** | Topik                          |  Prompt |
 |---------:|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | 1.       | **Menulis Laporan Bulanan**          | **Role:** Penulis laporan<br>**Objective:** Menyiapkan laporan bulanan prestasi jualan untuk pengurusan.<br>**Details:**<br>1) Kumpulkan data prestasi jualan dari sistem.<br>2) Analisis data untuk mengenal pasti tren prestasi.<br>3) Susun struktur laporan dengan bahagian analisis dan cadangan.<br>4) Edit untuk kesalahan dan format.<br>5) Sediakan grafik dan visualisasi yang sesuai.<br>Examples: Laporan yang digunakan sebagai panduan strategik oleh pengurusan.<br>**Sense Check:** Semak semula metodologi analisis untuk kesahihan data. |
 | 2.      | **Merancang Sesi Latihan Staf**      | **Role:** Pengurus sumber manusia<br>**Objective:** Menyusun sesi latihan untuk meningkatkan kecekapan staf dalam pengurusan projek.<br>**Details:**<br>1) Kenal pasti keperluan latihan berdasarkan penilaian prestasi staf.<br>2) Susun jadual latihan dengan topik yang relevan.<br>3) Persiapkan bahan dan sumber latihan.<br>4) Pelaksanaan sesi latihan.<br>Examples: Sesi latihan yang meningkatkan pengetahuan staf dan meningkatkan kecekapan.<br>**Sense Check:** Semak semula umpan balik dari peserta latihan. |
