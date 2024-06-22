@@ -9,25 +9,25 @@
 
 kerangka kerja RODES adalah pendekatan yang menyediakan struktur terperinci untuk menguruskan tugas dengan jelas dan berkesan. Berikut adalah huraian untuk setiap elemen dalam kerangka kerja RODES:
 
-## kerangka kerja RODES
+## Elemen kerangka kerja RODES
 
-1. **Role (Peranan):**
+1. **_Role_ (Peranan):**
    - **Definisi:** Peranan merujuk kepada siapa yang bertanggungjawab untuk melaksanakan tugas atau projek tersebut.
    - **Contoh:** Penulis, pengurus projek, penyelidik, atau pembangun produk.
 
-2. **Objective (Objektif):**
+2. **_Objective_ (Objektif):**
    - **Definisi:** Objektif adalah matlamat atau hasil akhir yang ingin dicapai melalui pelaksanaan tugas tersebut.
    - **Contoh:** Menulis artikel yang mendalam tentang perkembangan teknologi, merancang dan melancarkan kempen pemasaran yang berjaya, atau mengembangkan ciri baru untuk aplikasi.
 
-3. **Details (Perincian):**
+3. **_Details_ (Perincian):**
    - **Definisi:** Perincian merangkumi langkah-langkah atau elemen-elemen tertentu yang perlu dilakukan untuk mencapai objektif yang ditetapkan.
    - **Contoh:** Menyusun data dan analisis, menulis draf, mengatur sesi perbincangan, atau menguji ciri baru.
 
-4. **Examples (Contoh):**
+4. **_Examples_ (Contoh):**
    - **Definisi:** Contoh-contoh adalah ilustrasi konkret dari hasil atau output yang diinginkan. Contoh ini membantu memberi gambaran yang lebih jelas tentang apa yang diharapkan.
    - **Contoh:** Artikel berkualiti tinggi yang menyelidik isu-isu terkini, kempen yang meningkatkan kesedaran masyarakat dengan mencapai jutaan tayangan, atau aplikasi yang mempunyai antara muka yang intuitif dan responsif.
 
-5. **Sense Check (Semakan):**
+5. **_Sense Check_ (Semakan):**
    - **Definisi:** Semakan adalah proses akhir untuk memastikan bahawa setiap langkah atau output berada dalam konteks yang sesuai dan memenuhi standard atau keperluan yang ditetapkan.
    - **Contoh:** Memastikan data yang digunakan adalah tepat dan sah, mengesahkan bahawa artikel mematuhi garis panduan penulisan, atau menilai kebolehpercayaan antara muka pengguna.
 
