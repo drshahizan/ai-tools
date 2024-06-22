@@ -5,32 +5,32 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# R-I-S-E kerangka kerja: Role, Input, Steps, Expectation
+# Kerangka kerja R-I-S-E: _Role, Input, Steps, Expectation_
 
 ## Pengenalan
-R-I-S-E kerangka kerja adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing ChatGPT dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing ChatGPT dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
-## Komponen R-I-S-E kerangka kerja
+## Komponen kerangka kerja R-I-S-E
 
-1. **Role (Peranan)**
+1. **_Role_ (Peranan)**
    - **Penerangan**: Komponen peranan menentukan persona atau perspektif dari mana ChatGPT harus mendekati prompt. Ia mendefinisikan watak, identiti, atau peranan yang perlu diambil oleh AI dalam responsnya.
    - **Contoh**: "Sebagai seorang pengurus sumber manusia"
 
-2. **Input (Input)**
+2. **_Input_ (Input)**
    - **Penerangan**: Komponen input melibatkan penyediaan maklumat, data, atau arahan yang relevan untuk membimbing ChatGPT dalam menghasilkan teks. Ia menggariskan input, arahan, atau isyarat tertentu yang perlu dipertimbangkan oleh AI semasa menyusun respons.
    - **Contoh**: "Berikan maklumat mengenai tahap kepuasan kerja staf dalam tempoh enam bulan yang lalu."
 
-3. **Steps (Langkah)**
+3. **_Steps_ (Langkah)**
    - **Penerangan**: Komponen langkah menggariskan urutan tindakan, tugas, atau prosedur yang perlu diikuti oleh ChatGPT dalam menjawab prompt. Ia menyediakan rangka kerja berstruktur untuk membimbing penjanaan teks oleh AI dan memastikan koherensi serta relevansi dalam output.
    - **Contoh**: "1) Analisis data kepuasan kerja, 2) Kenal pasti trend atau masalah utama, 3) Cadangkan penyelesaian untuk meningkatkan kepuasan kerja."
 
-4. **Expectation (Jangkaan)**
-   - **Penerangan**: Komponen jangkaan menjelaskan hasil, matlamat, atau objektif yang ingin dicapai oleh pengguna melalui interaksi dengan ChatGPT. Ia memperjelaskan jangkaan pengguna dan membimbing AI dalam menghasilkan teks yang selaras dengan objektif tersebut.
+4. **_Expectation_ (Jangkaan)**
+   - **Penerangan**: Komponen jangkaan menjelaskan hasil, matlamat, atau objektif yang ingin dicapai oleh pengguna melalui interaksi dengan generatif AI. Ia memperjelaskan jangkaan pengguna dan membimbing AI dalam menghasilkan teks yang selaras dengan objektif tersebut.
    - **Contoh**: "Kami berharap untuk melihat peningkatan dalam kepuasan kerja sekurang-kurangnya 10% dalam tempoh tiga bulan."
 
-## Cara Menggunakan R-I-S-E kerangka kerja
+## Cara Menggunakan kerangka kerja R-I-S-E 
 
-1. **Mulakan dengan Role**
+1. **Mulakan dengan _Role_**
    - Tentukan peranan atau persona yang perlu diambil oleh AI dalam responsnya.
    - Contoh: "Sebagai seorang pakar pemasaran digital"
 
@@ -38,15 +38,15 @@ R-I-S-E kerangka kerja adalah kaedah struktur yang menekankan pada penentuan per
    - Berikan maklumat, data, atau arahan khusus yang perlu dipertimbangkan oleh AI.
    - Contoh: "Sila analisis data trafik laman web untuk tempoh tiga bulan terakhir."
 
-3. **Gariskan Steps yang Perlu Diikuti**
+3. **Gariskan _Steps_ yang Perlu Diikuti**
    - Tentukan urutan tindakan atau prosedur yang perlu diikuti oleh AI.
    - Contoh: "1) Kenal pasti sumber trafik utama, 2) Analisis corak perilaku pengguna, 3) Cadangkan strategi untuk meningkatkan trafik."
 
-4. **Tetapkan Expectation yang Jelas**
+4. **Tetapkan _Expectation_ yang Jelas**
    - Jelaskan hasil atau matlamat yang ingin dicapai melalui interaksi dengan AI.
    - Contoh: "Kami mahu melihat peningkatan dalam trafik laman web sebanyak 20% dalam tempoh dua bulan."
 
-### Contoh Prompt Menggunakan R-I-S-E kerangka kerja
+### Contoh Penggunaan
 
 | **No.** | **Contoh**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
@@ -61,7 +61,7 @@ R-I-S-E kerangka kerja adalah kaedah struktur yang menekankan pada penentuan per
 | 9       | Menambah baik latihan staf                    | **Role:** Sebagai seorang pengurus latihan <br> **Input:** Berikan maklumat mengenai program latihan semasa dan penilaian prestasi staf. <br> **Steps:** <br>1) Analisis keberkesanan program latihan semasa, <br>2) Kenal pasti bidang yang memerlukan penambahbaikan, <br>3) Cadangkan langkah-langkah untuk menambah baik program latihan. <br> **Expectation:** Kami mahu melihat peningkatan dalam prestasi staf sebanyak 15% dalam tempoh enam bulan. |
 | 10      | Meningkatkan keselamatan tempat kerja          | **Role:** Sebagai seorang pakar keselamatan tempat kerja <br> **Input:** Berikan data mengenai insiden keselamatan dalam tempoh enam bulan yang lalu. <br> **Steps:** <br>1) Analisis data insiden keselamatan, <br>2) Kenal pasti punca-punca utama, <br>3) Cadangkan langkah-langkah untuk meningkatkan keselamatan tempat kerja. <br> **Expectation:** Kami mahu mengurangkan insiden keselamatan sebanyak 40% dalam tempoh enam bulan. |
 
-Menggunakan R-I-S-E kerangka kerja dalam berinteraksi dengan ChatGPT membantu memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
+Menggunakan R-I-S-E kerangka kerja dalam berinteraksi dengan generatif AI membantu memastikan bahawa arahan dan konteks yang diberikan adalah jelas, spesifik, dan membantu dalam mencapai hasil yang diinginkan.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
