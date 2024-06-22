@@ -9,7 +9,7 @@
 
 Kerangka kerja RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kompleks atau terhad, seperti penulisan blog atau projek penyelidikan, menjadi komponen yang dapat dilaksanakan dengan lebih baik dan fokus. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja RISEN:
 
-## Elemen RISEN
+## Penerangan
 
 1. **_Role_ (Peranan):**
    - **Definisi:** Peranan adalah siapa yang akan melaksanakan tugas tersebut. Ini boleh merujuk kepada diri sendiri, anggota pasukan, atau alat/sistem tertentu.
