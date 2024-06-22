@@ -20,6 +20,8 @@ Kerangka kerja RTF adalah sebuah pendekatan untuk menyusun dan mengkategorikan p
 3. **_Format_ (Format):**
    - **Definisi:** Format merujuk kepada bagaimana hasil tugas tersebut harus disampaikan. Ini boleh merangkumi bentuk, gaya, atau struktur output yang diharapkan.
    - **Contoh:** Esei, slaid pembentangan, jadual, atau ringkasan.
+     
+## Contoh Penggunaan
 
 Dengan menggunakan RTF kerangka kerja, permintaan menjadi lebih jelas dan mudah difahami, memastikan komunikasi yang lebih berkesan dan pengeluaran hasil yang lebih tepat. Berikut adalah lima contoh penggunaan RTF kerangka kerja dalam berbagai situasi:
 
