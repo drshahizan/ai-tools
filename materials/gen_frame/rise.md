@@ -7,8 +7,7 @@
 
 # Kerangka kerja R-I-S-E: _Role, Input, Steps, Expectation_
 
-## Pengenalan
-Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing ChatGPT dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
+Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan peranan, menyediakan input, menggariskan langkah, dan menetapkan jangkaan untuk membimbing generatif AI dalam menghasilkan teks yang memenuhi keperluan dan objektif pengguna. Dengan menyusun prompt mengikut elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
 ## Komponen kerangka kerja R-I-S-E
 
