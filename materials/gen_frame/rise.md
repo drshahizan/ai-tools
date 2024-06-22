@@ -27,7 +27,7 @@ Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan per
    - **Penerangan**: Komponen jangkaan menjelaskan hasil, matlamat, atau objektif yang ingin dicapai oleh pengguna melalui interaksi dengan generatif AI. Ia memperjelaskan jangkaan pengguna dan membimbing AI dalam menghasilkan teks yang selaras dengan objektif tersebut.
    - **Contoh**: "Kami berharap untuk melihat peningkatan dalam kepuasan kerja sekurang-kurangnya 10% dalam tempoh tiga bulan."
 
-## Cara Menggunakan kerangka kerja R-I-S-E 
+## Cara Penggunaan
 
 1. **Mulakan dengan _Role_**
    - Tentukan peranan atau persona yang perlu diambil oleh AI dalam responsnya.
@@ -45,7 +45,7 @@ Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan per
    - Jelaskan hasil atau matlamat yang ingin dicapai melalui interaksi dengan AI.
    - Contoh: "Kami mahu melihat peningkatan dalam trafik laman web sebanyak 20% dalam tempoh dua bulan."
 
-## Contoh Penggunaan
+## Contoh 
 
 | **No.** | **Contoh**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
