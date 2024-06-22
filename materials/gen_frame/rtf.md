@@ -5,19 +5,19 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Role Task Format (RTF) framework
+# _Role Task Format_ (RTF) framework
 
 RTF framework adalah sebuah pendekatan untuk menyusun dan mengkategorikan permintaan atau arahan dengan cara yang lebih jelas dan teratur. "RTF" adalah singkatan bagi "Role", "Task", dan "Format". Berikut adalah huraian terperinci berkaitan setiap elemen dalam framework ini:
 
-1. **Role (Peranan):**
+1. **_Role_ (Peranan):**
    - **Definisi:** Peranan adalah siapa yang akan melaksanakan tugas yang diberikan. Ini boleh merujuk kepada diri sendiri, orang lain, atau bahkan alat atau sistem tertentu.
    - **Contoh:** Seorang pelajar, seorang pekerja, seorang pengurus, atau sebuah sistem AI seperti ChatGPT.
 
-2. **Task (Tugas):**
+2. **_Task_ (Tugas):**
    - **Definisi:** Tugas adalah apa yang perlu dilakukan. Ini merangkumi tindakan atau aktiviti spesifik yang diharapkan daripada individu atau sistem dalam peranan yang dinyatakan.
    - **Contoh:** Menulis laporan, menghantar e-mel, menyediakan rancangan, atau mencari maklumat.
 
-3. **Format (Format):**
+3. **_Format_ (Format):**
    - **Definisi:** Format merujuk kepada bagaimana hasil tugas tersebut harus disampaikan. Ini boleh merangkumi bentuk, gaya, atau struktur output yang diharapkan.
    - **Contoh:** Esei, slaid pembentangan, jadual, atau ringkasan.
 
