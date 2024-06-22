@@ -29,7 +29,7 @@ Tentu! Berikut adalah contoh penggunaan Chain of Thought framework yang disusun 
 
 | **Contoh**                          | **Prompt CoT**                                                                                                                        |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Masalah Matematik**            | "Bolehkah anda menyelesaikan persamaan kuadratik ini: \( x<sup>2</sup> - 5x + 6 = 0 \)? Let's think step-by-step."                              |
+| **1. Masalah Matematik**            | ```"Bolehkah anda menyelesaikan persamaan kuadratik ini: \( x<sup>2</sup> - 5x + 6 = 0 \)? Let's think step-by-step."```                              |
 | **2. Analisis Risiko**              | "Apakah risiko utama dalam pelaburan ini? Let's think step-by-step."                                                                  |
 | **3. Penyelesaian Teka-teki Logik** | "Ada tiga orang, A, B, dan C. A selalu berkata benar, B selalu berbohong, dan C berkata benar dan berbohong secara bergantian. Siapa di antara mereka yang sedang bercakap sekarang jika dia berkata 'Saya selalu berbohong'? Let's think step-by-step." |
 | **4. Pengambilan Keputusan Bisnes** | "Bagaimana saya boleh meningkatkan jualan syarikat? Let's think step-by-step."                                                        |
