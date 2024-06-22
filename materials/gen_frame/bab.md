@@ -23,7 +23,7 @@ Kerangka kerja B-A-B adalah kaedah struktur yang membantu untuk menetapkan peral
    - **Penerangan**: Komponen "_bridge_" menghubungkan keadaan sebelum dan selepas, dengan menggariskan langkah-langkah atau tindakan yang diperlukan untuk beralih dari keadaan awal ke hasil yang diinginkan. Ia memberikan panduan kepada generatif AI tentang bagaimana untuk memudahkan transformasi atau kemajuan yang dinyatakan dalam prompt.
    - **Contoh**: "Untuk mencapai hasil tersebut, langkah-langkah yang diperlukan termasuk: 1) Menyediakan latihan motivasi untuk pasukan jualan, 2) Mengembangkan strategi pemasaran baru yang disesuaikan dengan pasaran semasa, 3) Mengadakan sesi bimbingan berkala untuk menilai kemajuan dan menyesuaikan strategi."
 
-## Cara Menggunakan kerangka kerja B-A-B
+## Cara Penggunaan
 
 1. **Mulakan dengan _Before_**
    - Berikan gambaran yang jelas tentang keadaan semasa atau cabaran yang dihadapi. 
