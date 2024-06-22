@@ -28,7 +28,7 @@ Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks
    - **Penerangan**: Komponen contoh menyediakan ilustrasi atau insiden konkrit untuk menjelaskan prompt dan membimbing pemahaman generatif AI. Ia menawarkan senario, kes, atau sampel khusus yang menunjukkan hasil yang diinginkan atau menjelaskan tindakan yang dimaksudkan.
    - **Contoh**: "Sebagai contoh, strategi pertama boleh melibatkan penggunaan konten interaktif seperti kuiz atau soal jawab yang menarik minat pelanggan."
 
-## Cara Menggunakan C-A-R-E kerangka kerja
+## Cara Menggunakan kerangka kerja C-A-R-E
 
 1. **Mulakan dengan _Context_**
    - Berikan gambaran yang jelas tentang situasi atau latar belakang yang relevan dengan permintaan.
