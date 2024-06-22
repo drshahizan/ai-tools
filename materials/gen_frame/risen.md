@@ -5,29 +5,29 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# kerangka kerja RISEN
+# Kerangka kerja RISEN
 
 kerangka kerja RISEN adalah pendekatan terstruktur untuk mengurai tugas yang kompleks atau terhad, seperti penulisan blog atau projek penyelidikan, menjadi komponen yang dapat dilaksanakan dengan lebih baik dan fokus. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja RISEN:
 
 ## Elemen RISEN
 
-1. **Role (Peranan):**
+1. **_Role_ (Peranan):**
    - **Definisi:** Peranan adalah siapa yang akan melaksanakan tugas tersebut. Ini boleh merujuk kepada diri sendiri, anggota pasukan, atau alat/sistem tertentu.
    - **Contoh:** Penulis, penyelidik, pemasar, atau AI seperti ChatGPT.
 
-2. **Instructions (Arahan):**
+2. **_Instructions_ (Arahan):**
    - **Definisi:** Arahan adalah panduan spesifik tentang apa yang perlu dilakukan dalam tugas tersebut. Arahan ini bertujuan untuk memberikan kejelasan tentang langkah-langkah atau tindakan yang perlu diambil.
    - **Contoh:** "Kumpulkan data dari sumber yang boleh dipercayai," atau "Tulis pendahuluan yang menarik perhatian pembaca."
 
-3. **Steps (Langkah-langkah):**
+3. **_Steps_ (Langkah-langkah):**
    - **Definisi:** Langkah-langkah adalah urutan tindakan yang diperlukan untuk menyelesaikan tugas. Ini memastikan bahawa tugas dilakukan dengan sistematik dan tidak ada langkah penting yang terlepas.
    - **Contoh:** 1) Penyelidikan topik, 2) Menyusun draf, 3) Mengedit dan menyemak semula, 4) Menerbitkan.
 
-4. **End Goal (Matlamat Akhir):**
+4. **_End Goal_ (Matlamat Akhir):**
    - **Definisi:** Matlamat akhir adalah hasil akhir yang diharapkan dari tugas tersebut. Ini memberikan arah yang jelas dan membantu menjaga fokus pada tujuan utama.
    - **Contoh:** "Menulis artikel blog yang informatif dan menarik," atau "Menyediakan laporan penyelidikan yang komprehensif."
 
-5. **Narrowing (Pengecilan Skop):**
+5. **_Narrowing_ (Pengecilan Skop):**
    - **Definisi:** Pengecilan skop adalah proses untuk memfokuskan tugas dengan lebih spesifik dan terperinci. Ini membantu mengurangkan kekaburan dan memastikan usaha tertumpu pada aspek-aspek yang paling penting.
    - **Contoh:** "Fokus pada dampak ekonomi perubahan iklim di negara-negara membangun," atau "Tulis tentang strategi pemasaran media sosial untuk perniagaan kecil."
 
