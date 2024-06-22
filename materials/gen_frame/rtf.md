@@ -7,7 +7,10 @@
 
 # Kerangka kerja RTF
 
-Kerangka kerja RTF adalah sebuah pendekatan untuk menyusun dan mengkategorikan permintaan atau arahan dengan cara yang lebih jelas dan teratur. "RTF" adalah singkatan bagi _Role_, _Task_, dan _Format_. Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja ini:
+Kerangka kerja RTF adalah sebuah pendekatan untuk menyusun dan mengkategorikan permintaan atau arahan dengan cara yang lebih jelas dan teratur. "RTF" adalah singkatan bagi _Role_, _Task_, dan _Format_. 
+
+## Penerangan
+Berikut adalah huraian terperinci berkaitan setiap elemen dalam kerangka kerja ini:
 
 1. **_Role_ (Peranan):**
    - **Definisi:** Peranan adalah siapa yang akan melaksanakan tugas yang diberikan. Ini boleh merujuk kepada diri sendiri, orang lain, atau bahkan alat atau sistem tertentu.
