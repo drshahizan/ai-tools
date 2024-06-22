@@ -9,7 +9,7 @@
 
 Rantaian pemikiran atau _Chain of Thought_ (CoT) adalah sebuah kerangka kerja untuk membuat prompt yang meningkatkan kemampuan model bahasa besar (LLM) dalam penaakulan dengan memberitahu AI untuk menyelesaikan masalah secara langkah demi langkah. Pendekatan ini sangat berguna untuk penyelesaian masalah atau tugas analitik yang kompleks.
 
-## Huraian CoT
+## Penerangan
 
 **1. Konsep Asas:**
    - **Definisi:** Rantaian pemikiran adalah pendekatan yang membantu model AI untuk memecahkan masalah dengan melalui setiap langkah secara sistematik.
