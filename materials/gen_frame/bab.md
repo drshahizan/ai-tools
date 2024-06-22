@@ -39,7 +39,7 @@ B-A-B framework adalah kaedah struktur yang membantu untuk menetapkan peralihan 
 
 ## Contoh penggunaan
 
-| **No.** | **Kajian kes**                                    | * Prompt** |
+| **No.** | **Kajian kes**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | 1       | Motivasi pekerja rendah                       | Before: Pasukan jualan kami menghadapi masalah motivasi yang rendah dan sukar mencapai kuota bulanan. <br> After: Selepas melaksanakan strategi baru, pasukan jualan bukan sahaja mencapai kuota bulanan tetapi juga melebihi sasaran dengan motivasi yang tinggi. <br> Bridge: Langkah-langkah yang diperlukan termasuk: 1) Menyediakan latihan motivasi, 2) Mengadakan sesi bimbingan berkala, 3) Menyusun semula struktur insentif. |
 | 2       | Jualan produk menurun                         | Before: Jualan produk kami telah menurun selama tiga bulan berturut-turut. <br> After: Kami ingin melihat peningkatan jualan sebanyak 15% dalam tempoh tiga bulan akan datang. <br> Bridge: Langkah-langkah yang perlu diambil termasuk: 1) Menganalisis tren pasaran, 2) Melancarkan kempen pemasaran baru, 3) Memberi diskaun atau promosi kepada pelanggan setia. |
