@@ -45,7 +45,7 @@ Kerangka kerja R-I-S-E adalah kaedah struktur yang menekankan pada penentuan per
    - Jelaskan hasil atau matlamat yang ingin dicapai melalui interaksi dengan AI.
    - Contoh: "Kami mahu melihat peningkatan dalam trafik laman web sebanyak 20% dalam tempoh dua bulan."
 
-### Contoh Penggunaan
+## Contoh Penggunaan
 
 | **No.** | **Contoh**                                    | **Prompt** |
 |---------:|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
