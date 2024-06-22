@@ -5,12 +5,12 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Kerangka kerja C-A-R-E: Context, Action, Result, Example
+# Kerangka kerja C-A-R-E: _Context, Action, Result, Example_
 
 ## Pengenalan
 Kerangka kerja C-A-R-E adalah kaedah struktur yang menekankan penyediaan konteks, menentukan tindakan, mengantisipasi hasil, dan menawarkan contoh untuk membimbing generatif AI dalam menghasilkan respons yang relevan dan bermakna. Dengan menyusun prompt mengikut elemen-elemen ini, pengguna boleh memastikan kejelasan dan keberkesanan dalam komunikasi.
 
-## Komponen C-A-R-E kerangka kerja
+## Komponen kerangka kerja C-A-R-E
 
 1. **_Context_ (Konteks)**
    - **Penerangan**: Komponen konteks menetapkan pentas dengan menyediakan maklumat latar belakang, setting, atau keadaan yang relevan dengan prompt. Ia membantu generatif AI memahami konteks di mana interaksi berlaku dan menyesuaikan responsnya dengan sewajarnya.
