@@ -5,25 +5,25 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Installation & Login
+# Pemasangan & Log Masuk
 
 ## 1. ChatGPT
-- Visit the [ChatGPT login page](https://chat.openai.com/auth/login).
-- If you already have an account, log in using your credentials.
-- If you don't have an account, click on "Create one" to set up a free ChatGPT account.
-- Once logged in, you can engage in conversations, automate tasks, and explore AI-powered text generation.
+- Layari [halaman log masuk ChatGPT](https://chat.openai.com/auth/login).
+- Jika anda sudah mempunyai akaun, log masuk menggunakan maklumat akaun anda.
+- Jika anda belum mempunyai akaun, klik "Create one" untuk membuat akaun ChatGPT secara percuma.
+- Setelah log masuk, anda boleh memulakan perbualan, mengautomasikan tugas, dan meneroka penjanaan teks berkuasa AI.
 
 ## 2. Copilot
-- To use Copilot in **Microsoft Edge**, sign in to your Microsoft account.
-- Click the **Copilot icon** in the browser toolbar to access Copilot in the sidebar.
-- You can ask questions, perform searches, and even compare products using Copilot.
-- For Copilot, visit the [official site](https://www.bing.com) and log in with your Microsoft account credentials.
+- Untuk menggunakan Copilot dalam **Microsoft Edge**, log masuk ke akaun Microsoft anda.
+- Klik ikon **Copilot** di toolbar pelayar untuk mengakses Copilot di bar sisi.
+- Anda boleh bertanya soalan, melakukan carian, dan membandingkan produk menggunakan Copilot.
+- Untuk Copilot, layari [laman rasmi](https://www.bing.com) dan log masuk dengan maklumat akaun Microsoft anda.
 
 ## 3. Gemini
-- Access the [Gemini web app](https://gemini.google.com/app).
-- Sign in using your **Google Account**.
-- Gemini provides assistance with writing, planning, learning, and more, powered by Google AI.
-
+- Akses [aplikasi web Gemini](https://gemini.google.com/app).
+- Log masuk menggunakan **Akaun Google** anda.
+- Gemini menyediakan bantuan dalam menulis, merancang, belajar, dan banyak lagi, dikuasakan oleh Google AI.
+- 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
