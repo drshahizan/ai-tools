@@ -1,9 +1,3 @@
-[1]: https://rice-diseases.irri.org/ ""
-[2]: https://www.sciencegate.app/document/10.9734/arrb/2020/v35i130180 ""
-[3]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4713419 ""
-[4]: https://link.springer.com/article/10.1007/s42994-023-00126-4 ""
-
-Certainly! Let's delve into a synthesized literature review on rice diseases, drawing insights from various sources. Here are the key findings, methodologies, and gaps identified:
 
 ## **Rice Diseases: A Comprehensive Overview**
 
