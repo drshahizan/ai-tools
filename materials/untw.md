@@ -11,7 +11,7 @@
 </p>
 
 # Seminar 3: Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini
-
+Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengubah dan memperbaiki cara kita menjalani kehidupan seharian. Seminar turut akan menyoroti pelbagai aplikasi AI generatif, seperti pembantu maya, penghasilan kandungan automatik, dan peribadi pintar, yang bukan sahaja menjimatkan masa tetapi juga meningkatkan produktiviti dan kreativiti. Dengan memahami potensi dan implikasi teknologi ini, peserta seminar akan dapat melihat bagaimana AI generatif dapat disepadukan dalam rutin harian mereka, mempercepatkan tugas-tugas yang berulang, serta menawarkan penyelesaian inovatif bagi cabaran harian, seterusnya mendorong transformasi gaya hidup ke arah yang lebih efisien dan dinamik.
 
 ## Generative AI
 
