@@ -17,7 +17,7 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 
 | No | Pelajaran | Topik |
 |--------|---------|---------|
-| 1.| Slaid |[Generatif AI Memudahkan Aktiviti Harian](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/EaNUOHIq5bZOqvmg21dRsPYBjccq5qiHdUZxOHc70IXUxg?e=y6mqJO)
+| 1.| Slaid |[Generatif AI Memudahkan Aktiviti Harian](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/EbC_a9P5QyBLqNvrcJqCUjUBfUT928DhVRazvcp1ELkeiQ?e=X1m7b2)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../materials/pimpin/signin.md)|
 | |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
