@@ -20,9 +20,9 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 | 1.| Slaid |[Generatif AI Memudahkan Aktiviti Harian](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/EaNUOHIq5bZOqvmg21dRsPYBjccq5qiHdUZxOHc70IXUxg?e=y6mqJO)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../materials/pimpin/signin.md)|
-| 4. | Arahan | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+| |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|  |  | [Latihan: Penggunaan arahan Generatif AI](../materials/pimpin/fungsi.md)|
+|4.  | Arahan | [Latihan: Penggunaan arahan Generatif AI](../materials/pimpin/fungsi.md)|
 |  |  | [Latihan: Analisa dokumen menggunakan Copilot](../materials/untw/dokumen_copilot.md)|
 |  |  | [Latihan: MarkMap](../materials/pimpin/markmap.md)|
 |  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](../materials/untw/dokumen_chatgpt.md)|
@@ -30,6 +30,8 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 |  |  | [Latihan: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
+| |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
+|  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
 
