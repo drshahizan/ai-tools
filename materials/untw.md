@@ -22,7 +22,7 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../materials/pimpin/signin.md)|
 | |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|4.  | Arahan | [Latihan: Penggunaan arahan Generatif AI](../materials/pimpin/fungsi.md)|
+|4.  | Arahan | [Latihan: Penggunaan arahan Generatif AI](../materials/untw/fungsi.md)|
 |  |  | [Latihan: Analisa dokumen menggunakan Copilot](../materials/untw/dokumen_copilot.md)|
 |  |  | [Latihan: MarkMap](../materials/pimpin/markmap.md)|
 |  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](../materials/untw/dokumen_chatgpt.md)|
