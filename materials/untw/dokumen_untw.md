@@ -1,4 +1,4 @@
-<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
+c<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://img.shields.io/github/stars/drshahizan/ai-tools" alt="Stars Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools/network/members"><img src="https://img.shields.io/github/forks/drshahizan/ai-tools" alt="Forks Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools"><img src="https://img.shields.io/github/issues-pr/drshahizan/ai-tools" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/drshahizan/ai-tools/issues"><img src="https://img.shields.io/github/issues/drshahizan/ai-tools" alt="Issues Badge"/></a>
@@ -7,13 +7,12 @@
 
 # Analisis Dokumen: ChatGPT
 
-## 1. Muat turun dokumen
-Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
+## 1. Muat turun jadual UNTW
+Anda perlu memuat turun imej untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
 
-| No  | Nama dokumen |
-|--------:|---------|
-| 1. | [Population Table: Malaysia](https://data.gov.my/data-catalogue/population_malaysia)
-
+<p align="center">
+  <img src="../images/jadualNTW.jpeg"  height="400" />
+</p>
 
 ## 2. Muat naik fail
 
