@@ -69,10 +69,10 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](materials/pimpin/signin.md)|
 | 4. | Arahan | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|  |  | [Latihan: Penggunaan arahan Generatif AI](materials/pimpin/fungsi.md)|
-|  |  | [Latihan: Analisa dokumen menggunakan Copilot](materials/pimpin/dokumen_copilot.md)|
+|  |  | [Latihan: Penggunaan arahan Generatif AI](/pimpin/fungsi.md)|
+|  |  | [Latihan: Analisa dokumen menggunakan Copilot](/pimpin/dokumen_copilot.md)|
 |  |  | [Latihan: MarkMap](materials/pimpin/markmap.md)|
-|  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](materials/pimpin/dokumen_chatgpt.md)|
+|  |  | [Latihan: Analisa dokumen menggunakan ChatGPT](/pimpin/dokumen_chatgpt.md)|
 |  |  | [Latihan: Julius.ai](https://julius.ai/)|
 |  |  | [Latihan: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
