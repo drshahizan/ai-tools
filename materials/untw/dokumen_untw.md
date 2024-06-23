@@ -11,7 +11,7 @@ c<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://i
 Anda perlu memuat turun imej untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
 
 <p align="center">
-  <img src="../images/jadualNTW.jpeg"  height="400" />
+  <img src="../../images/jadualNTW.jpeg"  height="400" />
 </p>
 
 ## 2. Muat naik fail
