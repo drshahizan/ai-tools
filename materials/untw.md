@@ -31,12 +31,7 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
-|  |  | [AIPRM Prompt Templates](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/aiprm-prompt-templates)|
 |  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
-| 5. | Copywriting| [Role of Copywriting](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/role) |
-|  | | [Case study: ⚽ My Bola](https://drshahizan.gitbook.io/copywriting-chatgpt/introduction-copywriting/case-study/copywriting) |
-| 6. | Penjanaan imej | [Bing's Image Creator](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/bing_image.md) |
-|  |  | [Image Prompt Generator](https://aivyx.com/bing-create-prompt-generator/) |
 
 ## Maklumat Tambahan
 
