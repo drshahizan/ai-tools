@@ -150,7 +150,7 @@ Berikut adalah 15 cadangan prompt yang sesuai untuk meneroka data populasi Malay
 15. **Analisis Perbandingan Tahun Tertentu**:
     - "Bandingkan populasi Malaysia pada tahun 1980 dengan tahun 2020."
 
-Promp-promp ini akan membantu dalam memahami lebih lanjut mengenai struktur dan perubahan populasi di Malaysia berdasarkan data yang diberikan.
+Prompt-prompt ini akan membantu dalam memahami lebih lanjut mengenai struktur dan perubahan populasi di Malaysia berdasarkan data yang diberikan.
   ```
 
 ## Contribution 🛠️
