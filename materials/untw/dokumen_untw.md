@@ -5,7 +5,7 @@ c<a href="https://github.com/drshahizan/ai-tools/stargazers"><img src="https://i
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Analisis Dokumen: ChatGPT
+# Analisis Imej: ChatGPT
 
 ## 1. Muat turun jadual UNTW
 Anda perlu memuat turun imej untuk membolehkan proses anlisis dokumen dilaksanakan. Dokumen tersebut ialah
@@ -16,141 +16,69 @@ Anda perlu memuat turun imej untuk membolehkan proses anlisis dokumen dilaksanak
 
 ## 2. Muat naik fail
 
-1. Sila muat naik fail population_malaysia.csv di kotak input chatgpt dan masukkan arahan 'huraikan berkaitan data ini' (sila rujuk Rajah berikut). 
-
-<p align="center">
-<img src="../../images/chatgpt1.png"  height="150" />
-</p>
+1. Sila muat naik fail jadualNTW.jpeg di kotak input chatgpt dan masukkan arahan 'huraikan'. 
 
 2. Hasil perlaksanaan adalah:
 
 ```
-Dataset ini memaparkan maklumat mengenai populasi di Malaysia. Berikut adalah perincian data yang disertakan:
+Tentatif program untuk UTM National Training Week yang akan diadakan pada 24 hingga 25 Jun 2024 mengandungi pelbagai seminar menarik yang disasarkan untuk peserta terbuka. Program dimulakan pada 24 Jun 2024 dengan ucapan aluan oleh Ketua Bahagian CTLD, Y. Brs. En. Khairull Azmi Ishak, dan ucapan perasmian oleh Y. Brs. Puan Nor Azizah Ismail. Seterusnya, terdapat tiga seminar pada hari tersebut: 
 
-1. **date**: Tarikh data diambil, dalam format YYYY-MM-DD.
-2. **sex**: Jantina populasi yang dikategorikan sebagai 'both' (kedua-dua jantina), 'male' (lelaki), dan 'female' (perempuan).
-3. **age**: Kumpulan umur populasi, termasuk kategori 'overall' (keseluruhan) dan kumpulan umur yang lebih spesifik seperti '0-4', '5-9', dan seterusnya.
-4. **ethnicity**: Etnik populasi, yang dalam contoh ini adalah 'overall' (keseluruhan), mungkin terdapat etnik lain dalam baris yang seterusnya.
-5. **population**: Jumlah populasi yang diukur, dalam ribuan (misalnya, 10881.8 bermaksud 10,881,800).
+1. Seminar 1: "Kerja Sebagai Ibadah" oleh Prof. Dr. Ajmain@Jimain Bin Safar, dari pukul 9.00 pagi hingga 11.00 pagi.
+2. Seminar 2: "Work Life Balance" oleh Dr. Zulfikar Bin Ahmad, dari pukul 11.00 pagi hingga 1.00 petang.
+3. Seminar 3: "Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini" oleh PM Dr. Mohd Shahizan Othman, dari pukul 2.30 petang hingga 4.30 petang.
 
-Contoh data:
+Pada 25 Jun 2024, program diteruskan dengan:
 
-- Pada 1 Januari 1970, populasi keseluruhan Malaysia adalah 10,881,800.
-- Populasi bagi kumpulan umur 0-4 tahun pada tarikh yang sama adalah 1,702,400.
-- Populasi bagi kumpulan umur 5-9 tahun adalah 1,690,300.
+1. Seminar 4: "Pengenalan Kepada Dron" oleh Ts. Dr. Jaysuman Pusppanathan yang akan berlangsung secara fizikal di SMK Bandar Putra, Kulai, dari pukul 8.30 pagi hingga 10.30 pagi, khusus untuk pelajar SMK Bandar Putra, Kulai.
+2. Seminar 5: "Program Pemindahan Ilmu (Knowledge Transfer Program): Dari Universiti Untuk Komuniti" oleh PM Dr. Johari Surif, dari pukul 9.00 pagi hingga 11.00 pagi.
+3. Seminar 6: "Introduction to AI and Its Applications" oleh Prof. Ir. Dr. Hazlina Selamat, dari pukul 11.00 pagi hingga 12.30 tengah hari.
+4. Seminar 7: "Innovative Community Solution" oleh PM Ir. Ts. Dr. Nor Hasrul Akhmal Bin Ngadiman FKM, dari pukul 2.30 petang hingga 4.30 petang.
 
-Data ini boleh digunakan untuk analisis trend populasi mengikut tahun, jantina, kumpulan umur, dan etnik.
+Seminar-seminar ini akan diadakan di platform online (FB CTLD Official) kecuali Seminar 4 yang akan diadakan secara fizikal. Program ini bertujuan untuk meningkatkan pengetahuan dan kemahiran peserta dalam pelbagai bidang, sejajar dengan tema inovasi dan penyelesaian komuniti.
 ```
 
 ## Arahan
-1. hasilkan statistik yang sesuai
+1. Buat semula di dalam bentuk jadual.
+
+
 ```
-Berikut adalah beberapa statistik penting yang dihasilkan daripada dataset populasi Malaysia:
+Berikut adalah tentatif program UTM National Training Week pada 24 hingga 25 Jun 2024 dalam bentuk jadual:
 
-### Populasi Mengikut Tahun
-Jumlah populasi keseluruhan bagi setiap tahun:
-- Populasi meningkat secara konsisten dari tahun 1970 (43,527.1 ribu) hingga 2023 (267,035.0 ribu).
+| Tarikh       | Masa                 | Tajuk                                                                 | Penceramah                                 | Platform                    |
+|--------------|----------------------|----------------------------------------------------------------------|--------------------------------------------|-----------------------------|
+| 24 Jun 2024  | 8.30 pagi – 9.00 pagi| Ucapan Aluan Ketua Bahagian CTLD : Y. Brs. En. Khairull Azmi Ishak<br>Ucapan Perasmian UTM National Training Week : Y. Brs. Puan Nor Azizah Ismail | -                                          | -                           |
+| 24 Jun 2024  | 9.00 pagi – 11.00 pagi| Seminar 1 : Kerja Sebagai Ibadah                                     | Prof. Dr. Ajmain@Jimain Bin Safar          | Online (FB CTLD Official)   |
+| 24 Jun 2024  | 11.00 pagi – 1.00 petang| Seminar 2 : Work Life Balance                                      | Dr. Zulfikar Bin Ahmad                     | Online (FB CTLD Official)   |
+| 24 Jun 2024  | 2.30 petang – 4.30 petang| Seminar 3 : Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini | PM Dr. Mohd Shahizan Othman  | Online (FB CTLD Official)   |
+| 25 Jun 2024  | 8.30 pagi – 10.30 pagi| Seminar 4 : Pengenalan Kepada Dron<br>Peserta: Pelajar SMK Bandar Putra, Kulai | Ts. Dr. Jaysuman Pusppanathan            | Fizikal di SMK Bandar Putra, Kulai |
+| 25 Jun 2024  | 9.00 pagi – 11.00 pagi| Seminar 5 : Program Pemindahan Ilmu (Knowledge Transfer Program) : Dari Universiti Untuk Komuniti | PM Dr Johari Surif                          | Online (FB CTLD Official)   |
+| 25 Jun 2024  | 11.00 pagi – 12.30 tengah hari| Seminar 6 : Introduction to AI and Its Applications              | Prof. Ir. Dr. Hazlina Selamat              | Online (FB CTLD Official)   |
+| 25 Jun 2024  | 2.30 petang – 4.30 petang| Seminar 7 : Innovative Community Solution                         | PM Ir. Ts. Dr. Nor Hasrul Akhmal Bin Ngadiman FKM | Online (FB CTLD Official)   |
 
-### Populasi Mengikut Jantina
-Jumlah populasi keseluruhan mengikut jantina:
-- Jantina kedua-dua: 4,477,069.2 ribu
-- Lelaki: 2,294,666.5 ribu
-- Perempuan: 2,182,404.6 ribu
-
-### Populasi Mengikut Kumpulan Umur
-Jumlah populasi keseluruhan mengikut kumpulan umur:
-- 0-4 tahun: 477,518.3 ribu
-- 5-9 tahun: 465,671.9 ribu
-- 10-14 tahun: 448,802.5 ribu
-- 15-19 tahun: 440,856.6 ribu
-- 20-24 tahun: 429,607.6 ribu
-- Kumpulan umur lebih tua seperti 70+ tahun: 4,927.5 ribu
-
-### Populasi Mengikut Etnik
-Jumlah populasi keseluruhan mengikut etnik:
-- Bumiputera: 417,232.0 ribu
-- Bumiputera Melayu: 1,782,226.6 ribu
-- Bumiputera Lain: 397,355.6 ribu
-- Cina: 1,017,826.2 ribu
-- India: 295,687.2 ribu
-- Lain-lain: 18,069.5 ribu
-- Warganegara Lain: 33,803.4 ribu
-- Bukan Warganegara: 271,443.5 ribu
-
-Statistik ini memberikan gambaran yang komprehensif mengenai perubahan populasi di Malaysia mengikut tahun, jantina, kumpulan umur, dan etnik. Data ini penting untuk analisis demografi dan perancangan polisi kerajaan.
+Program ini menyediakan pelbagai topik menarik yang bertujuan untuk memperkaya pengetahuan dan kemahiran peserta dalam pelbagai bidang, dengan tumpuan khusus pada inovasi dan penyelesaian komuniti.
 ```
 
-2. Hasilkan carta yang sesuai
+2. Sila hasilkan berita berkaitan program tersebut.
 
-Berikut adalah carta-carta yang menunjukkan statistik populasi di Malaysia berdasarkan dataset yang diberikan:
 ```
-### 1. Populasi Mengikut Tahun
-Carta ini menunjukkan peningkatan populasi dari tahun 1970 hingga 2023, dengan peningkatan yang konsisten setiap tahun.
+**UTM Anjur Program Latihan Nasional: Menyelami Teknologi dan Inovasi Komuniti**
 
-### 2. Populasi Mengikut Jantina
-Carta ini membandingkan jumlah populasi mengikut jantina. Jantina lelaki dan perempuan mempunyai jumlah populasi yang hampir seimbang, dengan sedikit kelebihan bagi lelaki.
+*Skudai, 24 Jun 2024* - Universiti Teknologi Malaysia (UTM) sekali lagi membuktikan komitmennya dalam memajukan pendidikan dan komuniti melalui penganjuran UTM National Training Week yang berlangsung dari 24 hingga 25 Jun 2024. Program ini, yang dianjurkan oleh Pusat Latihan dan Pembangunan Tenaga Manusia (CTLD) UTM, menampilkan pelbagai seminar yang memfokuskan kepada inovasi teknologi dan penyelesaian komuniti.
 
-### 3. Populasi Mengikut Kumpulan Umur
-Carta ini memperlihatkan pengagihan populasi mengikut kumpulan umur. Kumpulan umur kanak-kanak (0-4, 5-9) mempunyai populasi yang lebih tinggi berbanding kumpulan umur yang lebih tua.
+Majlis perasmian dimulakan dengan ucapan aluan oleh Ketua Bahagian CTLD, Y. Brs. En. Khairull Azmi Ishak, diikuti oleh ucapan perasmian oleh Y. Brs. Puan Nor Azizah Ismail. Program ini terbuka kepada umum dan menawarkan pelbagai sesi pembelajaran yang dijalankan secara dalam talian dan fizikal.
 
-### 4. Populasi Mengikut Etnik
-Carta ini menunjukkan jumlah populasi berdasarkan etnik. Bumiputera Melayu mempunyai populasi terbesar, diikuti oleh etnik Cina dan Bumiputera lain.
+Hari pertama menyaksikan tiga seminar utama. Seminar pertama bertajuk "Kerja Sebagai Ibadah" oleh Prof. Dr. Ajmain@Jimain Bin Safar, yang mengupas konsep kerja dalam perspektif agama dan bagaimana ia boleh meningkatkan etika kerja. Seterusnya, Dr. Zulfikar Bin Ahmad mengendalikan seminar kedua bertajuk "Work Life Balance" yang menekankan kepentingan keseimbangan antara kerja dan kehidupan peribadi.
 
-Carta-carta ini memberikan pandangan visual yang jelas mengenai bagaimana populasi di Malaysia dipecahkan mengikut tahun, jantina, kumpulan umur, dan etnik.
+Seminar yang paling dinanti-nantikan pada hari pertama adalah "Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini" oleh PM Dr. Mohd Shahizan Othman. Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mampu mengubah dan memudahkan aktiviti harian, sekaligus meningkatkan produktiviti dan kualiti hidup.
+
+Hari kedua diteruskan dengan seminar yang lebih menjurus kepada aplikasi teknologi dalam kehidupan seharian. Seminar "Pengenalan Kepada Dron" oleh Ts. Dr. Jaysuman Pusppanathan diadakan secara fizikal di SMK Bandar Putra, Kulai, khusus untuk pelajar sekolah tersebut. Program ini bertujuan untuk memperkenalkan teknologi dron kepada generasi muda.
+
+Selain itu, PM Dr Johari Surif membentangkan seminar "Program Pemindahan Ilmu (Knowledge Transfer Program): Dari Universiti Untuk Komuniti" yang menekankan kepentingan pemindahan ilmu dari universiti kepada masyarakat. Prof. Ir. Dr. Hazlina Selamat pula mengendalikan seminar "Introduction to AI and Its Applications" yang memberi pendedahan tentang asas dan aplikasi kecerdasan buatan.
+
+Program diakhiri dengan seminar "Innovative Community Solution" oleh PM Ir. Ts. Dr. Nor Hasrul Akhmal Bin Ngadiman FKM, yang membincangkan pelbagai penyelesaian inovatif untuk cabaran komuniti.
+
+Dengan program yang menyeluruh dan relevan ini, UTM terus mengukuhkan peranannya sebagai peneraju dalam pendidikan dan penyelidikan, serta memupuk semangat inovasi dalam kalangan masyarakat.
 ```
-
-3. Cadangkan 15 prompt yang sesuai dengan data tersebut
-
-  ```
-Berikut adalah 15 cadangan prompt yang sesuai untuk meneroka data populasi Malaysia:
-
-1. **Analisis Tren Populasi**:
-   - "Bagaimana trend populasi Malaysia berubah dari tahun 1970 hingga 2023?"
-
-2. **Populasi Mengikut Jantina**:
-   - "Berapa jumlah populasi lelaki dan perempuan di Malaysia sepanjang tempoh data?"
-
-3. **Kumpulan Umur Tertinggi**:
-   - "Kumpulan umur manakah yang mempunyai populasi tertinggi di Malaysia?"
-
-4. **Populasi Mengikut Etnik**:
-   - "Bagaimanakah pengagihan populasi mengikut etnik di Malaysia?"
-
-5. **Populasi Kanak-Kanak**:
-   - "Berapa jumlah populasi kanak-kanak berumur 0-4 tahun di Malaysia dari tahun ke tahun?"
-
-6. **Populasi Warga Tua**:
-   - "Bagaimana populasi warga tua (70+ tahun) berubah dari tahun 1970 hingga 2023?"
-
-7. **Perbandingan Jantina dalam Kumpulan Umur**:
-   - "Bagaimana populasi lelaki dan perempuan berbeza dalam setiap kumpulan umur?"
-
-8. **Populasi Mengikut Tahun**:
-   - "Apakah tahun dengan populasi tertinggi dan terendah di Malaysia?"
-
-9. **Populasi Bumiputera**:
-   - "Apakah trend populasi Bumiputera di Malaysia sepanjang tempoh data?"
-
-10. **Populasi Cina dan India**:
-    - "Bagaimana populasi etnik Cina dan India berubah dari tahun ke tahun?"
-
-11. **Populasi Keseluruhan**:
-    - "Apakah jumlah populasi keseluruhan Malaysia pada tahun 2023?"
-
-12. **Populasi Mengikut Etnik untuk Tahun Tertentu**:
-    - "Bagaimanakah pengagihan populasi mengikut etnik pada tahun 2000?"
-
-13. **Kumpulan Umur Paling Sedikit**:
-    - "Kumpulan umur manakah yang mempunyai populasi paling sedikit di Malaysia?"
-
-14. **Populasi dalam Jutaan**:
-    - "Pada tahun berapakah populasi Malaysia melebihi 200 juta?"
-
-15. **Analisis Perbandingan Tahun Tertentu**:
-    - "Bandingkan populasi Malaysia pada tahun 1980 dengan tahun 2020."
-
-Prompt-prompt ini akan membantu dalam memahami lebih lanjut mengenai struktur dan perubahan populasi di Malaysia berdasarkan data yang diberikan.
-  ```
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
