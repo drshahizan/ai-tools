@@ -13,7 +13,7 @@ Anda perlu memuat turun dokumen untuk membolehkan proses anlisis dokumen dilaksa
 [Li, J., **Othman, M. S.**, Chen, H., & Yusuf, L. M. (2024). Optimizing IoT intrusion detection system: feature selection versus feature extraction in machine learning. *Journal of Big Data, 11*, Article 36. https://doi.org/10.1186/s40537-024-00892-y](../../images/paper1.pdf)
    
 ## 2. Cara untuk membuka fail di Microsoft Edge
-Untuk membuka dokumen PDF yang bernama "final-amanat-naib-canselor-umum-9-feb-2024.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
+Untuk membuka dokumen PDF yang bernama "paper1.pdf" di Microsoft Edge, sila ikuti langkah-langkah ini:
 1. Sila muat turun dokumen tersebut. Setelah itu **Cari dokumen PDF** yang ingin anda buka di komputer anda.
 2. **Klik kanan** pada dokumen tersebut dan pilih **'Open With'**, kemudian pilih **Microsoft Edge** dari senarai aplikasi.
 3. Jika dokumen tersebut sudah terbuka di pelayar web lain, Anda boleh **menyeret dan menjatuhkan** fail PDF tersebut ke dalam tetingkap Microsoft Edge untuk membukanya. Rajah di bawah menunjukkan fail PDF yang berjaya di buka di Microsoft Edge.
