@@ -10,7 +10,7 @@
   <img src="../images/jadualNTW.jpeg"  height="400" />
 </p>
 
-# Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini
+# Seminar 3: Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini
 
 
 ## Generative AI
