@@ -66,7 +66,7 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 |--------|---------|---------|
 | 1.| Slaid |[Kecerdasan Buatan dan Kepimpinan Strategik](https://liveutm-my.sharepoint.com/:p:/g/personal/shahizan_live_utm_my/EaNUOHIq5bZOqvmg21dRsPYBjccq5qiHdUZxOHc70IXUxg?e=y6mqJO)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](materials/pimpin/signin.md)|
+| 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../pimpin/signin.md)|
 | 4. | Arahan | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [Latihan: Penggunaan arahan Generatif AI](/pimpin/fungsi.md)|
