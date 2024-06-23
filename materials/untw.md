@@ -7,6 +7,11 @@
 
 # Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini
 
+
+<p align="center">
+<img src="../images/posterNTW.jpeg"  height="400" />
+</p>
+
 ## Generative AI
 
 | No | Lesson | Topic |
