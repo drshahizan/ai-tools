@@ -23,7 +23,7 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 |  |  | [Latihan 2: Analisa dokumen menggunakan Copilot](../materials/untw/dokumen_copilot.md)|
 |  |  | [Latihan 3: MarkMap](../materials/pimpin/markmap.md)|
 |  |  | [Latihan 4: Analisa imej menggunakan ChatGPT](../materials/untw/dokumen_untw.md)|
-|  |  | [Latihan 5: Analisa dokumen menggunakan ChatGPT](../materials/untw/dokumen_chatgpt.md)|
+|  |  | [Latihan 5: Analisa fail csv menggunakan ChatGPT](../materials/untw/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
