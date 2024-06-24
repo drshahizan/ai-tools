@@ -27,7 +27,11 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 |  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
 |4.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
-
+|  |  | [Kerangka kerja RTF](../materials/gen_frame/2rtf.md)|
+|  |  | [Kerangka kerja BAB](../materials/gen_frame/3bab.md)|
+|  |  | [Kerangka kerja TAG](../materials/gen_frame/4tag.md)|
+|  |  | [Kerangka kerja CARE](../materials/gen_frame/5care.md)|
+|  |  | [Kerangka kerja RISE](../materials/gen_frame/6rise.md)|
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
 | |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
