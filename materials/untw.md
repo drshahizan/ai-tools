@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="../images/UNTW_poster.jpeg"  height="400" />
-  <img src="../images/jadualNTW.jpeg"  height="400" />
 </p>
 
 # Seminar 3: Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini
