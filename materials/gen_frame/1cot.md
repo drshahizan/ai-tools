@@ -29,7 +29,7 @@ Rantaian pemikiran atau _Chain of Thought_ (CoT) adalah sebuah kerangka kerja un
 |---------:|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | 1.       | **Masalah Matematik**            | "Bolehkah anda menyelesaikan persamaan kuadratik ini: \( x<sup>2</sup> - 5x + 6 = 0 \)? Let's think step-by-step." |
 | 2.       | **Analisis Risiko**              | "Apakah risiko utama dalam pelaburan ini? Let's think step-by-step." |
-| 3.       | **Penyelesaian Teka-teki Logik** | Seorang pembunuh dihukum mati. Dia perlu memilih antara tiga bilik. Yang pertama penuh dengan api yang marak, yang kedua penuh dengan pembunuh upahan dengan senjata sarat, dan yang ketiga penuh dengan singa yang tidak makan selama 3 tahun. Bilik manakah yang paling selamat untuknya? Let's think step-by-step. |
+| 3.       | **Penyelesaian Teka-teki Logik** | Seorang pembunuh dihukum mati. Dia perlu memilih di antara tiga bilik. Yang pertama penuh dengan api yang marak, yang kedua penuh dengan pembunuh upahan dengan senjata, dan yang ketiga penuh dengan singa yang tidak makan selama 3 tahun. Bilik manakah yang paling selamat untuknya? Let's think step-by-step. |
 | 4.       | **Pengambilan Keputusan Bisnes** | "Bagaimana saya boleh meningkatkan jualan syarikat? Let's think step-by-step." |
 | 5.       | **Perancangan Projek**           | "Bagaimana saya boleh merancang projek ini dengan berkesan? Let's think step-by-step." |
 
