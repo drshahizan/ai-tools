@@ -36,8 +36,7 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 
 | No | Pelajaran | Topik |
 |--------:|---------|---------|
-| 1. | Pengenalan AI | [Future of Work](../images/Future%20of%20Work%20.pdf) |
-|||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
+|1. | Pengenalan AI|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
 ||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
 | 2. | Aplikasi AI | [askLAYLA](https://justasklayla.com/) |
@@ -57,6 +56,3 @@ You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
-
-
-
