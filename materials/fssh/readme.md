@@ -19,7 +19,7 @@ The "NEXT-GEN AI-TOOLS" workshop is a comprehensive programme aimed at exploring
 | **10.00 AM** | Break                                                         |
 | **10.10 AM** | [Module 2: Maximising the potential of AI-tools in classroom experience](mod2.md) |
 | **12.30 Noon** | Lunch and prayer                                           |
-| **2.00 PM** | Module 3: Integrating AI-tools in Research Methodology classes |
+| **2.00 PM** | [Module 3: Integrating AI-tools in Research Methodology classes](mod3.md) |
 | **4.30 PM** | Afternoon tea and presentation of token of appreciation to speakers |
 | **5.00 PM** | Adjourn                                                       |
 
