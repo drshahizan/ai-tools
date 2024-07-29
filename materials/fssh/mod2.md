@@ -10,7 +10,7 @@
 
 ## Teaching Materials
 
-| No | Lesson | Topic |
+| No | Pelajaran | Topik |
 |----|--------|-------|
 | 1.| Slaid |[Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
