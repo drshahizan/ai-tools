@@ -9,9 +9,10 @@
 
 ## Additional Notes
 
-1. [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/)
-2. [Useful AI Tools](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
-3. [AI Tools for Various Tasks](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
+1. [Slide: Module 3](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Eds_7dkdcO1CsDjDBxj8sgoB4kbgFKrmuT6qDiqj5Xpo7w?e=64ozNA)
+2. [AI Tools for Literature Review](https://drshahizan.gitbook.io/ai-tools/)
+3. [Useful AI Tools](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
+4. [AI Tools for Various Tasks](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/aitools1.md)
 
 ## AI Tools
 
