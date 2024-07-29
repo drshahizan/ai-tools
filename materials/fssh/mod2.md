@@ -5,11 +5,7 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-<p align="center">
-  <img src="../images/UNTW_poster.jpeg"  height="400" />
-</p>
-
-# Seminar 3: Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini
+# Module 2: Maximising the potential of AI-tools in classroom experience
 Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengubah dan memperbaiki cara kita menjalani kehidupan seharian. Seminar turut akan menyoroti pelbagai aplikasi AI generatif, seperti pembantu maya, penghasilan kandungan automatik, dan peribadi pintar, yang bukan sahaja menjimatkan masa tetapi juga meningkatkan produktiviti dan kreativiti. Dengan memahami potensi dan implikasi teknologi ini, peserta seminar akan dapat melihat bagaimana AI generatif dapat disepadukan dalam rutin harian mereka, mempercepatkan tugas-tugas yang berulang, serta menawarkan penyelesaian inovatif bagi cabaran harian, seterusnya mendorong transformasi gaya hidup ke arah yang lebih efisien dan dinamik.
 
 ## Bahan Pengajaran
