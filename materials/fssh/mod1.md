@@ -9,6 +9,7 @@
 
 | No | Lesson | Topic |
 |--------:|---------|---------|
+| 1. | Slide | [Types of AI-tools in Enhancing Research Skills]() |
 | 1. | AI Show Case | [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) |
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
