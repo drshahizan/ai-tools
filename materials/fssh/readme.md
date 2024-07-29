@@ -15,9 +15,9 @@ The "NEXT-GEN AI-TOOLS" workshop is a comprehensive programme aimed at exploring
 |--------------|---------------------------------------------------------------|
 | **8.00 AM**  | Registration        |
 | **8.30 AM**  | Welcome address by the Deputy Dean of Research and Innovation  |
-| **8.35 AM**  | Module 1: Types of AI-Tools in Enhancing Research Skills      |
+| **8.35 AM**  | Module 1: Types of AI-tools in Enhancing Research Skills      |
 | **10.00 AM** | Break                                                         |
-| **10.10 AM** | Module 2: Maximising the potential of ChatGPT in classroom experience |
+| **10.10 AM** | Module 2: Maximising the potential of AI-tools in classroom experience |
 | **12.30 Noon** | Lunch and prayer                                           |
 | **2.00 PM** | Module 3: Integrating AI-tools in Research Methodology classes |
 | **4.30 PM** | Afternoon tea and presentation of token of appreciation to speakers |
