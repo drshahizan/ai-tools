@@ -17,7 +17,7 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../untw/signin.md)|
 |4.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](../untw/fungsi.md)|
 |  |  | [Latihan 2: Analisa dokumen menggunakan Copilot](../untw/dokumen_copilot.md)|
-|  |  | [Latihan 3: MarkMap](../materials/markmap.md)|
+|  |  | [Latihan 3: MarkMap](../markmap.md)|
 |  |  | [Latihan 4: Analisa imej menggunakan ChatGPT](../untw/dokumen_untw.md)|
 |  |  | [Latihan 5: Analisa fail csv menggunakan ChatGPT](../untw/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
