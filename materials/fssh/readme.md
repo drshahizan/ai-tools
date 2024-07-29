@@ -23,14 +23,6 @@ The "NEXT-GEN AI-TOOLS" workshop is a comprehensive programme aimed at exploring
 | **4.30 PM** | Afternoon tea and presentation of token of appreciation to speakers |
 | **5.00 PM** | Adjourn                                                       |
 
-
-## Materials
-| Module  | Topic |
-|:--------:|---------|
-| 1 | [Understanding AI in Academic Contexts]() |
-| 2 | [Generative AI]() |
-| 3 | [AI Tools for Academic Writing]() |
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
