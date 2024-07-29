@@ -28,7 +28,7 @@ Generative AI may seem simple to use, but behind the scenes, it's quite complex.
 
 | No | Pelajaran | Topik |
 |----|--------|-------|
-| 1.| Slaid |[Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)
+| 1.| Slaid |[Module 2](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../untw/signin.md)|
 |4.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](../untw/fungsi.md)|
