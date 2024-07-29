@@ -6,12 +6,12 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Module 2: Maximising the potential of AI-tools in classroom experience
-Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengubah dan memperbaiki cara kita menjalani kehidupan seharian. Seminar turut akan menyoroti pelbagai aplikasi AI generatif, seperti pembantu maya, penghasilan kandungan automatik, dan peribadi pintar, yang bukan sahaja menjimatkan masa tetapi juga meningkatkan produktiviti dan kreativiti. Dengan memahami potensi dan implikasi teknologi ini, peserta seminar akan dapat melihat bagaimana AI generatif dapat disepadukan dalam rutin harian mereka, mempercepatkan tugas-tugas yang berulang, serta menawarkan penyelesaian inovatif bagi cabaran harian, seterusnya mendorong transformasi gaya hidup ke arah yang lebih efisien dan dinamik.
 
-## Bahan Pengajaran
 
-| No | Pelajaran | Topik |
-|--------|---------|---------|
+## Teaching Materials
+
+| No | Lesson | Topic |
+|----|--------|-------|
 | 1.| Slaid |[Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)
 | 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
 | 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../untw/signin.md)|
