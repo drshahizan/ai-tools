@@ -10,10 +10,10 @@
 | No | Lesson | Topic |
 |--------:|---------|---------|
 | 1. | Slide | [Module 1](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/EQwZxgMVEKZAj78LeKphBGsBJg8sklK5OByZ1SQ0q09t1Q?e=lwi46e) |
-| 1. | AI Show Case | [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) |
+| 2. | AI Show Case | [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd) |
 |||[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
 |||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
-| 2. | AI Apps| [Roam Around](https://www.roamaround.io/) |
+| 3. | AI Apps| [Roam Around](https://www.roamaround.io/) |
 |  | | [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
