@@ -5,6 +5,9 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+ <img src="https://github.com/drshahizan/ai-tools/blob/main/images/next_gen.jpeg" alt="Image Alt Text"  height="400">
+
+
 # NEXT-GEN AI-TOOLS: ELEVATING RESEARCH AND CLASSROOM EXPERIENCE
 
 The "NEXT-GEN AI-TOOLS" workshop is a comprehensive programme aimed at exploring state-of- the-art applications of artificial intelligence tools in academic research and education. This one-day event is structured to provide participants with a series of interactive modules, each focusing on different aspects of AI integration in education and research. The first module looks at the different types of AI tools and how they can enhance research skills, providing practical examples and experiences. Participants will learn innovative strategies on how to integrate this AI tool into their teaching methods to increase engagement and learning outcomes.The third module will look at the integration of AI tools into research methodology courses. This session will demonstrate how AI can be used to increase research potential and provide a new perspective on traditional research approaches. The "NEXT-GEN AI-TOOLS" workshop promises to be an enlightening experience for educators, researchers and anyone interested in the intersection of AI and academia.
