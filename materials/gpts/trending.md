@@ -7,7 +7,7 @@
 
 # GPTs: Trending
 
-Berikut adalah jadual yang menyenaraikan GPTs paling popular dalam kategori **Trending** berdasarkan komuniti kita:
+Berikut adalah senarain GPTs paling popular dalam kategori **Trending**:
 
 | **No.** | **Nama GPT**                                                                                       | **Penerangan**                                                                                                                                                           | **Dibuat oleh**                |
 |---------:|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
