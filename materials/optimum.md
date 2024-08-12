@@ -50,7 +50,9 @@ Bengkel ini sesuai untuk mereka yang berminat dalam teknologi dan inovasi, serta
 |||[Writing (Penulisan)](../materials/gpts/writing.md)|
 |||[Productivity (Produktiviti)](../materials/gpts/productivity.md)|
 |||[Research & Analysis (Penyelidikan & Analisis)](../materials/gpts/research.md)|
-
+|||[Education (Pendidikan)](../materials/gpts/education.md)|
+|||[Lifestyle (Gaya Hidup)](../materials/gpts/lifestyle.md)|
+|||[Programming (Pengaturcaraan)](../materials/gpts/programming.md)|
 
 ## Maklumat Tambahan
 
