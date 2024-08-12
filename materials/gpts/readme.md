@@ -11,6 +11,39 @@ GPTs (Generative Pre-trained Transformers) merujuk kepada model AI yang dilatih 
 
 Dengan GPTs, anda boleh mencipta atau menemui versi ChatGPT yang telah diprogram khas untuk tujuan tertentu, seperti penulisan, penyelidikan, pendidikan, dan banyak lagi. Contohnya, terdapat GPTs yang direka khusus untuk membantu dengan penulisan artikel, pengkodan, atau sebagai tutor dalam mata pelajaran tertentu seperti matematik dan sains. Ini memberikan pengguna keupayaan untuk menyesuaikan pengalaman AI mereka mengikut keperluan individu atau perniagaan mereka.
 
+Menggunakan GPTs (Generative Pre-trained Transformers) dalam platform ChatGPT adalah mudah. Berikut adalah langkah-langkah umum untuk menggunakannya:
+
+## Cara Menggunakan GPTs:
+
+1. **Akses Laman GPTs**:
+   - Buka platform ChatGPT dan cari tab atau menu "GPTs" (jika tersedia). Ini biasanya terletak di bahagian atas atau melalui halaman utama.
+
+2. **Cari GPT yang Sesuai**:
+   - Anda boleh melihat senarai GPTs yang tersedia dalam pelbagai kategori seperti **Top Picks**, **Trending**, **Writing**, **Productivity**, dan sebagainya.
+   - Gunakan bar carian untuk mencari GPT tertentu yang sesuai dengan keperluan anda, atau semak imbas mengikut kategori.
+
+3. **Pilih dan Buka GPT**:
+   - Klik pada GPT yang anda ingin gunakan. Ini akan membuka halaman khusus untuk GPT tersebut dengan maklumat lebih lanjut.
+   - Baca penerangan mengenai alat tersebut untuk memahami fungsinya dan apa yang boleh dilakukan.
+
+4. **Masukkan Input Anda**:
+   - Setiap GPT direka untuk tujuan tertentu, seperti menulis, menganalisis data, atau mencipta gambar. Masukkan input yang diminta (contohnya, teks untuk ditulis, data untuk dianalisis, atau arahan untuk menjana imej).
+   - Beberapa GPT mungkin meminta maklumat khusus seperti fail yang perlu dimuat naik atau soalan yang perlu dijawab.
+
+5. **Tunggu Hasil**:
+   - Setelah anda memasukkan input anda, GPT akan memprosesnya dan memberikan hasilnya. Ini mungkin dalam bentuk teks, imej, laporan, atau apa sahaja yang sesuai dengan fungsi GPT tersebut.
+
+6. **Simpan atau Gunakan Hasil**:
+   - Anda boleh menyimpan hasil yang dihasilkan, menggunakannya dalam kerja anda, atau membuat pengeditan lanjut jika diperlukan.
+
+7. **Eksperimen dengan Pelbagai GPTs**:
+   - Jangan ragu untuk mencuba pelbagai GPTs untuk melihat bagaimana setiap alat boleh membantu anda dalam tugas yang berbeza.
+
+### Tips:
+- **Kenali Fungsi**: Setiap GPT mempunyai fungsi yang unik. Luangkan masa untuk memahami apa yang boleh dilakukan oleh setiap alat untuk memanfaatkannya sepenuhnya.
+- **Gunakan Arahan yang Jelas**: Memberikan arahan yang jelas dan spesifik akan membantu GPT memberikan hasil yang lebih tepat dan relevan.
+- **Periksa dan Edit**: Selalu periksa hasil yang dihasilkan oleh GPT dan buat suntingan jika perlu untuk memastikan ia sesuai dengan keperluan anda.
+
 ## Kategori GPTs
 
 | Kategori                       | Penerangan                                                                                                                                                         |  Alatan (Tools)                                                                                     |
