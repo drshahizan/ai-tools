@@ -45,6 +45,7 @@ Bengkel ini sesuai untuk mereka yang berminat dalam teknologi dan inovasi, serta
 |  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
 |  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
 |  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
+|5.|Generative Pre-trained Transformers (GPTs)||
 
 ## Maklumat Tambahan
 
