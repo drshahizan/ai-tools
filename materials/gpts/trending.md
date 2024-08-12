@@ -23,9 +23,6 @@ Berikut adalah senarain GPTs paling popular dalam kategori **Trending**:
 | 10      | [**Diagrams ‹Show Me› for Presentations, Code, Excel**](https://helpful.dev)                        | Visualisasikan apa sahaja - idea, kod, aliran perniagaan, data, kewangan. Eksport sebagai PNG, SVG. Edit dalam chat, dengan kod atau seret dan lepas.                   | helpful.dev                    |
 | 11      | **Python**                                                                                          | GPT yang sangat canggih untuk pengaturcara Python. Dioptimumkan untuk GPT-4o.                                                                                          | Nicholas Barker                |
 | 12      | [**image generator pro**](https://pulsr.co.uk)                                                      | 💎 Penjana imej paling berkuasa di dunia. 💎                                                                                                                             | pulsr.co.uk                    |
-
-Jadual ini menampilkan alat-alat yang paling popular dalam komuniti, yang merangkumi pelbagai bidang seperti penjanaan imej, penulisan kandungan, penyelidikan, dan pengaturcaraan.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
