@@ -7,6 +7,19 @@
 
 # Mengoptimumkan Produktiviti Kerja dengan menggunakan Generatif AI
 
+
+<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg" style="width:200px;"  align="left">
+
+<img src="../images/isbn.png" width="16px" height="16px" > **ISBN:** 978-983-52-1098-3 <br>
+<img src="../images/thickness.svg" width="16px" height="16px" > **Ketebalan:** 571 <br>
+<img src="../images/web.png" width="16px" height="16px" > **Web**: [Penerbit UTM Press](https://penerbit.utm.my/booksonline/pengaturcaraan-web-asp-net-menggunakan-vb-dan-c/)<br>
+
+**Sinopsis:**<br>
+Buku ini memberi pendedahan dan panduan kepada pembaca untuk membina laman web dengan menggunakan teknologi ASP.NET. Teknologi ASP.NET merupakan rangka kerja pengaturcaraan sebelah pelayan yang membolehkan pembangun laman web menghasilkan aplikasi web dan servis yang bersifat dinamik. Buku ini juga menerangkan tentang perisian Microsoft Visual Web Developer (MSVWD) yang diguna untuk menghasilkan laman web ASP.NET, kawalan piawai dan sintaks asas ASP.NET yang boleh digunakan oleh pengaturcara untuk menghasilkan laman web, struktur kawalan, rentetan, kawalan pengesahsahihan, pangkalan data, dan bahasa pertanyaan berstruktur. Selain itu, buku ini turut menyediakan banyak contoh atur cara, latihan pengaturcaraan, dan cara membangunkan aplikasi web yang melibatkan penggunaan pangkalan data bagi memahir dan mengukuhkan lagi penguasaan pembaca dalam pengaturcaraan web ASP.NET. Buku ini sesuai sebagai bahan pengajaran dan pembelajaran oleh pensyarah dan pelajar, rujukan kepada pengaturcara yang ingin mempelajari bahasa pengaturcaraan ASP.NET dengan lebih mendalam, serta pembaca umum yang berminat untuk mempelajari pengaturcaraan web dan membina laman web menggunakan ASP.NET dengan mudah dan berkesan.
+
+
+
+---
 Bengkel ini direka khusus untuk profesional dan usahawan yang ingin meningkatkan produktiviti dan kecekapan kerja dengan memanfaatkan teknologi terkini dalam bidang kecerdasan buatan (AI). Sepanjang bengkel sehari ini, peserta akan diperkenalkan kepada konsep asas Generatif AI dan bagaimana teknologi ini dapat digunakan untuk mengoptimumkan proses kerja, menjimatkan masa, dan meningkatkan hasil kerja.
 
 Peserta akan mempelajari cara menggunakan alat dan aplikasi Generatif AI yang dapat membantu dalam penulisan, analisis data, automasi tugas berulang, dan lain-lain lagi. Selain itu, bengkel ini juga akan menyentuh aspek etika dan keselamatan dalam penggunaan AI, memastikan bahawa teknologi digunakan dengan bertanggungjawab dan berkesan.
