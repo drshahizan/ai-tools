@@ -5,63 +5,23 @@
 <a href="https://github.com/drshahizan/ai-tools/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/ai-tools?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Mengoptimumkan Produktiviti Kerja dengan menggunakan Generatif AI
+# Generative Pre-trained Transformers (GPTs)
 
+GPTs (Generative Pre-trained Transformers) merujuk kepada model AI yang dilatih menggunakan teknik pembelajaran mendalam (deep learning) untuk menjana teks, memahami bahasa, dan melaksanakan pelbagai tugasan berdasarkan arahan yang diberikan. Secara khusus, dalam konteks ini, GPTs merujuk kepada versi khas ChatGPT yang boleh dikustomisasi oleh pengguna untuk menggabungkan arahan, pengetahuan tambahan, dan pelbagai kombinasi kemahiran.
 
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:200px;"  align="left">
+Dengan GPTs, anda boleh mencipta atau menemui versi ChatGPT yang telah diprogram khas untuk tujuan tertentu, seperti penulisan, penyelidikan, pendidikan, dan banyak lagi. Contohnya, terdapat GPTs yang direka khusus untuk membantu dengan penulisan artikel, pengkodan, atau sebagai tutor dalam mata pelajaran tertentu seperti matematik dan sains. Ini memberikan pengguna keupayaan untuk menyesuaikan pengalaman AI mereka mengikut keperluan individu atau perniagaan mereka.
 
-**Sinopsis:**<br>
-Bengkel ini direka khusus untuk profesional dan usahawan yang ingin meningkatkan produktiviti dan kecekapan kerja dengan memanfaatkan teknologi terkini dalam bidang kecerdasan buatan (AI). Sepanjang bengkel sehari ini, peserta akan diperkenalkan kepada konsep asas Generatif AI dan bagaimana teknologi ini dapat digunakan untuk mengoptimumkan proses kerja, menjimatkan masa, dan meningkatkan hasil kerja.
+## Kategori GPTs
 
-Peserta akan mempelajari cara menggunakan alat dan aplikasi Generatif AI yang dapat membantu dalam penulisan, analisis data, automasi tugas berulang, dan lain-lain lagi. Selain itu, bengkel ini juga akan menyentuh aspek etika dan keselamatan dalam penggunaan AI, memastikan bahawa teknologi digunakan dengan bertanggungjawab dan berkesan.
-
-Melalui sesi interaktif, latihan praktikal, dan kajian kes, peserta akan dapat memahami dengan lebih mendalam bagaimana Generatif AI boleh diintegrasikan dalam rutin kerja harian mereka. Pada akhir bengkel, peserta diharapkan mampu mengenalpasti peluang untuk mengoptimumkan produktiviti dalam bidang masing-masing menggunakan AI dan membawa pulang kemahiran praktikal yang boleh terus diaplikasikan dalam persekitaran kerja mereka.
-
-Bengkel ini sesuai untuk mereka yang berminat dalam teknologi dan inovasi, serta mereka yang ingin meneroka cara-cara baru untuk mencapai tahap produktiviti yang lebih tinggi di tempat kerja.
-
-## Bahan Pengajaran
-
-| No | Pelajaran | Topik |
-|--------|---------|---------|
-| 1.| Slaid |[Generatif AI Memudahkan Aktiviti Harian: Transformasi Gaya Hidup Masa Kini](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB)
-| 2.| Artikel |[Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/)
-| 3. | Pemasangan & Log masuk |[ChatGPT, Copilot, Gemini](../materials/untw/signin.md)|
-|4.  | Latihan | [Latihan 1: Penggunaan arahan Generatif AI](../materials/untw/fungsi.md)|
-|  |  | [Latihan 2: Analisa dokumen menggunakan Copilot](../materials/untw/dokumen_copilot.md)|
-|  |  | [Latihan 3: MarkMap](../materials/pimpin/markmap.md)|
-|  |  | [Latihan 4: Analisa imej menggunakan ChatGPT](../materials/untw/dokumen_untw.md)|
-|  |  | [Latihan 5: Analisa fail csv menggunakan ChatGPT](../materials/untw/dokumen_chatgpt.md)|
-|  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
-|  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
-|4.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
-|  |  | [Kerangka kerja RTF: _Role_, _Task_, dan _Format_](../materials/gen_frame/2rtf.md)|
-|  |  | [Kerangka kerja BAB: _Before_, _After_, _Bridge_](../materials/gen_frame/3bab.md)|
-|  |  | [Kerangka kerja TAG: _Task, Action, Goal_](../materials/gen_frame/4tag.md)|
-|  |  | [Kerangka kerja CARE: _Context, Action, Result, Example_](../materials/gen_frame/5care.md)|
-|  |  | [Kerangka kerja RISE: _Role, Input, Steps, Expectation_](../materials/gen_frame/6rise.md)|
-|  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
-|  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
-| |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
-|  |  | [ChatGPT Expert Prompts](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt.md)|
-|  |  | [215+ ChatGPT Prompts & How to Write your Own](https://writesonic.com/blog/chatgpt-prompts)|
-|  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
-
-## Maklumat Tambahan
-
-| No | Pelajaran | Topik |
-|--------:|---------|---------|
-|1. | Pengenalan AI|[Stunning AI shows how it would kill 90%. w Elon Musk](https://youtu.be/J6Mdq3n6kgk?si=4G0k5-WNH55pBMhw)|
-|||[Artificial Intelligence: 60 Minutes ](https://youtu.be/aZ5EsdnpLMI?si=3aEFdMyTnOWZTuCZ)|
-||| [Pengenalan Kepada Artificial Intelligence (AI)](https://youtu.be/kms0WrEbs0Q?si=woVk00RDgFNC5rBd)|
-| 2. | Aplikasi AI | [askLAYLA](https://justasklayla.com/) |
-|||[Trip Planner AI](https://tripplanner.ai/)|
-||| [Penyampai Radio AI Yang Pertama Di Malaysia](https://says.com/my/seismik/kenali-aina-sabrina-dj-fly-fm-juga-ai-yang-pertama-di-malaysia-sebagai-penyampai-radio)|
-|||[Sora](https://openai.com/sora)|
-||| [10 Website AI Terbaik Buat Kamu Gunakan di 2024](https://www.facebook.com/reel/671923085023778) |
-||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
-||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
-||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
-
+| **Kategori**                       | **Penerangan**                                                                                                                                                         | **Contoh Alat (Tools)**                                                                                     |
+|------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Top Picks (Pilihan Terbaik)**    | Kategori ini mengandungi alat-alat yang disarankan atau pilihan terbaik minggu ini. Ia merangkumi pelbagai jenis alat yang dinilai paling berguna atau popular pada masa tersebut. | Alat-alat yang disarankan atau pilihan terbaik mingguan, seperti "Website Generator", "CK-12 Flexi", "Wolfram".|
+| **Writing (Penulisan)**            | Kategori ini mengandungi alat yang direka khusus untuk membantu dalam penulisan. Contohnya, alat untuk menulis esei, artikel, atau kandungan kreatif. Terdapat juga GPTs yang mungkin membantu dalam penulisan teknikal atau perniagaan. | Alat untuk menulis esei, artikel, kandungan kreatif, penulisan teknikal atau perniagaan, seperti "Write For Me", "AI Humanizer". |
+| **Productivity (Produktiviti)**    | Di sini, anda akan menemui alat yang bertujuan untuk meningkatkan produktiviti. Ini boleh termasuk alat untuk pengurusan masa, pengaturan tugas, automasi proses, dan penjadualan. | Alat untuk pengurusan masa, pengaturan tugas, automasi proses, penjadualan, seperti "Canva", "Video GPT by VEED". |
+| **Research & Analysis (Penyelidikan & Analisis)** | Alat dalam kategori ini membantu pengguna dalam menjalankan penyelidikan dan menganalisis data. Ini mungkin termasuk alat untuk carian literatur, analisis statistik, atau pengumpulan data. | Alat untuk carian literatur, analisis statistik, pengumpulan data, seperti "Scholar GPT", "Consensus".       |
+| **Education (Pendidikan)**         | Kategori ini mengandungi alat yang disesuaikan untuk tujuan pendidikan. Ia mungkin merangkumi tutor AI dalam subjek seperti matematik, sains, atau bahasa, serta alat untuk pembelajaran kendiri. | Alat pendidikan seperti tutor AI dalam matematik, sains, atau bahasa, seperti "Math Solver", "Tutor Me".       |
+| **Lifestyle (Gaya Hidup)**         | Dalam kategori ini, anda akan menemui alat yang membantu dalam aspek-aspek gaya hidup seperti kesihatan, kebahagiaan, rekreasi, dan perancangan kehidupan seharian. | Alat untuk kesihatan, kebahagiaan, rekreasi, dan perancangan kehidupan, seperti "Astrology Birth Chart GPT", "Planty". |
+| **Programming (Pengaturcaraan)**   | Kategori ini mengandungi alat yang direka untuk membantu dalam pengaturcaraan. Ini mungkin termasuk GPTs yang boleh menulis kod, membantu dalam debugging, atau menyediakan tutorial dalam pelbagai bahasa pengaturcaraan. | Alat untuk menulis kod, debugging, tutorial pengaturcaraan, seperti "Code Copilot", "Python".                  |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
