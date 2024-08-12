@@ -6,7 +6,14 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Mengoptimumkan Produktiviti Kerja dengan menggunakan Generatif AI
-Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengubah dan memperbaiki cara kita menjalani kehidupan seharian. Seminar turut akan menyoroti pelbagai aplikasi AI generatif, seperti pembantu maya, penghasilan kandungan automatik, dan peribadi pintar, yang bukan sahaja menjimatkan masa tetapi juga meningkatkan produktiviti dan kreativiti. Dengan memahami potensi dan implikasi teknologi ini, peserta seminar akan dapat melihat bagaimana AI generatif dapat disepadukan dalam rutin harian mereka, mempercepatkan tugas-tugas yang berulang, serta menawarkan penyelesaian inovatif bagi cabaran harian, seterusnya mendorong transformasi gaya hidup ke arah yang lebih efisien dan dinamik.
+
+Bengkel ini direka khusus untuk profesional dan usahawan yang ingin meningkatkan produktiviti dan kecekapan kerja dengan memanfaatkan teknologi terkini dalam bidang kecerdasan buatan (AI). Sepanjang bengkel sehari ini, peserta akan diperkenalkan kepada konsep asas Generatif AI dan bagaimana teknologi ini dapat digunakan untuk mengoptimumkan proses kerja, menjimatkan masa, dan meningkatkan hasil kerja.
+
+Peserta akan mempelajari cara menggunakan alat dan aplikasi Generatif AI yang dapat membantu dalam penulisan, analisis data, automasi tugas berulang, dan lain-lain lagi. Selain itu, bengkel ini juga akan menyentuh aspek etika dan keselamatan dalam penggunaan AI, memastikan bahawa teknologi digunakan dengan bertanggungjawab dan berkesan.
+
+Melalui sesi interaktif, latihan praktikal, dan kajian kes, peserta akan dapat memahami dengan lebih mendalam bagaimana Generatif AI boleh diintegrasikan dalam rutin kerja harian mereka. Pada akhir bengkel, peserta diharapkan mampu mengenalpasti peluang untuk mengoptimumkan produktiviti dalam bidang masing-masing menggunakan AI dan membawa pulang kemahiran praktikal yang boleh terus diaplikasikan dalam persekitaran kerja mereka.
+
+Bengkel ini sesuai untuk mereka yang berminat dalam teknologi dan inovasi, serta mereka yang ingin meneroka cara-cara baru untuk mencapai tahap produktiviti yang lebih tinggi di tempat kerja.
 
 ## Bahan Pengajaran
 
