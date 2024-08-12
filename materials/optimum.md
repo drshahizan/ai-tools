@@ -47,6 +47,11 @@ Bengkel ini sesuai untuk mereka yang berminat dalam teknologi dan inovasi, serta
 |  |  | [Chat with Copilot regarding the PDF file](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/copilot.md)|
 |5.|[Generative Pre-trained Transformers (GPTs)](https://github.com/drshahizan/ai-tools/blob/main/materials/gpts/readme.md)|[Trending](../materials/gpts/trending.md)|
 |||[By ChatGPT](../materials/gpts/bychatgpt.md)|
+|||[Writing (Penulisan)](../materials/gpts/writing.md)|
+|||[Productivity (Produktiviti)](../materials/gpts/productivity.md)|
+|||[Research & Analysis (Penyelidikan & Analisis)](../materials/gpts/research.md)|
+
+
 ## Maklumat Tambahan
 
 | No | Pelajaran | Topik |
