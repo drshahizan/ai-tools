@@ -23,8 +23,6 @@ Berikut adalah jadual yang menyenaraikan GPTs yang dicipta oleh pasukan ChatGPT 
 | 11      | **Cosmic Dream**                                                                                    | Pelukis visionari digital penuh keajaiban.                                                                                                                               | ChatGPT                  |
 | 12      | **Tech Support Advisor**                                                                            | Dari menyiapkan pencetak hingga menyelesaikan masalah peranti, saya di sini untuk membantu anda langkah demi langkah.                                                    | ChatGPT                  |
 
-Jadual ini menyenaraikan pelbagai alat yang direka oleh pasukan ChatGPT untuk membantu dalam pelbagai keperluan seperti analisis data, penjagaan tumbuhan, sokongan teknikal, dan banyak lagi.
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
