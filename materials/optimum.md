@@ -8,7 +8,7 @@
 # Mengoptimumkan Produktiviti Kerja dengan menggunakan Generatif AI
 
 
-<img src="https://drshahizan.github.io/assets/images/buku/Pengaturcaraan-Web-ASP.-NET-Menggunakan-VB-dan-C.jpg" style="width:200px;"  align="left">
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:200px;"  align="left">
 
 <img src="../images/isbn.png" width="16px" height="16px" > **ISBN:** 978-983-52-1098-3 <br>
 <img src="../images/thickness.svg" width="16px" height="16px" > **Ketebalan:** 571 <br>
