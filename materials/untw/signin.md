@@ -24,6 +24,14 @@
 - Log masuk menggunakan **Akaun Google** anda.
 - Gemini menyediakan bantuan dalam menulis, merancang, belajar, dan banyak lagi, dikuasakan oleh Google AI.
 
+## 4.  NotebookLM
+
+- Open NotebookLM: Launch the NotebookLM app or navigate to the [NotebookLM website](https://notebooklm.google.com/).
+- Click on "Sign In": Look for the "Sign In" button and click on it.
+- Enter Google Account Credentials: Input your Google account email and password.
+- Authorize Access: Grant NotebookLM permission to access your Google Docs and other relevant files.
+- Access Your Notes: Once logged in, you can start organizing and analyzing your notes with NotebookLM.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
