@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fai-tools&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Managing Change as a Leader in Digital Transformative Era
-## Understanding AI, Data Science and Its Use in Universities & How AI tools can be used by University Academic Managers
+## Slot 3 & 4: Understanding AI, Data Science and Its Use in Universities & How AI tools can be used by University Academic Managers
 
 
 <img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:200px;"  align="left">
