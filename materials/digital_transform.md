@@ -9,7 +9,7 @@
 ## Slot 3 & 4: Understanding AI, Data Science and Its Use in Universities & How AI tools can be used by University Academic Managers
 
 
-<img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:200px;"  align="left">
+<img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:250px;"  align="left">
 
 **Synopsis:**<br>
 This workshop is designed to demystify the concepts of Artificial Intelligence (AI) and Data Science, particularly in the context of higher education. Participants will gain a comprehensive understanding of how these technologies are reshaping the landscape of academia, from enhancing teaching and learning experiences to streamlining administrative functions.
