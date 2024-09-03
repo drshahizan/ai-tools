@@ -12,13 +12,13 @@
 <img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:200px;"  align="left">
 
 **Sinopsis:**<br>
-Bengkel ini direka khusus untuk profesional dan usahawan yang ingin meningkatkan produktiviti dan kecekapan kerja dengan memanfaatkan teknologi terkini dalam bidang kecerdasan buatan (AI). Sepanjang bengkel sehari ini, peserta akan diperkenalkan kepada konsep asas Generatif AI dan bagaimana teknologi ini dapat digunakan untuk mengoptimumkan proses kerja, menjimatkan masa, dan meningkatkan hasil kerja.
+This workshop is designed to demystify the concepts of Artificial Intelligence (AI) and Data Science, particularly in the context of higher education. Participants will gain a comprehensive understanding of how these technologies are reshaping the landscape of academia, from enhancing teaching and learning experiences to streamlining administrative functions.
 
-Peserta akan mempelajari cara menggunakan alat dan aplikasi Generatif AI yang dapat membantu dalam penulisan, analisis data, automasi tugas berulang, dan lain-lain lagi. Selain itu, bengkel ini juga akan menyentuh aspek etika dan keselamatan dalam penggunaan AI, memastikan bahawa teknologi digunakan dengan bertanggungjawab dan berkesan.
+The workshop will begin with an introduction to the fundamentals of AI and Data Science, exploring their core principles, current applications, and future potential. This will be followed by a deep dive into how these technologies are being integrated into university settings, including examples of successful implementations worldwide.
 
-Melalui sesi interaktif, latihan praktikal, dan kajian kes, peserta akan dapat memahami dengan lebih mendalam bagaimana Generatif AI boleh diintegrasikan dalam rutin kerja harian mereka. Pada akhir bengkel, peserta diharapkan mampu mengenalpasti peluang untuk mengoptimumkan produktiviti dalam bidang masing-masing menggunakan AI dan membawa pulang kemahiran praktikal yang boleh terus diaplikasikan dalam persekitaran kerja mereka.
+A key focus will be on the practical use of AI tools by university academic managers. Participants will learn how AI can assist in decision-making processes, optimize resource allocation, and improve student outcomes. Through interactive sessions, attendees will explore case studies and participate in hands-on activities, demonstrating how AI tools can be leveraged for curriculum design, student performance analysis, and operational efficiency.
 
-Bengkel ini sesuai untuk mereka yang berminat dalam teknologi dan inovasi, serta mereka yang ingin meneroka cara-cara baru untuk mencapai tahap produktiviti yang lebih tinggi di tempat kerja.
+By the end of the workshop, academic managers will be equipped with the knowledge and skills to effectively incorporate AI and Data Science into their institutions, driving innovation and maintaining a competitive edge in the rapidly evolving educational landscape.
 
 ## Bahan Pengajaran
 
