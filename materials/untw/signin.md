@@ -23,7 +23,7 @@
 - Akses [aplikasi web Gemini](https://gemini.google.com/app).
 - Log masuk menggunakan **Akaun Google** anda.
 - Gemini menyediakan bantuan dalam menulis, merancang, belajar, dan banyak lagi, dikuasakan oleh Google AI.
-- 
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
 
