@@ -11,7 +11,7 @@
 
 <img src="https://github.com/drshahizan/ai-tools/blob/main/images/Gambar.webp" style="width:200px;"  align="left">
 
-**Sinopsis:**<br>
+**Synopsis:**<br>
 This workshop is designed to demystify the concepts of Artificial Intelligence (AI) and Data Science, particularly in the context of higher education. Participants will gain a comprehensive understanding of how these technologies are reshaping the landscape of academia, from enhancing teaching and learning experiences to streamlining administrative functions.
 
 The workshop will begin with an introduction to the fundamentals of AI and Data Science, exploring their core principles, current applications, and future potential. This will be followed by a deep dive into how these technologies are being integrated into university settings, including examples of successful implementations worldwide.
