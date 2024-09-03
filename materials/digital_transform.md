@@ -26,7 +26,7 @@ By the end of the workshop, academic managers will be equipped with the knowledg
 |--------|---------|---------|
 | 1. | Slides | [Generative AI Simplifies Daily Activities: Transforming Modern Lifestyles](https://liveutm-my.sharepoint.com/:b:/g/personal/shahizan_live_utm_my/Ea4jHzBjWThBoiMKH93K5vQBWWfEFBIARMYtOUZf5sGs7Q?e=C5ZIoB) |
 | 2. | Article | [Generative AI Global Interest Report 2023](https://www.electronicshub.org/generative-ai-global-interest-report-2023/) |
-| 3. | Installation & Login | [ChatGPT, Copilot, Gemini](../materials/untw/signin.md) |
+| 3. | Installation & Login | [ChatGPT, Copilot, Gemini & NotebookLM](../materials/untw/signin.md) |
 | 4. | Exercises | [Exercise 1: Using Generative AI Commands](../materials/untw/fungsi.md) |
 |  |  | [Exercise 2: Document Analysis with Copilot](../materials/untw/dokumen_copilot.md) |
 |  |  | [Exercise 3: MarkMap](../materials/pimpin/markmap.md) |
