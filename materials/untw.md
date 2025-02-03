@@ -26,12 +26,12 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 |  |  | [Latihan 5: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
-|4.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](../materials/gen_frame/1cot.md)|
-|  |  | [Kerangka kerja RTF: _Role_, _Task_, dan _Format_](../materials/gen_frame/2rtf.md)|
-|  |  | [Kerangka kerja BAB: _Before_, _After_, _Bridge_](../materials/gen_frame/3bab.md)|
-|  |  | [Kerangka kerja TAG: _Task, Action, Goal_](../materials/gen_frame/4tag.md)|
-|  |  | [Kerangka kerja CARE: _Context, Action, Result, Example_](../materials/gen_frame/5care.md)|
-|  |  | [Kerangka kerja RISE: _Role, Input, Steps, Expectation_](../materials/gen_frame/6rise.md)|
+|4.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/1cot.md)|
+|  |  | [Kerangka kerja RTF: _Role_, _Task_, dan _Format_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/2rtf.md)|
+|  |  | [Kerangka kerja BAB: _Before_, _After_, _Bridge_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/3bab.md)|
+|  |  | [Kerangka kerja TAG: _Task, Action, Goal_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/4tag.md)|
+|  |  | [Kerangka kerja CARE: _Context, Action, Result, Example_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/5care.md)|
+|  |  | [Kerangka kerja RISE: _Role, Input, Steps, Expectation_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/6rise.md)|
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
 |  |  | [ChatGPT Prompts for Academic Writing](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_academic.md)|
 | |  | [Effective prompts](https://drshahizan.gitbook.io/copywriting-chatgpt/prompts/effective-prompts)|
@@ -54,7 +54,6 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 ||| [Mudah banget buat video cerita kartun animasi 3D pakai](https://www.youtube.com/watch?v=6IYBxbpKato)|
 ||| [Cara Bikin Konten AI VIRAL dengan Bing Chat + CapCut](https://youtu.be/ed30BLkVpis?si=Z6XmTWxVO1PC_kyv)|
 ||| [10 Best AI Presentation Generators](https://www.unite.ai/best-ai-presentation-generators/)|
-
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/ai-tools/issues) for any improvements, suggestions or errors in the content.
