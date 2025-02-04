@@ -26,10 +26,10 @@ Seminar ini membincangkan bagaimana teknologi kecerdasan buatan generatif mengub
 |  |  | [Latihan 5: Analisa fail csv menggunakan ChatGPT](https://github.com/drshahizan/ai-tools/blob/main/materials/untw/dokumen_chatgpt.md)|
 |  |  | [Latihan 6: Malaysian Cultural Artistry](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/drawing.md) |
 |  |  | [Think Machine: Multidimensional Mind Mapping](https://thinkmachine.com/) |
-|4.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/1cot.md)|
-|  |  | [Kerangka kerja RTF: _Role_, _Task_, dan _Format_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/2rtf.md)|
-|  |  | [Kerangka kerja BAB: _Before_, _After_, _Bridge_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/3bab.md)|
-|  |  | [Kerangka kerja TAG: _Task, Action, Goal_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/gen_frame/4tag.md)|
+|4.  | Arahan | [Kerangka kerja Rantaian Pemikiran (CoT)](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/1cot.md)|
+|  |  | [Kerangka kerja RTF: _Role_, _Task_, dan _Format_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/2rtf.md)|
+|  |  | [Kerangka kerja BAB: _Before_, _After_, _Bridge_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/3bab.md)|
+|  |  | [Kerangka kerja TAG: _Task, Action, Goal_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/4tag.md)|
 |  |  | [Kerangka kerja CARE: _Context, Action, Result, Example_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/5care.md)|
 |  |  | [Kerangka kerja RISE: _Role, Input, Steps, Expectation_](https://github.com/drshahizan/ai-tools/blob/main/materials/gen_frame/6rise.md)|
 |  |  | [ChatGPT Prompts For Research Papers](https://github.com/drshahizan/Generative-AI-Playground/blob/main/materials/prompt_research.md)|
